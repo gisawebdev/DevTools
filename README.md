@@ -57,7 +57,9 @@
 • [W3School](http://www.w3schools.com/html)
 
 • [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
+
 • [W3C validator](https://validator.w3.org)
+
 • [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
 
 ## Iconos
