@@ -175,7 +175,7 @@
 
 • [Animaciones](https://daneden.github.io/animate.css/)
 
-• [Patronres](https://freebiesupply.com/blog/css-background-patterns/)
+• [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
 
 ## Inspiración
 • [Site Inspire](https://www.siteinspire.com)
