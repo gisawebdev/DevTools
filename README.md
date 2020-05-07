@@ -177,6 +177,10 @@
 
 • [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
 
+• [SKELETON.CSS](http://getskeleton.com/)
+
+• [Normalize.css](https://necolas.github.io/normalize.css/)
+
 ## Inspiración
 • [Site Inspire](https://www.siteinspire.com)
 
