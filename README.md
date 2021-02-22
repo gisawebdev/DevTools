@@ -27,194 +27,196 @@
 • [Postman](https://www.postman.com/)
 
 ## Articles
-• [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
-
-• [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/)
-
-• [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 • [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-• [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+• [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 • [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
+• [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+
+• [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
+
+• [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/)
 
 ## BackEnd
 • [Deno](https://deno.land/)
 
 • [Express](https://babeljs.io/)
 
+• [Hapi](https://hapi.dev/)
+
 • [Strapi](https://strapi.io/)
 
 • [Node.js](https://nodejs.org/)
-
-• [Hapi](https://hapi.dev/)
 ## Blogs
 • [Hashnode](https://hashnode.com/)
 
 ## Bundles
-• [WebPack](https://webpack.js.org/)
+• [Create App](https://createapp.dev/)
 
 • [EsBuild](https://esbuild.github.io/)
 
-• [Create App](https://createapp.dev/)
+• [WebPack](https://webpack.js.org/)
 
 ## Challenges
-• [FrontEndMentor](https://www.frontendmentor.io/)
-
-• [CSSBattle](https://cssbattle.dev/)
-
 • [Ace FrontEnd](https://www.acefrontend.com/)
-
-• [100 days css](https://100dayscss.com/)
-
-• [Codier](https://codier.io/)
-
-• [Css-Tricks](https://css-tricks.com/)
 
 • [Codepen](https://codepen.io/challenges)
 
-• [Frontloops](https://frontloops.io/)
+• [Codier](https://codier.io/)
+
+• [CSSBattle](https://cssbattle.dev/)
+
+• [Css-Tricks](https://css-tricks.com/)
 
 • [Daily UI](https://www.dailyui.co/)
 
 • [DevChallenges](https://devchallenges.io/)
 
+• [FrontEndMentor](https://www.frontendmentor.io/)
+
+• [Frontloops](https://frontloops.io/)
+
+• [100 days css](https://100dayscss.com/)
+
 ## Chrome Extension
-• [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es)
-
-• [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
-
-• [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es)
-
-• [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es)
-
-• [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
-
-• [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=en)
-
-• [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
-
-• [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en)
-
-• [CSS - Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp)
-
-• [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
-
-• [Click and Clean](https://chrome.google.com/webstore/detail/click-and-clean/mgngmngjioknlgjjaiiamcdbahombpfb?hl=en)
-
-• [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn)
-
-• [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc)
-
-• [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
-
-• [Search Stackoverflow](https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj)
-
-• [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj?hl=es)
-
-• [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm)
-
-• [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd?hl=es)
-
-• [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=es)
-
-• [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=es)
 
 • [Adblock para Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=es)
 
+• [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=es)
+
+• [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd?hl=es)
+
+• [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+• [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
+
+• [Click and Clean](https://chrome.google.com/webstore/detail/click-and-clean/mgngmngjioknlgjjaiiamcdbahombpfb?hl=en)
+
+• [CSS - Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp)
+
+• [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es)
+
+• [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+
+• [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj?hl=es)
+
+• [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es)
+
+• [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=en)
+
+• [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es)
+
+• [Search Stackoverflow](https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj)
+
+• [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en)
+
+• [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=es)
+
+• [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
+
+• [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm)
+
+• [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc)
+
 • [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
 
+• [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn)
+
+• [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
+
 ## Colors
-• [uigradients](https://uigradients.com/#Socialive)
+• [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+
+• [ColorHexa](https://www.colorhexa.com)
 
 • [Color Hunt](https://colorhunt.co/palettes)
+
+• [Coolors.co](https://coolors.co/app)
 
 • [Flatuicolors](http://flatuicolors.com)
 
 • [getUiColors](http://getuicolors.com)
 
-• [Variaciones de Colores](http://www.0to255.com)
-
-• [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
-
-• [Paletton](http://paletton.com)
-
 • [Introducción a Teoría de Color para Diseñadores Web](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
 
 • [MaterialCSS](http://materializecss.com/color.html)
 
-• [Coolors.co](https://coolors.co/app)
+• [Paletton](http://paletton.com)
 
-• [ColorHexa](https://www.colorhexa.com)
+• [uigradients](https://uigradients.com/#Socialive)
+
+• [Variaciones de Colores](http://www.0to255.com)
 
 ## CSS3 
-• [css-separator-generator](https://wweb.dev/resources/css-separator-generator)
-
-• [fancy corners with CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/)
-
-• [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/)
-
-• [Snippets](https://tympanus.net/codrops/css_reference/)
-
-• [Selectores de CSS que debes memorizar](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-
 • [Animate.css](https://animate.style/)
 
-• [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
-
-• [Skeleton.CSS](http://getskeleton.com/)
-
-• [Normalize.css](https://necolas.github.io/normalize.css/)
-
-• [Sass](https://sass-lang.com/)
-
-• [Pure.css](https://purecss.io/)
+• [AOS](https://michalsnik.github.io/aos/)
 
 • [BootStrap](https://getbootstrap.com/)
 
 • [Bulma](https://bulma.io/)
 
-• [TailWind](https://tailwindcss.com/)
-
-• [Foundation](https://get.foundation/)
-
-• [EDgrid](https://ed-grid.com/)
-
-• [AOS](https://michalsnik.github.io/aos/)
-
-• [Tail-Kit](https://www.tailwind-kit.com/)
-
-• [Custom Shape Dividers](https://www.shapedivider.app/)
-
-• [TailBlocks](https://tailblocks.cc/)
-
 • [csseffects](https://emilkowalski.github.io/css-effects-snippets/)
 
 • [Css Gradient](https://cssgradient.io/)
 
-• [Little Snippets](https://www.littlesnippets.net/)
+• [css-separator-generator](https://wweb.dev/resources/css-separator-generator)
+
+• [Custom Shape Dividers](https://www.shapedivider.app/)
+
+• [EDgrid](https://ed-grid.com/)
+
+• [fancy corners with CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/)
+
+• [Foundation](https://get.foundation/)
 
 • [html-css-js.com](https://html-css-js.com/css/generator/box-shadow/)
 
+• [Little Snippets](https://www.littlesnippets.net/)
+
+• [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
+
+• [Sass](https://sass-lang.com/)
+
+• [Selectores de CSS que debes memorizar](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+• [Skeleton.CSS](http://getskeleton.com/)
+
+• [Snippets](https://tympanus.net/codrops/css_reference/)
+
+• [Normalize.css](https://necolas.github.io/normalize.css/)
+
+• [Pure.css](https://purecss.io/)
+
+• [Tail-Kit](https://www.tailwind-kit.com/)
+
+• [TailBlocks](https://tailblocks.cc/)
+
+• [TailWind](https://tailwindcss.com/)
+
+• [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/)
+
 ## Design
-• [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-
 • [Ant Design](https://ant.design/)
-
-• [Semantic UI](https://semantic-ui.com/)
-
-• [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/)
-
-• [Element-UI](https://madewithvuejs.com/element-ui)
 
 • [AppMockUp](https://app-mockup.com/)
 
-• [Photopea](https://www.photopea.com/)
+• [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
 • [Canva](https://www.canva.com/)
 
+• [Element-UI](https://madewithvuejs.com/element-ui)
+
 • [Figma](https://www.figma.com/)
+
+• [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/)
+
+• [Photopea](https://www.photopea.com/)
+
+• [Semantic UI](https://semantic-ui.com/)
 
 ## Developing
 • [Caracterisiticas de Google Chrome que no estas usando](https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/)
@@ -227,161 +229,150 @@
 • [Draw.io](https://www.draw.io/)
 
 ## Domain
-• [NameCheap](https://www.namecheap.com/)
-
 • [Hostinger](https://www.hostinger.com/)
 
 • [Hostgator](https://www.hostgator.com/)
+
+• [NameCheap](https://www.namecheap.com/)
 ## Formmater
 • [Prettier](https://prettier.io/)
 
 ## Hosting
-• [Vercel](https://vercel.com/)
-
-• [Surge](https://surge.sh/)
+• [Digital Ocean](https://www.digitalocean.com/)
 
 • [Firebase](https://firebase.google.com/)
 
-• [Netlify](https://www.netlify.com/)
-
 • [Heroku](https://www.heroku.com/)
 
-• [Digital Ocean](https://www.digitalocean.com/)
+• [Netlify](https://www.netlify.com/)
+
+• [Surge](https://surge.sh/)
+
+• [Vercel](https://vercel.com/)
 
 ## HTML5 
+• [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
+
+• [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
 
 • [Pixeden](https://www.pixeden.com/free-design-web-resources)
 
 • [W3School](http://www.w3schools.com/html)
 
-• [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
-
 • [W3C validator](https://validator.w3.org)
-
-• [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
-
 ## Icons
-• [Font Awesome](https://fontawesome.com/)
-
-• [Material Icons](https://material.io/resources/icons/?style=baseline)
-
-• [Iconmonstr](https://iconmonstr.com/)
-
-• [Iconos8](https://iconos8.es/)
-
-• [Iconfinder](https://www.iconfinder.com/)
-
-• [The Noun Project](https://thenounproject.com/)
-
 • [Feather Icons](https://feathericons.com/)
 
-• [Polaris icon](https://polaris-icons.shopify.com/)
-
-• [IconScout](https://iconscout.com/)
+• [Font Awesome](https://fontawesome.com/)
 
 • [Flaticon](https://www.flaticon.com/)
 
+• [Iconfinder](https://www.iconfinder.com/)
+
+• [Iconmonstr](https://iconmonstr.com/)
+
+• [IconScout](https://iconscout.com/)
+
 • [IconShock](https://www.iconshock.com/)
 
+• [Iconos8](https://iconos8.es/)
+
+• [Material Icons](https://material.io/resources/icons/?style=baseline)
+
+• [Polaris icon](https://polaris-icons.shopify.com/)
+
+• [The Noun Project](https://thenounproject.com/)
+
 ## Inspiration
-• [Site Inspire](https://www.siteinspire.com)
-
-• [Dribble](https://dribbble.com)
-
-• [behance](https://www.behance.net)
-
-• [One Page Love](https://onepagelove.com)
-
 • [Admire the web](http://www.admiretheweb.com)
-
-• [Flatdsgn](http://flatdsgn.com)
-
-• [Colección de elementos de Diseño](http://calltoidea.com)
-
-• [Más recursos de desarrolladores frontEnd](https://github.com/dypsilon/frontend-dev-bookmarks)
-
-• [oozled](http://oozled.com)
 
 • [Awwwards](https://www.awwwards.com)
 
+• [behance](https://www.behance.net)
+
+• [Colección de elementos de Diseño](http://calltoidea.com)
+
+• [Dribble](https://dribbble.com)
+
+• [Flatdsgn](http://flatdsgn.com)
+
+• [Más recursos de desarrolladores frontEnd](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+• [One Page Love](https://onepagelove.com)
+
+• [oozled](http://oozled.com)
+
+• [Site Inspire](https://www.siteinspire.com)
 ## JavaScript 
-
-• [Chart.js](https://www.chartjs.org/)
-
-• [Moment.js](https://momentjs.com/)
-
-• [Hammer.js](https://hammerjs.github.io/)
-
-• [D3.js](https://d3js.org/)
-
-• [Immer.js](https://github.com/immerjs/immer)
-
-• [Draggable](https://shopify.github.io/draggable/)
-
-• [Axios](https://github.com/axios/axios)
-
-• [Redux](https://redux.js.org/introduction/getting-started)
-
-• [CodeMirror](https://codemirror.net/)
-
-• [Video.js](https://videojs.com/)
-
-• [Audio.js](https://kolber.github.io/audiojs/)
-
-• [Tone.js](https://tonejs.github.io/)
-
-• [Chartist.js](https://gionkunz.github.io/chartist-js/)
-
-• [ApexCharts.js](https://apexcharts.com/)
-
-• [Recharts](https://recharts.org/en-US/)
-
-• [Socket](https://socket.io/)
-
-• [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
-
-• [FullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs)
-
-• [Sortable.js](https://sortablejs.github.io/Sortable/)
-
-• [Cleave.js](https://nosir.github.io/cleave.js/)
-
-• [Glimmer](https://glimmerjs.com/)
+• [Algolia Places](https://community.algolia.com/places/)
 
 • [Anime.js](https://animejs.com/)
 
-• [Algolia Places](https://community.algolia.com/places/)
+• [ApexCharts.js](https://apexcharts.com/)
+
+• [Audio.js](https://kolber.github.io/audiojs/)
+
+• [Axios](https://github.com/axios/axios)
 
 • [Bideo.js](https://rishabhp.github.io/bideo.js/)
 
+• [Chart.js](https://www.chartjs.org/)
+
+• [Chartist.js](https://gionkunz.github.io/chartist-js/)
+
 • [Choreographer.js](https://christinecha.github.io/choreographer-js/)
 
-• [Underscore.js](https://underscorejs.org/)
-
-• [Popper.js](https://popper.js.org/)
-
-• [NProgress.js](https://ricostacruz.com/nprogress/)
-
-• [TypeWriter.js](https://safi.me.uk/typewriterjs/)
-
-• [TypeIt](https://www.typeit.org/)
-
-• [Typed.js](https://mattboldt.github.io/typed.js/)
-
-• [Hammer.js](https://hammerjs.github.io/)
+• [Cleave.js](https://nosir.github.io/cleave.js/)
 
 • [CodeMirror](https://codemirror.net/)
 
-• [Immer](https://immerjs.github.io/immer/docs/introduction)
+• [Draggable](https://shopify.github.io/draggable/)
 
-• [Ramda](https://ramdajs.com/)
+• [D3.js](https://d3js.org/)
 
 • [Faker.js](https://github.com/marak/Faker.js/)
 
-## Linters
-• [JSLint](https://jslint.com/)
+• [FullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs)
 
+• [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
+
+• [Glimmer](https://glimmerjs.com/)
+
+• [Hammer.js](https://hammerjs.github.io/)
+
+• [Immer.js](https://github.com/immerjs/immer)
+
+• [Moment.js](https://momentjs.com/)
+
+• [NProgress.js](https://ricostacruz.com/nprogress/)
+
+• [Popper.js](https://popper.js.org/)
+
+• [Ramda](https://ramdajs.com/)
+
+• [Recharts](https://recharts.org/en-US/)
+
+• [Redux](https://redux.js.org/introduction/getting-started)
+
+• [Socket](https://socket.io/)
+
+• [Sortable.js](https://sortablejs.github.io/Sortable/)
+
+• [Tone.js](https://tonejs.github.io/)
+
+• [Typed.js](https://mattboldt.github.io/typed.js/)
+
+• [TypeIt](https://www.typeit.org/)
+
+• [TypeWriter.js](https://safi.me.uk/typewriterjs/)
+
+• [Underscore.js](https://underscorejs.org/)
+
+• [Video.js](https://videojs.com/)
+## Linters
 • [ESLint](https://eslint.org/)
+
+• [JSLint](https://jslint.com/)
 ## Manager
 • [Google Tag Manager](https://stripe.com/)
 ## Maps
