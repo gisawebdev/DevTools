@@ -269,6 +269,8 @@
 
 • [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
+• [emojifinder](https://emojifinder.com/)
+
 ## Design
 • [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
