@@ -1,5 +1,85 @@
 # Dev Tools
 
+## Angular 
+• [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/)
+
+• [AngularFire](https://github.com/angular/angularfire)
+
+• [Angular Material](https://material.angular.io/)
+
+• [Angular Tips](https://auth0.com/blog/angular-9s-best-hidden-feature-strict-template-checking/)
+
+• [Angular / Cordova](https://medium.com/@nacojohn/convert-your-angular-project-to-mobile-app-using-cordova-f0384a7711a6)
+
+• [ng2-charts](https://valor-software.com/ng2-charts/)
+
+• [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
+
+• [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/)
+
+## API Request
+• [Curl](https://curl.se/)
+
+• [Hoppscotch](https://hoppscotch.io/)
+
+• [Insomnia](https://insomnia.rest/)
+
+• [Postman](https://www.postman.com/)
+
+## Articles
+• [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
+
+• [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/)
+
+• [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+• [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+• [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+
+• [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
+## BackEnd
+• [Deno](https://deno.land/)
+
+• [Express](https://babeljs.io/)
+
+• [Strapi](https://strapi.io/)
+
+• [Node.js](https://nodejs.org/)
+
+• [Hapi](https://hapi.dev/)
+## Blogs
+• [Hashnode](https://hashnode.com/)
+
+## Bundles
+• [WebPack](https://webpack.js.org/)
+
+• [EsBuild](https://esbuild.github.io/)
+
+• [Create App](https://createapp.dev/)
+
+## Challenges
+• [FrontEndMentor](https://www.frontendmentor.io/)
+
+• [CSSBattle](https://cssbattle.dev/)
+
+• [Ace FrontEnd](https://www.acefrontend.com/)
+
+• [100 days css](https://100dayscss.com/)
+
+• [Codier](https://codier.io/)
+
+• [Css-Tricks](https://css-tricks.com/)
+
+• [Codepen](https://codepen.io/challenges)
+
+• [Frontloops](https://frontloops.io/)
+
+• [Daily UI](https://www.dailyui.co/)
+
+• [DevChallenges](https://devchallenges.io/)
+
 ## Chrome Extension
 • [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es)
 
@@ -45,74 +125,6 @@
 
 • [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
 
-## Payment
-• [Stripe](https://tagmanager.google.com/)
-
-## Manager
-• [Google Tag Manager](https://stripe.com/)
-
-## Angular 
-• [AngularFire](https://github.com/angular/angularfire)
-
-• [ng2-charts](https://valor-software.com/ng2-charts/)
-
-• [Angular Material](https://material.angular.io/)
-
-• [Angular Tips](https://auth0.com/blog/angular-9s-best-hidden-feature-strict-template-checking/)
-
-• [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/)
-
-• [Angular / Cordova](https://medium.com/@nacojohn/convert-your-angular-project-to-mobile-app-using-cordova-f0384a7711a6)
-
-• [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/)
-
-• [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
-
-## React 
-• [create-react-app](https://create-react-app.dev/docs/getting-started/)
-
-• [Nextjs](https://nextjs.org/)
-
-• [MATERIAL-UI](https://material-ui.com/es/)
-
-• [REBASS](https://rebassjs.org/)
-
-• [React Bootstrap](https://react-bootstrap.github.io/)
-
-• [Gatsby.js](https://www.gatsbyjs.com/)
-
-• [Redux](https://redux.js.org/)
-
-• [ReactiveX](http://reactivex.io/)
-
-• [Chakra UI](https://chakra-ui.com/)
-
-• [React Router](https://reactrouter.com/web/guides/testing)
-
-## Blogs
-• [Hashnode](https://hashnode.com/)
-
-## Challenges
-• [FrontEndMentor](https://www.frontendmentor.io/)
-
-• [CSSBattle](https://cssbattle.dev/)
-
-• [Ace FrontEnd](https://www.acefrontend.com/)
-
-• [100 days css](https://100dayscss.com/)
-
-• [Codier](https://codier.io/)
-
-• [Css-Tricks](https://css-tricks.com/)
-
-• [Codepen](https://codepen.io/challenges)
-
-• [Frontloops](https://frontloops.io/)
-
-• [Daily UI](https://www.dailyui.co/)
-
-• [DevChallenges](https://devchallenges.io/)
-
 ## Colors
 • [uigradients](https://uigradients.com/#Socialive)
 
@@ -136,7 +148,108 @@
 
 • [ColorHexa](https://www.colorhexa.com)
 
-## HTML
+## CSS3 
+• [css-separator-generator](https://wweb.dev/resources/css-separator-generator)
+
+• [fancy corners with CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/)
+
+• [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/)
+
+• [Snippets](https://tympanus.net/codrops/css_reference/)
+
+• [Selectores de CSS que debes memorizar](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+• [Animate.css](https://animate.style/)
+
+• [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
+
+• [Skeleton.CSS](http://getskeleton.com/)
+
+• [Normalize.css](https://necolas.github.io/normalize.css/)
+
+• [Sass](https://sass-lang.com/)
+
+• [Pure.css](https://purecss.io/)
+
+• [BootStrap](https://getbootstrap.com/)
+
+• [Bulma](https://bulma.io/)
+
+• [TailWind](https://tailwindcss.com/)
+
+• [Foundation](https://get.foundation/)
+
+• [EDgrid](https://ed-grid.com/)
+
+• [AOS](https://michalsnik.github.io/aos/)
+
+• [Tail-Kit](https://www.tailwind-kit.com/)
+
+• [Custom Shape Dividers](https://www.shapedivider.app/)
+
+• [TailBlocks](https://tailblocks.cc/)
+
+• [csseffects](https://emilkowalski.github.io/css-effects-snippets/)
+
+• [Css Gradient](https://cssgradient.io/)
+
+• [Little Snippets](https://www.littlesnippets.net/)
+
+• [html-css-js.com](https://html-css-js.com/css/generator/box-shadow/)
+
+## Design
+• [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+
+• [Ant Design](https://ant.design/)
+
+• [Semantic UI](https://semantic-ui.com/)
+
+• [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/)
+
+• [Element-UI](https://madewithvuejs.com/element-ui)
+
+• [AppMockUp](https://app-mockup.com/)
+
+• [Photopea](https://www.photopea.com/)
+
+• [Canva](https://www.canva.com/)
+
+• [Figma](https://www.figma.com/)
+
+## Developing
+• [Caracterisiticas de Google Chrome que no estas usando](https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/)
+
+• [El proceso de Diseño web](http://www.newdesigngroup.ca/blog/web-design-process-infographic/)
+
+• [Usuario Aleatorio](https://randomuser.me)
+
+## Diagrams
+• [Draw.io](https://www.draw.io/)
+
+## Domain
+• [NameCheap](https://www.namecheap.com/)
+
+• [Hostinger](https://www.hostinger.com/)
+
+• [Hostgator](https://www.hostgator.com/)
+## Formmater
+• [Prettier](https://prettier.io/)
+
+## Hosting
+• [Vercel](https://vercel.com/)
+
+• [Surge](https://surge.sh/)
+
+• [Firebase](https://firebase.google.com/)
+
+• [Netlify](https://www.netlify.com/)
+
+• [Heroku](https://www.heroku.com/)
+
+• [Digital Ocean](https://www.digitalocean.com/)
+
+## HTML5 
+
 • [Pixeden](https://www.pixeden.com/free-design-web-resources)
 
 • [W3School](http://www.w3schools.com/html)
@@ -147,64 +260,7 @@
 
 • [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
 
-## Transpilers
-• [TypeScript](https://www.typescriptlang.org/)
-
-• [Babel](https://expressjs.com/)
-
-## BackEnd
-• [Deno](https://deno.land/)
-
-• [Express](https://babeljs.io/)
-
-• [Strapi](https://strapi.io/)
-
-• [Node.js](https://nodejs.org/)
-
-• [Hapi](https://hapi.dev/)
-
-## VPN
-• [NordVpn](https://nordvpn.com/)
-
-• [CyberGhost](https://www.cyberghostvpn.com/)
-
-## Bundles
-• [WebPack](https://webpack.js.org/)
-
-• [EsBuild](https://esbuild.github.io/)
-
-• [Create App](https://createapp.dev/)
-
-## Package Manager
-• [NPM](https://www.npmjs.com/)
-
-• [Yarn](https://yarnpkg.com/)
-
-## Testing
-• [Jest.js](https://jestjs.io/)
-
-• [Testing Library](https://testing-library.com/)
-
-• [Jasmine](https://jasmine.github.io/)
-
-## API Request
-• [Postman](https://www.postman.com/)
-
-• [Insomnia](https://insomnia.rest/)
-
-• [Hoppscotch](https://hoppscotch.io/)
-
-• [Curl](https://curl.se/)
-
-## Linters
-• [JSLint](https://jslint.com/)
-
-• [ESLint](https://eslint.org/)
-
-## Maps
-• [Mapbox](https://www.mapbox.com/)
-
-## Iconos
+## Icons
 • [Font Awesome](https://fontawesome.com/)
 
 • [Material Icons](https://material.io/resources/icons/?style=baseline)
@@ -227,70 +283,29 @@
 
 • [IconShock](https://www.iconshock.com/)
 
-## Formmater
-• [Prettier](https://prettier.io/)
+## Inspiration
+• [Site Inspire](https://www.siteinspire.com)
 
-## Hosting
-• [Vercel](https://vercel.com/)
+• [Dribble](https://dribbble.com)
 
-• [Surge](https://surge.sh/)
+• [behance](https://www.behance.net)
 
-• [Firebase](https://firebase.google.com/)
+• [One Page Love](https://onepagelove.com)
 
-• [Netlify](https://www.netlify.com/)
+• [Admire the web](http://www.admiretheweb.com)
 
-• [Heroku](https://www.heroku.com/)
+• [Flatdsgn](http://flatdsgn.com)
 
-• [Digital Ocean](https://www.digitalocean.com/)
+• [Colección de elementos de Diseño](http://calltoidea.com)
 
-## Domain
-• [NameCheap](https://www.namecheap.com/)
+• [Más recursos de desarrolladores frontEnd](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-• [Hostinger](https://www.hostinger.com/)
+• [oozled](http://oozled.com)
 
-• [Hostgator](https://www.hostgator.com/)
+• [Awwwards](https://www.awwwards.com)
 
-## Paginas
-• [Convert JSON](https://quicktype.io/)
+## JavaScript 
 
-• [WebComponents](https://www.webcomponents.org/)
-
-• [exercism](https://exercism.io/)
-
-• [GitHub Guides](https://guides.github.com/)
-
-• [Project Euler](https://projecteuler.net/archives)
-
-• [HackerRank](https://www.hackerrank.com/)
-
-• [Pastebin](https://pastebin.com/)
-
-• [30 seconds of code](https://www.30secondsofcode.org/)
-
-• [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
-
-• [emojifinder](https://emojifinder.com/)
-
-## Design
-• [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-
-• [Ant Design](https://ant.design/)
-
-• [Semantic UI](https://semantic-ui.com/)
-
-• [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/)
-
-• [Element-UI](https://madewithvuejs.com/element-ui)
-
-• [AppMockUp](https://app-mockup.com/)
-
-• [Photopea](https://www.photopea.com/)
-
-• [Canva](https://www.canva.com/)
-
-• [Figma](https://www.figma.com/)
-
-## JavaScript
 • [Chart.js](https://www.chartjs.org/)
 
 • [Moment.js](https://momentjs.com/)
@@ -363,6 +378,15 @@
 
 • [Faker.js](https://github.com/marak/Faker.js/)
 
+## Linters
+• [JSLint](https://jslint.com/)
+
+• [ESLint](https://eslint.org/)
+## Manager
+• [Google Tag Manager](https://stripe.com/)
+## Maps
+• [Mapbox](https://www.mapbox.com/)
+
 ## Notification
 • [Sweet Alert 2](https://sweetalert2.github.io/)
 
@@ -371,30 +395,50 @@
 • [Toasty.js](http://jakim.me/Toasty.js/)
 
 • [Toast.js](https://toast-js.com/)
+## Optimizing Our Website
+• [Real Favicon Generator](https://realfavicongenerator.net)
 
-## Articulos
-• [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
+• [Favicon Generator](https://www.favicon-generator.org)
 
-• [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/)
+• [Minimize Image](http://optimizilla.com)
 
-• [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+• [Compress CSS](http://www.minifycss.com/css-compressor/)
 
-• [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+• [Compress Javascript](http://www.minifyjavascript.com)
 
-• [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+• [Vista previa en multiples dispositivos](http://www.responsinator.com)
 
-• [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+• [Tiny Png](https://tinypng.com/)
 
-## Tipografía
-• [Google Fonts](https://www.google.com/fonts)
+## Package Manager
+• [NPM](https://www.npmjs.com/)
 
-• [FontSquirrel](http://www.fontsquirrel.com)
+• [Yarn](https://yarnpkg.com/)
 
-• [Lista de Mejores Fuentes para Diseñadores](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
+## Pages
+• [Convert JSON](https://quicktype.io/)
 
-• [Combinaciones de Fuentes](http://fontpair.co)
+• [WebComponents](https://www.webcomponents.org/)
 
-## Imágenes
+• [exercism](https://exercism.io/)
+
+• [GitHub Guides](https://guides.github.com/)
+
+• [Project Euler](https://projecteuler.net/archives)
+
+• [HackerRank](https://www.hackerrank.com/)
+
+• [Pastebin](https://pastebin.com/)
+
+• [30 seconds of code](https://www.30secondsofcode.org/)
+
+• [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
+• [emojifinder](https://emojifinder.com/)
+## Payment
+• [Stripe](https://tagmanager.google.com/)
+
+## Photos
 • [pikwizard](https://pikwizard.com/)
 
 • [theStocks](http://thestocks.im)
@@ -415,6 +459,71 @@
 
 • [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations)
 
+## React 
+• [create-react-app](https://create-react-app.dev/docs/getting-started/)
+
+• [Nextjs](https://nextjs.org/)
+
+• [MATERIAL-UI](https://material-ui.com/es/)
+
+• [REBASS](https://rebassjs.org/)
+
+• [React Bootstrap](https://react-bootstrap.github.io/)
+
+• [Gatsby.js](https://www.gatsbyjs.com/)
+
+• [Redux](https://redux.js.org/)
+
+• [ReactiveX](http://reactivex.io/)
+
+• [Chakra UI](https://chakra-ui.com/)
+
+• [React Router](https://reactrouter.com/web/guides/testing)
+
+## SEO
+• [WooRank](https://www.woorank.com)
+
+• [SEO](http://webdesign.tutsplus.com/articles/a-web-designers-seo-checklist-including-portable-formats--webdesign-)
+
+## Share Code
+• [Stackblitz](https://stackblitz.com/)
+
+• [Codepen](https://codepen.io/)
+
+• [CodeShare](https://codeshare.io/)
+
+## SVG
+• [Vector Logo](https://worldvectorlogo.com/)
+
+## Testing
+• [Jest.js](https://jestjs.io/)
+
+• [Testing Library](https://testing-library.com/)
+
+• [Jasmine](https://jasmine.github.io/)
+
+## Transpilers
+• [TypeScript](https://www.typescriptlang.org/)
+
+• [Babel](https://expressjs.com/)
+
+## Typography
+• [Google Fonts](https://www.google.com/fonts)
+
+• [FontSquirrel](http://www.fontsquirrel.com)
+
+• [Lista de Mejores Fuentes para Diseñadores](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
+
+• [Combinaciones de Fuentes](http://fontpair.co)
+
+## UX
+
+• [Curso Rápido UX en 31 Días](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+
+• [Trucos de UI](http://www.goodui.org)
+
+• [Más de 100 recursos sobre Diseño de UI](https://github.com/tipoqueno/awesome-ui)
+
 ## Vídeos
 • [Pikwizad](https://pikwizard.com/video)
 
@@ -431,127 +540,12 @@
 • [Videzzy](https://www.videezy.com/)
 
 • [Free HD Footage](http://www.free-hd-footage.com)
+## VPN
+• [NordVpn](https://nordvpn.com/)
 
-## SVG
-• [Vector Logo](https://worldvectorlogo.com/)
-
-## UX
-
-• [Curso Rápido UX en 31 Días](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
-
-• [Trucos de UI](http://www.goodui.org)
-
-• [Más de 100 recursos sobre Diseño de UI](https://github.com/tipoqueno/awesome-ui)
-
-## CSS
-• [css-separator-generator](https://wweb.dev/resources/css-separator-generator)
-
-• [fancy corners with CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/)
-
-• [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/)
-
-• [Snippets](https://tympanus.net/codrops/css_reference/)
-
-• [Selectores de CSS que debes memorizar](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-
-• [Animate.css](https://animate.style/)
-
-• [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
-
-• [Skeleton.CSS](http://getskeleton.com/)
-
-• [Normalize.css](https://necolas.github.io/normalize.css/)
-
-• [Sass](https://sass-lang.com/)
-
-• [Pure.css](https://purecss.io/)
-
-• [BootStrap](https://getbootstrap.com/)
-
-• [Bulma](https://bulma.io/)
-
-• [TailWind](https://tailwindcss.com/)
-
-• [Foundation](https://get.foundation/)
-
-• [EDgrid](https://ed-grid.com/)
-
-• [AOS](https://michalsnik.github.io/aos/)
-
-• [Tail-Kit](https://www.tailwind-kit.com/)
-
-• [Custom Shape Dividers](https://www.shapedivider.app/)
-
-• [TailBlocks](https://tailblocks.cc/)
-
-• [csseffects](https://emilkowalski.github.io/css-effects-snippets/)
-
-• [Css Gradient](https://cssgradient.io/)
-
-• [Little Snippets](https://www.littlesnippets.net/)
-
-• [html-css-js.com](https://html-css-js.com/css/generator/box-shadow/)
-
-## Inspiración
-• [Site Inspire](https://www.siteinspire.com)
-
-• [Dribble](https://dribbble.com)
-
-• [behance](https://www.behance.net)
-
-• [One Page Love](https://onepagelove.com)
-
-• [Admire the web](http://www.admiretheweb.com)
-
-• [Flatdsgn](http://flatdsgn.com)
-
-• [Colección de elementos de Diseño](http://calltoidea.com)
-
-• [Más recursos de desarrolladores frontEnd](https://github.com/dypsilon/frontend-dev-bookmarks)
-
-• [oozled](http://oozled.com)
-
-• [Awwwards](https://www.awwwards.com)
-
-## Desarrollo
-• [Caracterisiticas de Google Chrome que no estas usando](https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/)
-
-• [El proceso de Diseño web](http://www.newdesigngroup.ca/blog/web-design-process-infographic/)
-
-• [Usuario Aleatorio](https://randomuser.me)
-
-## Optimizando Nuestro Sitio Web
-• [Real Favicon Generator](https://realfavicongenerator.net)
-
-• [Favicon Generator](https://www.favicon-generator.org)
-
-• [Minimize Image](http://optimizilla.com)
-
-• [Compress CSS](http://www.minifycss.com/css-compressor/)
-
-• [Compress Javascript](http://www.minifyjavascript.com)
-
-• [Vista previa en multiples dispositivos](http://www.responsinator.com)
-
-• [Google Analytics](https://www.google.com/analytics/)
-
-## SEO
-• [WooRank](https://www.woorank.com)
-
-• [SEO](http://webdesign.tutsplus.com/articles/a-web-designers-seo-checklist-including-portable-formats--webdesign-)
-
+• [CyberGhost](https://www.cyberghostvpn.com/)
 ## Templates
 • [Graphberry](https://www.graphberry.com/category/free-html-web-templates)
-
-## Diagramas
-• [Draw.io](https://www.draw.io/)
-
-## Compartir Codigo
-• [Stackblitz](https://stackblitz.com/)
-
-• [Codepen](https://codepen.io/)
-
-• [CodeShare](https://codeshare.io/)
 
 ## Tools
 • [link-to-qr](https://link-to-qr.com/)
@@ -570,7 +564,14 @@
 
 
 <!-- Icons -->
-[React]:  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  />
+[React]: <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-[Angular]: <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"  />
+[Angular]: <img align="center" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+
+
+[HTML5]: <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+[CSS3]: <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+[JavaScript]: <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
