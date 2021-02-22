@@ -1,6 +1,6 @@
-# Herramientas
+# Dev Tools
 
-## Extenciones de Chrome
+## Chrome Extension
 • [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es)
 
 • [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
@@ -68,7 +68,7 @@
 
 • [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
 
-## React 🔵
+## React [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  />]
 • [create-react-app](https://create-react-app.dev/docs/getting-started/)
 
 • [Nextjs](https://nextjs.org/)
