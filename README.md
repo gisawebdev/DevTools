@@ -46,10 +46,10 @@
 • [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
 
 ## Payment
-• [Google Tag Manager](https://stripe.com/)
+• [Stripe](https://tagmanager.google.com/)
 
 ## Manager
-• [Stripe](https://tagmanager.google.com/)
+• [Google Tag Manager](https://stripe.com/)
 
 ## Angular
 • [AngularFire](https://github.com/angular/angularfire)
