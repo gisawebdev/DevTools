@@ -68,7 +68,7 @@
 
 • [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
 
-## React
+## React 🔵
 • [create-react-app](https://create-react-app.dev/docs/getting-started/)
 
 • [Nextjs](https://nextjs.org/)
@@ -86,6 +86,8 @@
 • [ReactiveX](http://reactivex.io/)
 
 • [Chakra UI](https://chakra-ui.com/)
+
+• [React Router](https://reactrouter.com/web/guides/testing)
 
 ## Blogs
 • [Hashnode](https://hashnode.com/)
