@@ -1,7 +1,13 @@
 # Herramientas
 
 ## Extenciones de Chrome
+• [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es)
+
 • [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+• [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es)
+
+• [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es)
 
 • [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en)
 
@@ -10,10 +16,6 @@
 • [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
 • [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en)
-
-• [FATRANK](https://chrome.google.com/webstore/detail/fatrank-keyword-rank-chec/jcnfkjjanbdfabigknbedgkfjkljhbdn?hl=en)
-
-• [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en)
 
 • [CSS - Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp)
 
@@ -41,9 +43,13 @@
 
 • [Adblock para Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=es)
 
-• [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
-
 • [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
+
+## Payment
+• [Google Tag Manager](https://stripe.com/)
+
+## Manager
+• [Stripe](https://tagmanager.google.com/)
 
 ## Angular
 • [AngularFire](https://github.com/angular/angularfire)
@@ -62,7 +68,50 @@
 
 • [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
 
-## Colores
+## React
+• [create-react-app](https://create-react-app.dev/docs/getting-started/)
+
+• [Nextjs](https://nextjs.org/)
+
+• [MATERIAL-UI](https://material-ui.com/es/)
+
+• [REBASS](https://rebassjs.org/)
+
+• [React Bootstrap](https://react-bootstrap.github.io/)
+
+• [Gatsby.js](https://www.gatsbyjs.com/)
+
+• [Redux](https://redux.js.org/)
+
+• [ReactiveX](http://reactivex.io/)
+
+• [Chakra UI](https://chakra-ui.com/)
+
+## Blogs
+• [Hashnode](https://hashnode.com/)
+
+## Challenges
+• [FrontEndMentor](https://www.frontendmentor.io/)
+
+• [CSSBattle](https://cssbattle.dev/)
+
+• [Ace FrontEnd](https://www.acefrontend.com/)
+
+• [100 days css](https://100dayscss.com/)
+
+• [Codier](https://codier.io/)
+
+• [Css-Tricks](https://css-tricks.com/)
+
+• [Codepen](https://codepen.io/challenges)
+
+• [Frontloops](https://frontloops.io/)
+
+• [Daily UI](https://www.dailyui.co/)
+
+• [DevChallenges](https://devchallenges.io/)
+
+## Colors
 • [uigradients](https://uigradients.com/#Socialive)
 
 • [Color Hunt](https://colorhunt.co/palettes)
@@ -96,6 +145,63 @@
 
 • [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
 
+## Transpilers
+• [TypeScript](https://www.typescriptlang.org/)
+
+• [Babel](https://expressjs.com/)
+
+## BackEnd
+• [Deno](https://deno.land/)
+
+• [Express](https://babeljs.io/)
+
+• [Strapi](https://strapi.io/)
+
+• [Node.js](https://nodejs.org/)
+
+• [Hapi](https://hapi.dev/)
+
+## VPN
+• [NordVpn](https://nordvpn.com/)
+
+• [CyberGhost](https://www.cyberghostvpn.com/)
+
+## Bundles
+• [WebPack](https://webpack.js.org/)
+
+• [EsBuild](https://esbuild.github.io/)
+
+• [Create App](https://createapp.dev/)
+
+## Package Manager
+• [NPM](https://www.npmjs.com/)
+
+• [Yarn](https://yarnpkg.com/)
+
+## Testing
+• [Jest.js](https://jestjs.io/)
+
+• [Testing Library](https://testing-library.com/)
+
+• [Jasmine](https://jasmine.github.io/)
+
+## API Request
+• [Postman](https://www.postman.com/)
+
+• [Insomnia](https://insomnia.rest/)
+
+• [Hoppscotch](https://hoppscotch.io/)
+
+• [Curl](https://curl.se/)
+
+## Linters
+• [JSLint](https://jslint.com/)
+
+• [ESLint](https://eslint.org/)
+
+## Maps
+• [Mapbox](https://www.mapbox.com/)
+
 ## Iconos
 • [Font Awesome](https://fontawesome.com/)
 
@@ -111,17 +217,85 @@
 
 • [Feather Icons](https://feathericons.com/)
 
+• [Polaris icon](https://polaris-icons.shopify.com/)
+
+• [IconScout](https://iconscout.com/)
+
+• [Flaticon](https://www.flaticon.com/)
+
+• [IconShock](https://www.iconshock.com/)
+
+## Formmater
+• [Prettier](https://prettier.io/)
+
+## Hosting
+• [Vercel](https://vercel.com/)
+
+• [Surge](https://surge.sh/)
+
+• [Firebase](https://firebase.google.com/)
+
+• [Netlify](https://www.netlify.com/)
+
+• [Heroku](https://www.heroku.com/)
+
+• [Digital Ocean](https://www.digitalocean.com/)
+
+## Domain
+• [NameCheap](https://www.namecheap.com/)
+
+• [Hostinger](https://www.hostinger.com/)
+
+• [Hostgator](https://www.hostgator.com/)
+
 ## Paginas
 • [Convert JSON](https://quicktype.io/)
+
+• [WebComponents](https://www.webcomponents.org/)
+
+• [exercism](https://exercism.io/)
+
+• [GitHub Guides](https://guides.github.com/)
+
+• [Project Euler](https://projecteuler.net/archives)
+
+• [HackerRank](https://www.hackerrank.com/)
+
+• [Pastebin](https://pastebin.com/)
+
+• [30 seconds of code](https://www.30secondsofcode.org/)
+
+• [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
+## Design
+• [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+
+• [Ant Design](https://ant.design/)
+
+• [Semantic UI](https://semantic-ui.com/)
+
+• [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/)
+
+• [Element-UI](https://madewithvuejs.com/element-ui)
+
+• [AppMockUp](https://app-mockup.com/)
+
+• [Photopea](https://www.photopea.com/)
+
+• [Canva](https://www.canva.com/)
+
+• [Figma](https://www.figma.com/)
 
 ## JavaScript
 • [Chart.js](https://www.chartjs.org/)
 
-• [Momentjs](https://momentjs.com/)
+• [Moment.js](https://momentjs.com/)
 
 • [Hammer.js](https://hammerjs.github.io/)
 
-• [Immerjs](https://github.com/immerjs/immer)
+• [D3.js](https://d3js.org/)
+
+• [Immer.js](https://github.com/immerjs/immer)
 
 • [Draggable](https://shopify.github.io/draggable/)
 
@@ -133,14 +307,79 @@
 
 • [Video.js](https://videojs.com/)
 
+• [Audio.js](https://kolber.github.io/audiojs/)
+
+• [Tone.js](https://tonejs.github.io/)
+
+• [Chartist.js](https://gionkunz.github.io/chartist-js/)
+
+• [ApexCharts.js](https://apexcharts.com/)
+
+• [Recharts](https://recharts.org/en-US/)
+
+• [Socket](https://socket.io/)
+
+• [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
+
+• [FullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs)
+
+• [Sortable.js](https://sortablejs.github.io/Sortable/)
+
+• [Cleave.js](https://nosir.github.io/cleave.js/)
+
+• [Glimmer](https://glimmerjs.com/)
+
+• [Anime.js](https://animejs.com/)
+
+• [Algolia Places](https://community.algolia.com/places/)
+
+• [Bideo.js](https://rishabhp.github.io/bideo.js/)
+
+• [Choreographer.js](https://christinecha.github.io/choreographer-js/)
+
+• [Underscore.js](https://underscorejs.org/)
+
+• [Popper.js](https://popper.js.org/)
+
+• [NProgress.js](https://ricostacruz.com/nprogress/)
+
+• [TypeWriter.js](https://safi.me.uk/typewriterjs/)
+
+• [TypeIt](https://www.typeit.org/)
+
+• [Typed.js](https://mattboldt.github.io/typed.js/)
+
+• [Hammer.js](https://hammerjs.github.io/)
+
+• [CodeMirror](https://codemirror.net/)
+
+• [Immer](https://immerjs.github.io/immer/docs/introduction)
+
+• [Ramda](https://ramdajs.com/)
+
+• [Faker.js](https://github.com/marak/Faker.js/)
+
+## Notification
 • [Sweet Alert 2](https://sweetalert2.github.io/)
+
+• [Quantum Alert](https://quantumalert.cosmogic.com/)
+
+• [Toasty.js](http://jakim.me/Toasty.js/)
+
+• [Toast.js](https://toast-js.com/)
 
 ## Articulos
 • [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
 
 • [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/)
 
-• [7 really good reasons not to use TypeScript](https://medium.com/javascript-in-plain-english/7-really-good-reasons-not-to-use-typescript-166af597c466)
+• [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+• [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+• [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+
+• [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 ## Tipografía
 • [Google Fonts](https://www.google.com/fonts)
@@ -167,6 +406,10 @@
 • [The patter Library](http://thepatternlibrary.com)
 
 • [Subttle Pattern](https://www.toptal.com/designers/subtlepatterns/)
+
+• [UnDraw](https://undraw.co/)
+
+• [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations)
 
 ## Vídeos
 • [Pikwizad](https://pikwizard.com/video)
@@ -207,13 +450,43 @@
 
 • [Selectores de CSS que debes memorizar](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
-• [Animaciones](https://daneden.github.io/animate.css/)
+• [Animate.css](https://animate.style/)
 
 • [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
 
-• [SKELETON.CSS](http://getskeleton.com/)
+• [Skeleton.CSS](http://getskeleton.com/)
 
 • [Normalize.css](https://necolas.github.io/normalize.css/)
+
+• [Sass](https://sass-lang.com/)
+
+• [Pure.css](https://purecss.io/)
+
+• [BootStrap](https://getbootstrap.com/)
+
+• [Bulma](https://bulma.io/)
+
+• [TailWind](https://tailwindcss.com/)
+
+• [Foundation](https://get.foundation/)
+
+• [EDgrid](https://ed-grid.com/)
+
+• [AOS](https://michalsnik.github.io/aos/)
+
+• [Tail-Kit](https://www.tailwind-kit.com/)
+
+• [Custom Shape Dividers](https://www.shapedivider.app/)
+
+• [TailBlocks](https://tailblocks.cc/)
+
+• [csseffects](https://emilkowalski.github.io/css-effects-snippets/)
+
+• [Css Gradient](https://cssgradient.io/)
+
+• [Little Snippets](https://www.littlesnippets.net/)
+
+• [html-css-js.com](https://html-css-js.com/css/generator/box-shadow/)
 
 ## Inspiración
 • [Site Inspire](https://www.siteinspire.com)
@@ -273,6 +546,27 @@
 • [Stackblitz](https://stackblitz.com/)
 
 • [Codepen](https://codepen.io/)
+
+• [CodeShare](https://codeshare.io/)
+
+## Tools
+• [link-to-qr](https://link-to-qr.com/)
+
+• [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/)
+
+• [ShortcutFoo](https://www.shortcutfoo.com/)
+
+• [Remove.bg](https://www.remove.bg/)
+
+• [ScreenToGif](https://www.screentogif.com/)
+
+• [Fancy Text Decorator](https://fancytextdecorator.com/)
+
+• [avataaars generator](https://getavataaars.com/)
+
+
+
+
 
 
 
