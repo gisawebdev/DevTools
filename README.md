@@ -51,7 +51,7 @@
 ## Manager
 • [Google Tag Manager](https://stripe.com/)
 
-## Angular
+## Angular 
 • [AngularFire](https://github.com/angular/angularfire)
 
 • [ng2-charts](https://valor-software.com/ng2-charts/)
@@ -68,7 +68,7 @@
 
 • [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
 
-## React[React]
+## React 
 • [create-react-app](https://create-react-app.dev/docs/getting-started/)
 
 • [Nextjs](https://nextjs.org/)
@@ -571,4 +571,6 @@
 
 <!-- Icons -->
 [React]:  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  />
+
+[Angular]: <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"  />
 
