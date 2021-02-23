@@ -421,6 +421,8 @@
 
 • [Project Euler](https://projecteuler.net/archives)
 
+• [Refactoring Guru](https://refactoring.guru/)
+
 • [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
 • [WebComponents](https://www.webcomponents.org/)
