@@ -379,23 +379,23 @@
 • [Mapbox](https://www.mapbox.com/)
 
 ## Notification
-• [Sweet Alert 2](https://sweetalert2.github.io/)
-
 • [Quantum Alert](https://quantumalert.cosmogic.com/)
+
+• [Sweet Alert 2](https://sweetalert2.github.io/)
 
 • [Toasty.js](http://jakim.me/Toasty.js/)
 
 • [Toast.js](https://toast-js.com/)
 ## Optimizing Our Website
-• [Real Favicon Generator](https://realfavicongenerator.net)
+• [Compress CSS](http://www.minifycss.com/css-compressor/)
+
+• [Compress Javascript](http://www.minifyjavascript.com)
 
 • [Favicon Generator](https://www.favicon-generator.org)
 
 • [Minimize Image](http://optimizilla.com)
 
-• [Compress CSS](http://www.minifycss.com/css-compressor/)
-
-• [Compress Javascript](http://www.minifyjavascript.com)
+• [Real Favicon Generator](https://realfavicongenerator.net)
 
 • [Vista previa en multiples dispositivos](http://www.responsinator.com)
 
@@ -409,150 +409,142 @@
 ## Pages
 • [Convert JSON](https://quicktype.io/)
 
-• [WebComponents](https://www.webcomponents.org/)
+• [emojifinder](https://emojifinder.com/)
 
 • [exercism](https://exercism.io/)
 
 • [GitHub Guides](https://guides.github.com/)
 
-• [Project Euler](https://projecteuler.net/archives)
-
 • [HackerRank](https://www.hackerrank.com/)
 
 • [Pastebin](https://pastebin.com/)
 
-• [30 seconds of code](https://www.30secondsofcode.org/)
+• [Project Euler](https://projecteuler.net/archives)
 
 • [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
-• [emojifinder](https://emojifinder.com/)
+• [WebComponents](https://www.webcomponents.org/)
+
+• [30 seconds of code](https://www.30secondsofcode.org/)
 ## Payment
 • [Stripe](https://tagmanager.google.com/)
 
 ## Photos
-• [pikwizard](https://pikwizard.com/)
-
-• [theStocks](http://thestocks.im)
-
-• [Pexels](https://www.pexels.com)
-
-• [Unsplash](https://unsplash.com)
-
 • [Foodiesfeed](https://www.foodiesfeed.com)
 
 • [Imcreator Free](http://www.imcreator.com/free)
 
-• [The patter Library](http://thepatternlibrary.com)
+• [Pexels](https://www.pexels.com)
 
-• [Subttle Pattern](https://www.toptal.com/designers/subtlepatterns/)
-
-• [UnDraw](https://undraw.co/)
+• [pikwizard](https://pikwizard.com/)
 
 • [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations)
 
+• [Subttle Pattern](https://www.toptal.com/designers/subtlepatterns/)
+
+• [The patter Library](http://thepatternlibrary.com)
+
+• [theStocks](http://thestocks.im)
+
+• [UnDraw](https://undraw.co/)
+
+• [Unsplash](https://unsplash.com)
+
 ## React 
+• [Chakra UI](https://chakra-ui.com/)
+
 • [create-react-app](https://create-react-app.dev/docs/getting-started/)
-
-• [Nextjs](https://nextjs.org/)
-
-• [MATERIAL-UI](https://material-ui.com/es/)
-
-• [REBASS](https://rebassjs.org/)
-
-• [React Bootstrap](https://react-bootstrap.github.io/)
 
 • [Gatsby.js](https://www.gatsbyjs.com/)
 
-• [Redux](https://redux.js.org/)
+• [MATERIAL-UI](https://material-ui.com/es/)
+
+• [Nextjs](https://nextjs.org/)
+
+• [React Bootstrap](https://react-bootstrap.github.io/)
 
 • [ReactiveX](http://reactivex.io/)
 
-• [Chakra UI](https://chakra-ui.com/)
+• [REBASS](https://rebassjs.org/)
+
+• [Redux](https://redux.js.org/)
 
 • [React Router](https://reactrouter.com/web/guides/testing)
-
 ## SEO
-• [WooRank](https://www.woorank.com)
-
 • [SEO](http://webdesign.tutsplus.com/articles/a-web-designers-seo-checklist-including-portable-formats--webdesign-)
 
-## Share Code
-• [Stackblitz](https://stackblitz.com/)
+• [WooRank](https://www.woorank.com)
 
+## Share Code
 • [Codepen](https://codepen.io/)
 
 • [CodeShare](https://codeshare.io/)
 
+• [Stackblitz](https://stackblitz.com/)
 ## SVG
 • [Vector Logo](https://worldvectorlogo.com/)
-
 ## Testing
+• [Jasmine](https://jasmine.github.io/)
+
 • [Jest.js](https://jestjs.io/)
 
 • [Testing Library](https://testing-library.com/)
-
-• [Jasmine](https://jasmine.github.io/)
-
 ## Transpilers
 • [TypeScript](https://www.typescriptlang.org/)
 
 • [Babel](https://expressjs.com/)
 
 ## Typography
-• [Google Fonts](https://www.google.com/fonts)
+• [Combinaciones de Fuentes](http://fontpair.co)
 
 • [FontSquirrel](http://www.fontsquirrel.com)
 
+• [Google Fonts](https://www.google.com/fonts)
+
 • [Lista de Mejores Fuentes para Diseñadores](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 
-• [Combinaciones de Fuentes](http://fontpair.co)
-
 ## UX
-
 • [Curso Rápido UX en 31 Días](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
-
-• [Trucos de UI](http://www.goodui.org)
 
 • [Más de 100 recursos sobre Diseño de UI](https://github.com/tipoqueno/awesome-ui)
 
+• [Trucos de UI](http://www.goodui.org)
 ## Vídeos
-• [Pikwizad](https://pikwizard.com/video)
+• [Clip Canvas - Free Clips](https://www.clipcanvas.com/free-footage)
+
+• [Free HD Footage](http://www.free-hd-footage.com)
 
 • [Mazwai](http://mazwai.com)
 
 • [Pexels video](https://videos.pexels.com)
 
+• [Pikwizad](https://pikwizard.com/video)
+
 • [Videvo](https://www.videvo.net/)
-
-• [Clip Canvas - Free Clips](https://www.clipcanvas.com/free-footage)
-
-• [Vidsplay](https://www.vidsplay.com)
 
 • [Videzzy](https://www.videezy.com/)
 
-• [Free HD Footage](http://www.free-hd-footage.com)
+• [Vidsplay](https://www.vidsplay.com)
 ## VPN
-• [NordVpn](https://nordvpn.com/)
-
 • [CyberGhost](https://www.cyberghostvpn.com/)
+
+• [NordVpn](https://nordvpn.com/)
 ## Templates
 • [Graphberry](https://www.graphberry.com/category/free-html-web-templates)
-
 ## Tools
-• [link-to-qr](https://link-to-qr.com/)
+• [avataaars generator](https://getavataaars.com/)
 
 • [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/)
 
-• [ShortcutFoo](https://www.shortcutfoo.com/)
+• [Fancy Text Decorator](https://fancytextdecorator.com/)
+
+• [link-to-qr](https://link-to-qr.com/)
 
 • [Remove.bg](https://www.remove.bg/)
 
+• [ShortcutFoo](https://www.shortcutfoo.com/)
+
 • [ScreenToGif](https://www.screentogif.com/)
-
-• [Fancy Text Decorator](https://fancytextdecorator.com/)
-
-• [avataaars generator](https://getavataaars.com/)
-
 
 <!-- Icons -->
 [React]: <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
