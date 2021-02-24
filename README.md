@@ -159,9 +159,15 @@
 
 • [Bulma](https://bulma.io/)
 
+• [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/)
+
+• [CSS Clip-path maker](https://bennettfeely.com/clippy/)
+
 • [csseffects](https://emilkowalski.github.io/css-effects-snippets/)
 
 • [Css Gradient](https://cssgradient.io/)
+
+• [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 
 • [css-separator-generator](https://wweb.dev/resources/css-separator-generator)
 
@@ -265,12 +271,19 @@
 • [W3School](http://www.w3schools.com/html)
 
 • [W3C validator](https://validator.w3.org)
+
 ## Icons
+• [Eva Icons](https://akveo.github.io/eva-icons/#/)
+
 • [Feather Icons](https://feathericons.com/)
 
 • [Font Awesome](https://fontawesome.com/)
 
 • [Flaticon](https://www.flaticon.com/)
+
+• [Glyphs](https://glyphs.fyi/)
+
+• [Heroicons](https://heroicons.dev/)
 
 • [Iconfinder](https://www.iconfinder.com/)
 
@@ -308,6 +321,7 @@
 • [oozled](http://oozled.com)
 
 • [Site Inspire](https://www.siteinspire.com)
+
 ## JavaScript 
 • [Algolia Places](https://community.algolia.com/places/)
 
@@ -421,6 +435,8 @@
 
 • [Cloudinary](https://cloudinary.com/)
 
+• [El Camino del FrontEnd Developer](https://github.com/mrcodedev/frontend-developer-resources/)
+
 • [emojifinder](https://emojifinder.com/)
 
 • [exercism](https://exercism.io/)
@@ -444,6 +460,8 @@
 • [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
 • [WebComponents](https://www.webcomponents.org/)
+
+• [Website Responsive Testing Tool](http://responsivetesttool.com/)
 
 • [30 seconds of code](https://www.30secondsofcode.org/)
 ## Payment
@@ -507,13 +525,19 @@
 
 • [Stackblitz](https://stackblitz.com/)
 ## SVG
+• [SVG Backgrounds](https://www.svgbackgrounds.com/)
+
+• [Generate SVG Waves 🌊](https://svgwave.in/)
+
 • [Vector Logo](https://worldvectorlogo.com/)
+
 ## Testing
 • [Jasmine](https://jasmine.github.io/)
 
 • [Jest.js](https://jestjs.io/)
 
 • [Testing Library](https://testing-library.com/)
+
 ## Transpilers
 • [TypeScript](https://www.typescriptlang.org/)
 
