@@ -171,6 +171,8 @@
 
 • [fancy corners with CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/)
 
+• [FLEXBOX FROGGY](https://flexboxfroggy.com/)
+
 • [Foundation](https://get.foundation/)
 
 • [html-css-js.com](https://html-css-js.com/css/generator/box-shadow/)
@@ -236,6 +238,9 @@
 • [NameCheap](https://www.namecheap.com/)
 ## Formmater
 • [Prettier](https://prettier.io/)
+
+## Games
+• [VIM Adventures](https://vim-adventures.com/)
 
 ## Hosting
 • [Digital Ocean](https://www.digitalocean.com/)
@@ -354,6 +359,8 @@
 
 • [Redux](https://redux.js.org/introduction/getting-started)
 
+• [Reveal.js](https://revealjs.com/)
+
 • [Socket](https://socket.io/)
 
 • [Sortable.js](https://sortablejs.github.io/Sortable/)
@@ -375,8 +382,11 @@
 • [JSLint](https://jslint.com/)
 ## Manager
 • [Google Tag Manager](https://stripe.com/)
+
 ## Maps
 • [Mapbox](https://www.mapbox.com/)
+
+• [mymappi](https://mymappi.com/)
 
 ## Notification
 • [Quantum Alert](https://quantumalert.cosmogic.com/)
@@ -409,19 +419,27 @@
 ## Pages
 • [Convert JSON](https://quicktype.io/)
 
+• [Cloudinary](https://cloudinary.com/)
+
 • [emojifinder](https://emojifinder.com/)
 
 • [exercism](https://exercism.io/)
 
 • [GitHub Guides](https://guides.github.com/)
 
+• [GreenSock](https://greensock.com/gsap/)
+
 • [HackerRank](https://www.hackerrank.com/)
+
+• [kite](https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=fazt&utm_content=description-only)
 
 • [Pastebin](https://pastebin.com/)
 
 • [Project Euler](https://projecteuler.net/archives)
 
 • [Refactoring Guru](https://refactoring.guru/)
+
+• [Slides](https://slides.com/)
 
 • [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
 
@@ -451,6 +469,11 @@
 • [UnDraw](https://undraw.co/)
 
 • [Unsplash](https://unsplash.com)
+
+## Radio
+• [freeCodeCamp Radio](https://coderadio.freecodecamp.org/)
+
+• [radio.x-team](https://radio.x-team.com/)
 
 ## React 
 • [Chakra UI](https://chakra-ui.com/)
