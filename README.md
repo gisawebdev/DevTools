@@ -207,6 +207,8 @@
 
 • [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/)
 
+• [UI Guideline](https://www.uiguideline.com/components)
+
 ## Design
 • [Ant Design](https://ant.design/)
 
@@ -273,6 +275,8 @@
 • [W3C validator](https://validator.w3.org)
 
 ## Icons
+• [CocoMaterial](https://cocomaterial.com/)
+
 • [Eva Icons](https://akveo.github.io/eva-icons/#/)
 
 • [Feather Icons](https://feathericons.com/)
@@ -443,6 +447,8 @@
 
 • [GitHub Guides](https://guides.github.com/)
 
+• [GitIgnore](https://www.toptal.com/developers/gitignore)
+
 • [GreenSock](https://greensock.com/gsap/)
 
 • [HackerRank](https://www.hackerrank.com/)
@@ -509,6 +515,8 @@
 • [ReactiveX](http://reactivex.io/)
 
 • [REBASS](https://rebassjs.org/)
+
+• [Recoil](https://recoiljs.org/)
 
 • [Redux](https://redux.js.org/)
 
