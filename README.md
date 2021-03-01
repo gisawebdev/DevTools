@@ -15,6 +15,12 @@
 
 • [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
 
+• [NG-Lightning](https://ng-lightning.github.io/ng-lightning/#/)
+
+• [NG-Prime](https://www.primefaces.org/primeng/)
+
+• [NG-ZORRO](https://ng.ant.design/docs/introduce/en)
+
 • [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/)
 
 ## API Request
@@ -34,7 +40,11 @@
 
 • [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+• [Implement Dark Mode On Your Website](https://dev.to/mattmarquise/implement-dark-mode-on-your-website-5c5a)
+
 • [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
+
+• [6 Buenas prácticas para el manejo de tus repositorios en Github](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929)
 
 • [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
 
@@ -435,6 +445,8 @@
 • [Yarn](https://yarnpkg.com/)
 
 ## Pages
+• [Bundlephobia](https://bundlephobia.com/)
+
 • [Convert JSON](https://quicktype.io/)
 
 • [Cloudinary](https://cloudinary.com/)
@@ -468,6 +480,8 @@
 • [WebComponents](https://www.webcomponents.org/)
 
 • [Website Responsive Testing Tool](http://responsivetesttool.com/)
+
+• [Z-Library](https://b-ok.lat/)
 
 • [30 seconds of code](https://www.30secondsofcode.org/)
 ## Payment
@@ -509,6 +523,8 @@
 • [MATERIAL-UI](https://material-ui.com/es/)
 
 • [Nextjs](https://nextjs.org/)
+
+• [PrimeReact](https://www.primefaces.org/primereact/)
 
 • [React Bootstrap](https://react-bootstrap.github.io/)
 
