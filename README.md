@@ -363,6 +363,8 @@
 
 • [D3.js](https://d3js.org/)
 
+• [Email.js](https://www.emailjs.com/)
+
 • [Faker.js](https://github.com/marak/Faker.js/)
 
 • [FullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs)
@@ -404,10 +406,18 @@
 • [Underscore.js](https://underscorejs.org/)
 
 • [Video.js](https://videojs.com/)
+
+
+## Learn
+• [Mem](https://mem.dev/)
+
+• [The Odin Projec](https://www.theodinproject.com/)
+
 ## Linters
 • [ESLint](https://eslint.org/)
 
 • [JSLint](https://jslint.com/)
+
 ## Manager
 • [Google Tag Manager](https://stripe.com/)
 
@@ -424,6 +434,7 @@
 • [Toasty.js](http://jakim.me/Toasty.js/)
 
 • [Toast.js](https://toast-js.com/)
+
 ## Optimizing Our Website
 • [Compress CSS](http://www.minifycss.com/css-compressor/)
 
