@@ -60,8 +60,15 @@
 • [Strapi](https://strapi.io/)
 
 • [Node.js](https://nodejs.org/)
+
 ## Blogs
+• [carlosazaustre.es blog](https://carlosazaustre.es/blog)
+
 • [Hashnode](https://hashnode.com/)
+
+• [kentcdodds](https://kentcdodds.com/blog/)
+
+• [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)
 
 ## Bundles
 • [Create App](https://createapp.dev/)
@@ -146,6 +153,8 @@
 
 • [Coolors.co](https://coolors.co/app)
 
+• [colornamer](https://colornamer.netlify.app/)
+
 • [Flatuicolors](http://flatuicolors.com)
 
 • [getUiColors](http://getuicolors.com)
@@ -154,7 +163,11 @@
 
 • [MaterialCSS](http://materializecss.com/color.html)
 
+• [mycolor.space](https://mycolor.space/?hex=%23845EC2&sub=1)
+
 • [Paletton](http://paletton.com)
+
+• [smolcss](https://smolcss.dev/)
 
 • [uigradients](https://uigradients.com/#Socialive)
 
@@ -163,9 +176,13 @@
 ## CSS3 
 • [Animate.css](https://animate.style/)
 
+• [Animista.net](https://animista.net/play/basic/rotate-90)
+
 • [AOS](https://michalsnik.github.io/aos/)
 
 • [BootStrap](https://getbootstrap.com/)
+
+• [box-shadow.dev](https://box-shadow.dev/)
 
 • [Bulma](https://bulma.io/)
 
@@ -187,11 +204,17 @@
 
 • [fancy corners with CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/)
 
+• [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+
+• [FlexBox Defense](http://www.flexboxdefense.com/)
+
 • [FLEXBOX FROGGY](https://flexboxfroggy.com/)
 
 • [Foundation](https://get.foundation/)
 
 • [html-css-js.com](https://html-css-js.com/css/generator/box-shadow/)
+
+• [keyframes.app](https://keyframes.app/animate/)
 
 • [Little Snippets](https://www.littlesnippets.net/)
 
@@ -254,6 +277,12 @@
 • [Hostgator](https://www.hostgator.com/)
 
 • [NameCheap](https://www.namecheap.com/)
+
+## Fonts
+• [fontflipper](https://fontflipper.com/upload)
+
+• [Google font to SVG path](https://danmarshall.github.io/google-font-to-svg-path/)
+
 ## Formmater
 • [Prettier](https://prettier.io/)
 
@@ -278,6 +307,8 @@
 
 • [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
 
+• [mytemplate](https://mytemplate.xyz/?ref=producthunt)
+
 • [Pixeden](https://www.pixeden.com/free-design-web-resources)
 
 • [W3School](http://www.w3schools.com/html)
@@ -285,6 +316,8 @@
 • [W3C validator](https://validator.w3.org)
 
 ## Icons
+• [Box Icons](https://boxicons.com/)
+
 • [CocoMaterial](https://cocomaterial.com/)
 
 • [Eva Icons](https://akveo.github.io/eva-icons/#/)
@@ -314,6 +347,8 @@
 • [Polaris icon](https://polaris-icons.shopify.com/)
 
 • [The Noun Project](https://thenounproject.com/)
+
+• [Visiwig](https://www.visiwig.com/)
 
 ## Inspiration
 • [Admire the web](http://www.admiretheweb.com)
@@ -397,6 +432,8 @@
 
 • [Sortable.js](https://sortablejs.github.io/Sortable/)
 
+• [The Modern JavaScript Tutorial](https://javascript.info/)
+
 • [Tone.js](https://tonejs.github.io/)
 
 • [Typed.js](https://mattboldt.github.io/typed.js/)
@@ -406,6 +443,8 @@
 • [TypeWriter.js](https://safi.me.uk/typewriterjs/)
 
 • [Underscore.js](https://underscorejs.org/)
+
+• [Utils](https://1loc.dev/)
 
 • [Video.js](https://videojs.com/)
 
@@ -438,6 +477,12 @@
 • [Toast.js](https://toast-js.com/)
 
 ## Optimizing Our Website
+• [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
+
+• [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html)
+
+• [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/?android=false&autocomplete=one-time-code&inputmode=decimal&type=url)
+
 • [Compress CSS](http://www.minifycss.com/css-compressor/)
 
 • [Compress Javascript](http://www.minifyjavascript.com)
@@ -468,11 +513,15 @@
 
 • [El Camino del FrontEnd Developer](https://github.com/mrcodedev/frontend-developer-resources/)
 
+• [Device Shots](https://deviceshots.com/)
+
 • [emojifinder](https://emojifinder.com/)
 
 • [exercism](https://exercism.io/)
 
 • [GitHub Guides](https://guides.github.com/)
+
+• [Git Explorer](https://gitexplorer.com/)
 
 • [GitIgnore](https://www.toptal.com/developers/gitignore)
 
@@ -484,7 +533,9 @@
 
 • [Pastebin](https://pastebin.com/)
 
-• [Project Euler](https://projecteuler.net/archives)
+• [Pastebin](https://pastebin.com/)
+
+• [placeholder.](https://placeholder.com/)
 
 • [Refactoring Guru](https://refactoring.guru/)
 
@@ -504,6 +555,8 @@
 
 ## Photos
 • [Foodiesfeed](https://www.foodiesfeed.com)
+
+• [freepik](https://www.freepik.com/)
 
 • [Imcreator Free](http://www.imcreator.com/free)
 
@@ -552,6 +605,12 @@
 • [Redux](https://redux.js.org/)
 
 • [React Router](https://reactrouter.com/web/guides/testing)
+
+## Regex
+• [regexr](https://regexr.com/)
+
+• [I Hate Regex](https://ihateregex.io/)
+
 ## SEO
 • [SEO](http://webdesign.tutsplus.com/articles/a-web-designers-seo-checklist-including-portable-formats--webdesign-)
 
