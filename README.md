@@ -511,6 +511,8 @@
 
 • [Cloudinary](https://cloudinary.com/)
 
+• [Image Cyborg](https://imagecyborg.com/)
+
 • [El Camino del FrontEnd Developer](https://github.com/mrcodedev/frontend-developer-resources/)
 
 • [Device Shots](https://deviceshots.com/)
