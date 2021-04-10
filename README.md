@@ -44,6 +44,10 @@
 
 • [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
 
+• [The Psychology of Design](https://growth.design/psychology/)
+
+• [The Ultimate Javascript vs Dart Syntax Guide](https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6)
+
 • [6 Buenas prácticas para el manejo de tus repositorios en Github](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929)
 
 • [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
@@ -54,6 +58,8 @@
 • [Deno](https://deno.land/)
 
 • [Express](https://babeljs.io/)
+
+• [Fastify](https://www.fastify.io/)
 
 • [Hapi](https://hapi.dev/)
 
@@ -147,6 +153,8 @@
 ## Colors
 • [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 
+• [ColorBox](https://colorbox.io/)
+
 • [ColorHexa](https://www.colorhexa.com)
 
 • [Color Hunt](https://colorhunt.co/palettes)
@@ -173,7 +181,7 @@
 
 • [Variaciones de Colores](http://www.0to255.com)
 
-## CSS3 
+## CSS 
 • [Animate.css](https://animate.style/)
 
 • [Animista.net](https://animista.net/play/basic/rotate-90)
@@ -195,6 +203,10 @@
 • [Css Gradient](https://cssgradient.io/)
 
 • [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+
+• [CSS Layout](https://csslayout.io/)
+
+• [CSS Scroll Shadows!](https://css-scroll-shadows.vercel.app/?bgColor=fcaef2&shadowColor=222222&pxSize=22)
 
 • [css-separator-generator](https://wweb.dev/resources/css-separator-generator)
 
@@ -226,7 +238,11 @@
 
 • [Skeleton.CSS](http://getskeleton.com/)
 
+• [Smooth Shadow](https://shadows.brumm.af/)
+
 • [Snippets](https://tympanus.net/codrops/css_reference/)
+
+• [Neumorphism](https://neumorphism.io/#ffffff)
 
 • [Normalize.css](https://necolas.github.io/normalize.css/)
 
@@ -241,6 +257,10 @@
 • [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/)
 
 • [UI Guideline](https://www.uiguideline.com/components)
+
+• [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
+
+• [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
 
 ## Design
 • [Ant Design](https://ant.design/)
@@ -302,7 +322,7 @@
 
 • [Vercel](https://vercel.com/)
 
-## HTML5 
+## HTML
 • [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
 
 • [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -503,9 +523,13 @@
 • [Yarn](https://yarnpkg.com/)
 
 ## Pages
+• [AWS Device Farm](https://aws.amazon.com/device-farm/)
+
 • [Biolinky.co](https://biolinky.co/landing?ref=p_uxbs)
 
 • [Bundlephobia](https://bundlephobia.com/)
+
+• [PageSpeed Compare](https://pagespeed.compare/)
 
 • [Convert JSON](https://quicktype.io/)
 
@@ -531,7 +555,11 @@
 
 • [HackerRank](https://www.hackerrank.com/)
 
+• [Haikei](https://app.haikei.app/)
+
 • [kite](https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=fazt&utm_content=description-only)
+
+• [BrowserStack](https://www.browserstack.com/)
 
 • [Pastebin](https://pastebin.com/)
 
@@ -539,9 +567,17 @@
 
 • [Refactoring Guru](https://refactoring.guru/)
 
+• [Responsinator](https://www.responsinator.com/)
+
+• [Screenfly](https://bluetree.ai/screenfly/)
+
 • [Slides](https://slides.com/)
 
+• [The Front-End Checklist](https://frontendchecklist.io/)
+
 • [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+
+• [Undesign](https://undesign.learn.uno/)
 
 • [WebComponents](https://www.webcomponents.org/)
 
@@ -559,6 +595,8 @@
 • [freepik](https://www.freepik.com/)
 
 • [Imcreator Free](http://www.imcreator.com/free)
+
+• [ManyPixels](https://www.manypixels.co/gallery)
 
 • [Pexels](https://www.pexels.com)
 
