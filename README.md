@@ -668,6 +668,9 @@
 • [Vector Logo](https://worldvectorlogo.com/)
 
 ## Testing
+
+• [Enzyme](https://enzymejs.github.io/enzyme/), [enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17), [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json)
+
 • [Jasmine](https://jasmine.github.io/)
 
 • [Jest.js](https://jestjs.io/)
