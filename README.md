@@ -50,6 +50,8 @@
 
 • [6 Buenas prácticas para el manejo de tus repositorios en Github](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929)
 
+• [10 Most Important Meta Tags You Need to Know for SEO](https://www.searchenginejournal.com/important-tags-seo/156440/#close)
+
 • [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
 
 • [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/)
@@ -82,6 +84,14 @@
 • [EsBuild](https://esbuild.github.io/)
 
 • [WebPack](https://webpack.js.org/)
+
+## Capture Code
+
+• [Carbon](https://carbon.now.sh/)
+
+• [Ray](https://ray.so/)
+
+• [CodeKeep](https://codekeep.io/home)
 
 ## Challenges
 • [Ace FrontEnd](https://www.acefrontend.com/)
@@ -230,6 +240,12 @@
 
 • [Little Snippets](https://www.littlesnippets.net/)
 
+• [Lofi UI](https://lofiui.co/)
+
+• [Lofi UI](https://lofiui.co/)
+
+• [Kitwind](https://kitwind.io/products/kometa)
+
 • [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
 
 • [Sass](https://sass-lang.com/)
@@ -253,6 +269,12 @@
 • [TailBlocks](https://tailblocks.cc/)
 
 • [TailWind](https://tailwindcss.com/)
+
+• [TailWindComponents](https://tailwindcomponents.com/)
+
+• [Tailwind Templates](https://tailwindtemplates.io/)
+
+• [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 
 • [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/)
 
@@ -307,6 +329,20 @@
 • [Prettier](https://prettier.io/)
 
 ## Games
+• [CSSBattle](https://cssbattle.dev/)
+
+• [CSS Diner](https://flukeout.github.io/)
+
+• [Flexbox Defense](http://www.flexboxdefense.com/)
+
+• [FlexBox Froggy](https://flexboxfroggy.com/)
+
+• [FlexBox Zombies](https://mastery.games/flexboxzombies/)
+
+• [Grid Garden](https://cssgridgarden.com/)
+
+• [Oh My Git](https://ohmygit.org/)
+
 • [VIM Adventures](https://vim-adventures.com/)
 
 ## Hosting
@@ -339,6 +375,8 @@
 • [Box Icons](https://boxicons.com/)
 
 • [CocoMaterial](https://cocomaterial.com/)
+
+• [DrawKit](https://www.drawkit.io/free-icons)
 
 • [Eva Icons](https://akveo.github.io/eva-icons/#/)
 
@@ -468,7 +506,6 @@
 
 • [Video.js](https://videojs.com/)
 
-
 ## Learn
 • [Mem](https://mem.dev/)
 
@@ -527,7 +564,15 @@
 
 • [Biolinky.co](https://biolinky.co/landing?ref=p_uxbs)
 
+• [BrowserStack](https://www.browserstack.com/)
+
 • [Bundlephobia](https://bundlephobia.com/)
+
+• [Dev Resources ES](https://devresourc.es/)
+
+• [Dev Resources Guru](https://devresources.guru/)
+
+• [Emaze](https://www.emaze.com/es/)
 
 • [PageSpeed Compare](https://pagespeed.compare/)
 
@@ -559,7 +604,7 @@
 
 • [kite](https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=fazt&utm_content=description-only)
 
-• [BrowserStack](https://www.browserstack.com/)
+• [Morioh](https://morioh.com/explore?next=%2F)
 
 • [Pastebin](https://pastebin.com/)
 
@@ -586,6 +631,7 @@
 • [Z-Library](https://b-ok.lat/)
 
 • [30 seconds of code](https://www.30secondsofcode.org/)
+
 ## Payment
 • [Stripe](https://tagmanager.google.com/)
 
@@ -595,6 +641,8 @@
 • [freepik](https://www.freepik.com/)
 
 • [Imcreator Free](http://www.imcreator.com/free)
+
+• [UpScaler](https://icons8.com/upscaler)
 
 • [ManyPixels](https://www.manypixels.co/gallery)
 
@@ -727,6 +775,8 @@
 • [Fancy Text Decorator](https://fancytextdecorator.com/)
 
 • [link-to-qr](https://link-to-qr.com/)
+
+• [Local PDF Tools](https://localpdf.tech/)
 
 • [Remove.bg](https://www.remove.bg/)
 
