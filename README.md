@@ -242,8 +242,6 @@
 
 • [Lofi UI](https://lofiui.co/)
 
-• [Lofi UI](https://lofiui.co/)
-
 • [Kitwind](https://kitwind.io/products/kometa)
 
 • [Patrones](https://freebiesupply.com/blog/css-background-patterns/)
