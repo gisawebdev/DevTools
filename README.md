@@ -776,6 +776,8 @@
 
 • [Local PDF Tools](https://localpdf.tech/)
 
+• [npkill](https://www.npmjs.com/package/npkill)
+
 • [Remove.bg](https://www.remove.bg/)
 
 • [ShortcutFoo](https://www.shortcutfoo.com/)
