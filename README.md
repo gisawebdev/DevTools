@@ -668,19 +668,33 @@
 ## React 
 • [Chakra UI](https://chakra-ui.com/)
 
-• [create-react-app](https://create-react-app.dev/docs/getting-started/)
+• [Create React App](https://create-react-app.dev/docs/getting-started/)
+
+• [Framer Motion](https://www.framer.com/motion/)
 
 • [Gatsby.js](https://www.gatsbyjs.com/)
 
-• [MATERIAL-UI](https://material-ui.com/es/)
+• [Material UI](https://material-ui.com/es/)
 
 • [Nextjs](https://nextjs.org/)
 
+• [Pose](https://popmotion.io/pose/)
+
 • [PrimeReact](https://www.primefaces.org/primereact/)
+
+• [React Anime](https://www.npmjs.com/package/react-anime)
 
 • [React Bootstrap](https://react-bootstrap.github.io/)
 
-• [ReactiveX](http://reactivex.io/)
+• [React Gsap](https://www.npmjs.com/package/react-gsap)
+
+• [React Motion](https://www.npmjs.com/package/react-motion)
+
+• [React Spring](https://react-spring.io/)
+
+• [React Reveal](https://www.react-reveal.com/)
+
+• [React Transition Group](https://reactcommunity.org/react-transition-group/)
 
 • [REBASS](https://rebassjs.org/)
 
@@ -688,7 +702,7 @@
 
 • [Redux](https://redux.js.org/)
 
-• [React Router](https://reactrouter.com/web/guides/testing)
+• [React Router](https://reactrouter.com/)
 
 ## Regex
 • [regexr](https://regexr.com/)
@@ -777,6 +791,8 @@
 • [Local PDF Tools](https://localpdf.tech/)
 
 • [npkill](https://www.npmjs.com/package/npkill)
+
+• [ReactiveX](http://reactivex.io/)
 
 • [Remove.bg](https://www.remove.bg/)
 
