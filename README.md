@@ -644,6 +644,8 @@
 
 • [ManyPixels](https://www.manypixels.co/gallery)
 
+• [PlaceImg](https://placeimg.com/)
+
 • [Pexels](https://www.pexels.com)
 
 • [pikwizard](https://pikwizard.com/)
