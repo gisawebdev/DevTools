@@ -359,6 +359,8 @@
 ## HTML
 • [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
 
+• [HTML Hell](https://www.htmhell.dev/)
+
 • [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
 
 • [mytemplate](https://mytemplate.xyz/?ref=producthunt)
@@ -449,6 +451,8 @@
 • [Cleave.js](https://nosir.github.io/cleave.js/)
 
 • [CodeMirror](https://codemirror.net/)
+
+• [Curso de JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed3/blob/master/teoria/clase17.md)
 
 • [Draggable](https://shopify.github.io/draggable/)
 
