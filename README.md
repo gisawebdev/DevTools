@@ -3,6 +3,8 @@
 ## Angular 
 • [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/)
 
+• [Angular Epic Spinners](https://hackafro.github.io/angular-epic-spinners/?s=09)
+
 • [AngularFire](https://github.com/angular/angularfire)
 
 • [Angular Material](https://material.angular.io/)
@@ -223,6 +225,8 @@
 • [Custom Shape Dividers](https://www.shapedivider.app/)
 
 • [EDgrid](https://ed-grid.com/)
+
+• [Epic Spinners](https://epic-spinners.epicmax.co/)
 
 • [fancy corners with CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/)
 
