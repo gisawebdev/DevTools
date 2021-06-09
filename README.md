@@ -442,6 +442,8 @@
 
 • [Bideo.js](https://rishabhp.github.io/bideo.js/)
 
+• [cdnjs](https://cdnjs.com/)
+
 • [Chart.js](https://www.chartjs.org/)
 
 • [Chartist.js](https://gionkunz.github.io/chartist-js/)
