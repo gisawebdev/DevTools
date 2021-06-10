@@ -610,7 +610,9 @@
 
 • [Haikei](https://app.haikei.app/)
 
-• [kite](https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=fazt&utm_content=description-only)
+• [I Love Img](https://www.iloveimg.com/es)
+
+• [I Love Pdf](https://www.ilovepdf.com/es)
 
 • [Morioh](https://morioh.com/explore?next=%2F)
 
@@ -620,11 +622,17 @@
 
 • [Refactoring Guru](https://refactoring.guru/)
 
+• [Resizing](https://resizing.app/)
+
 • [Responsinator](https://www.responsinator.com/)
 
 • [Screenfly](https://bluetree.ai/screenfly/)
 
+• [Screen Recorder](https://snipclip.app/screen-recorder/)
+
 • [Slides](https://slides.com/)
+
+• [Soda Pdf](https://www.sodapdf.com/freeonlinetools/)
 
 • [The Front-End Checklist](https://frontendchecklist.io/)
 
@@ -674,6 +682,8 @@
 
 ## Radio
 • [freeCodeCamp Radio](https://coderadio.freecodecamp.org/)
+
+• [Spaces.fm](https://spaces.fm/)
 
 • [radio.x-team](https://radio.x-team.com/)
 
