@@ -53,6 +53,7 @@
 ## Challenges
 - [100 days css](https://100dayscss.com/)
 - [Ace FrontEnd](https://www.acefrontend.com/)
+- [App Ideas](https://github.com/florinpop17/app-ideas/)
 - [Codepen](https://codepen.io/challenges)
 - [Codier](https://codier.io/)
 - [Css-Tricks](https://css-tricks.com/)
@@ -95,6 +96,7 @@
 - [GetUiColors](http://getuicolors.com)
 - [Introducción a Teoría de Color para Diseñadores Web](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
 - [MaterialCSS](http://materializecss.com/color.html)
+- [Muzli Colors](https://colors.muz.li/)
 - [Mycolor.space](https://mycolor.space/?hex=%23845EC2&sub=1)
 - [Paletton](http://paletton.com)
 - [Smolcss](https://smolcss.dev/)
@@ -124,7 +126,7 @@
 - [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 - [Foundation](https://get.foundation/)
 - [Html-Css-Js.com](https://html-css-js.com/css/generator/box-shadow/)
-- [keyframes.app](https://keyframes.app/animate/)
+- [keyframes.app](https://keyframes.app/)
 - [Kitwind](https://kitwind.io/products/kometa)
 - [Little Snippets](https://www.littlesnippets.net/)
 - [Lofi UI](https://lofiui.co/)
@@ -169,7 +171,11 @@
 - [Hostinger](https://www.hostinger.com/)
 - [NameCheap](https://www.namecheap.com/)
 ## Fonts
+- [FontEsk](https://fontesk.com/)
 - [FontFlipper](https://fontflipper.com/upload)
+- [FontShare](https://www.fontshare.com/)
+- [FontSpark](https://fontspark.app/)
+- [Google Fonts](https://fonts.google.com/)
 - [Google font to SVG path](https://danmarshall.github.io/google-font-to-svg-path/)
 ## Formmater
 - [Prettier](https://prettier.io/)
@@ -200,7 +206,6 @@
 ## Icons
 - [Box Icons](https://boxicons.com/)
 - [CocoMaterial](https://cocomaterial.com/)
-- [DrawKit](https://www.drawkit.io/free-icons)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [Feather Icons](https://feathericons.com/)
 - [Flaticon](https://www.flaticon.com/)
@@ -218,10 +223,15 @@
 - [Polaris icon](https://polaris-icons.shopify.com/)
 - [The Noun Project](https://thenounproject.com/)
 - [Visiwig](https://www.visiwig.com/)
+## Illustration
+- [DrawKit](https://www.drawkit.io/free-icons)
+- [Illustation](https://illustation.io/)
+- [IRA Design](https://iradesign.io/)
+- [UnDraw](https://undraw.co/)
 ## Inspiration
 - [Admire the web](http://www.admiretheweb.com)
 - [Awwwards](https://www.awwwards.com)
-- [behance](https://www.behance.net)
+- [Behance](https://www.behance.net)
 - [Colección de elementos de Diseño](http://calltoidea.com)
 - [Dribble](https://dribbble.com)
 - [Flatdsgn](http://flatdsgn.com)
@@ -277,7 +287,7 @@
 - [ESLint](https://eslint.org/)
 - [JSLint](https://jslint.com/)
 ## Manager
-- [Google Tag Manager](https://stripe.com/)
+- [Google Tag Manager](https://tagmanager.google.com/)
 ## Maps
 - [Mapbox](https://www.mapbox.com/)
 - [MyMappi](https://mymappi.com/)
@@ -352,6 +362,7 @@
 - [CoolBackgrounds](https://coolbackgrounds.io/)
 - [Foodiesfeed](https://www.foodiesfeed.com)
 - [Freepik](https://www.freepik.com/)
+- [Giphy](https://giphy.com/)
 - [Itg.Digital](https://itg.digital/)
 - [Imcreator Free](http://www.imcreator.com/free)
 - [ManyPixels](https://www.manypixels.co/gallery)
@@ -363,7 +374,6 @@
 - [Subttle Pattern](https://www.toptal.com/designers/subtlepatterns/)
 - [The Patter Library](http://thepatternlibrary.com)
 - [The Stocks](http://thestocks.im)
-- [UnDraw](https://undraw.co/)
 - [Unsplash](https://unsplash.com)
 - [UpScaler](https://icons8.com/upscaler)
 ## Radio
@@ -436,19 +446,26 @@
 ## Templates
 - [Graphberry](https://www.graphberry.com/category/free-html-web-templates)
 ## Tools
+- [A List Apart](https://alistapart.com/)
 - [Avataaars generator](https://getavataaars.com/)
 - [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/)
 - [BlobMaker](https://www.blobmaker.app/)
+- [Can I Use](https://caniuse.com/)
 - [CleanMock](https://cleanmock.com/)
 - [Fancy Text Decorator](https://fancytextdecorator.com/)
+- [Hidden Tools](https://hiddentools.dev/)
 - [Link-to-qr](https://link-to-qr.com/)
 - [Local PDF Tools](https://localpdf.tech/)
+- [Mobbin](https://mobbin.design/)
 - [Npkill](https://www.npmjs.com/package/npkill)
 - [ReactiveX](http://reactivex.io/)
 - [Remove.bg](https://www.remove.bg/)
 - [ScreenToGif](https://www.screentogif.com/)
 - [ShotSnapp](https://shotsnapp.com/)
 - [ShortcutFoo](https://www.shortcutfoo.com/)
+- [UnScreen](https://www.unscreen.com/)
+
+
 <!-- Icons -->
 [Angular]: <img align="center" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 [CSS3]: <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
