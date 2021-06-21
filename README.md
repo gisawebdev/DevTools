@@ -315,6 +315,7 @@
 - [AccountKiller](https://www.accountkiller.com/en/home)
 - [Alternativeto](https://alternativeto.net/)
 - [AWS Device Farm](https://aws.amazon.com/device-farm/)
+- [Bezier](https://bezier.method.ac/)
 - [Biolinky.co](https://biolinky.co/landing?ref=p_uxbs)
 - [BrowserStack](https://www.browserstack.com/)
 - [Bundlephobia](https://bundlephobia.com/)
@@ -355,6 +356,7 @@
 - [Undesign](https://undesign.learn.uno/)
 - [WebComponents](https://www.webcomponents.org/)
 - [Website Responsive Testing Tool](http://responsivetesttool.com/)
+- [WIFI Map](https://www.wifimap.io/)
 - [Z-Library](https://b-ok.lat/)
 ## Payment
 - [Stripe](https://tagmanager.google.com/)
@@ -383,6 +385,7 @@
 ## React 
 - [Chakra UI](https://chakra-ui.com/)
 - [Create React App](https://create-react-app.dev/docs/getting-started/)
+- [Element Z](https://elementz.style/#section-introduction)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Gatsby.js](https://www.gatsbyjs.com/)
 - [Material UI](https://material-ui.com/es/)
@@ -391,6 +394,7 @@
 - [PrimeReact](https://www.primefaces.org/primereact/)
 - [React Anime](https://www.npmjs.com/package/react-anime)
 - [React Bootstrap](https://react-bootstrap.github.io/)
+- [React Example](https://reactjsexample.com/)
 - [React Gsap](https://www.npmjs.com/package/react-gsap)
 - [React Motion](https://www.npmjs.com/package/react-motion)
 - [React Reveal](https://www.react-reveal.com/)
