@@ -464,6 +464,7 @@
 - [Npkill](https://www.npmjs.com/package/npkill)
 - [ReactiveX](http://reactivex.io/)
 - [Remove.bg](https://www.remove.bg/)
+- [Responsively](https://responsively.app/)
 - [ScreenToGif](https://www.screentogif.com/)
 - [ShotSnapp](https://shotsnapp.com/)
 - [ShortcutFoo](https://www.shortcutfoo.com/)
