@@ -435,6 +435,7 @@
 - [React Gsap](https://www.npmjs.com/package/react-gsap)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Hot Toast](https://react-hot-toast.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 - [React Motion](https://www.npmjs.com/package/react-motion)
 - [React Query](https://react-query.tanstack.com/)
 - [React Reveal](https://www.react-reveal.com/)
