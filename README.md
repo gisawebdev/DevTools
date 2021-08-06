@@ -504,10 +504,14 @@
 - [NordVpn](https://nordvpn.com/)
 ## Vue
 - [Ionic Vue](https://ionicframework.com/docs/vue/overview)
+- [Quasar](https://quasar.dev/)
+- [Nuxt](https://nuxtjs.org/)
 - [Vue](https://v3.vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Vuex](https://vuex.vuejs.org/#what-is-a-state-management-pattern)
 - [Vue CLI](https://cli.vuejs.org/)
 - [Vue Devtools](https://devtools.vuejs.org/guide/installation.html)
-- [Nuxt](https://nuxtjs.org/)
+- [Vue Router](https://router.vuejs.org/)
 ## Templates
 - [Graphberry](https://www.graphberry.com/category/free-html-web-templates)
 ## Tools
