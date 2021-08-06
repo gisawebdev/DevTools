@@ -423,7 +423,11 @@
 - [NCS](https://ncs.io/)
 - [Radio.x-team](https://radio.x-team.com/)
 - [Spaces.fm](https://spaces.fm/)
-## React 
+## React
+- [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React)
+- [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)
+- [Awesome React](https://github.com/enaqx/awesome-react#react-libraries)
+- [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme)
 - [Chakra UI](https://chakra-ui.com/)
 - [Create React App](https://create-react-app.dev/docs/getting-started/)
 - [Element Z](https://elementz.style/#section-introduction)
@@ -443,8 +447,11 @@
 - [React Hook Form](https://react-hook-form.com/)
 - [React Hot Toast](https://react-hot-toast.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - [React Motion](https://www.npmjs.com/package/react-motion)
 - [React Query](https://react-query.tanstack.com/)
+- [React Patterns](https://reactpatterns.com/)
+- [React Redux Links](https://github.com/markerikson/react-redux-links)
 - [React Reveal](https://www.react-reveal.com/)
 - [React Router](https://reactrouter.com/)
 - [React Spring](https://react-spring.io/)
@@ -454,6 +461,8 @@
 - [Recoil](https://recoiljs.org/)
 - [Redux](https://redux.js.org/)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es)
+- [Reed Barger](https://reedbarger.com/)
+- [useHooks](https://usehooks.com/)
 - [Wouter](https://github.com/molefrog/wouter)
 - [Zustand](https://github.com/pmndrs/zustand)
 ## React Native
