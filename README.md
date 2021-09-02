@@ -159,6 +159,19 @@
 - [UI Guideline](https://www.uiguideline.com/components)
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
 - [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
+
+## DataBase
+- [ArangoDB](https://www.arangodb.com/)
+- [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/)
+- [Apache Cassandra](https://cassandra.apache.org/_/index.html)
+- [MariaDB](https://mariadb.org/)
+- [Microsoft SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
+- [MongoDB](https://www.mongodb.com/es)
+- [MySQL](https://www.mysql.com/)
+- [Oracle DataBase](https://www.oracle.com/database/technologies/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Redis](https://redis.io/)
+- [SQLite](https://www.sqlite.org/index.html)
 ## Design
 - [Ant Design](https://ant.design/)
 - [AppMockUp](https://app-mockup.com/)
@@ -323,6 +336,10 @@
 - [Real Favicon Generator](https://realfavicongenerator.net)
 - [Tiny Png](https://tinypng.com/)
 - [Vista previa en multiples dispositivos](http://www.responsinator.com)
+
+## ORM
+- [Sequelize](https://sequelize.org/) - Node
+- [Typeorm](https://typeorm.io/#/) - TypeScript 
 ## Package Manager
 - [NPM](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
@@ -544,6 +561,7 @@
 - [ReactiveX](http://reactivex.io/)
 - [Remove.bg](https://www.remove.bg/)
 - [Responsively](https://responsively.app/)
+- [Robo Mongo](https://robomongo.org/)
 - [ScreenToGif](https://www.screentogif.com/)
 - [ShotSnapp](https://shotsnapp.com/)
 - [ShortcutFoo](https://www.shortcutfoo.com/)
