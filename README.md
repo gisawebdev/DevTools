@@ -311,6 +311,7 @@
 ## Learn
 - [Digital Defynd](https://digitaldefynd.com/)
 - [Mem](https://mem.dev/)
+- [LeetCode](https://leetcode.com/)
 - [The Odin Projec](https://www.theodinproject.com/)
 ## Linters
 - [ESLint](https://eslint.org/)
