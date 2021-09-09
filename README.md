@@ -551,6 +551,7 @@
 - [Vuex](https://vuex.vuejs.org/#what-is-a-state-management-pattern)
 - [Vue CLI](https://cli.vuejs.org/)
 - [Vue Devtools](https://devtools.vuejs.org/guide/installation.html)
+- [Vue.js Examples](https://vuejsexamples.com/)
 - [Vue Router](https://router.vuejs.org/)
 ## Templates
 - [Graphberry](https://www.graphberry.com/category/free-html-web-templates)
