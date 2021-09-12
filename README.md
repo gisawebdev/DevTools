@@ -212,8 +212,12 @@
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [FlexBox Froggy](https://flexboxfroggy.com/)
 - [FlexBox Zombies](https://mastery.games/flexboxzombies/)
+- [Get Gamez](https://getgamez.net/)
 - [Grid Garden](https://cssgridgarden.com/)
+- [Lyrics Training](https://es.lyricstraining.com/)
 - [Oh My Git](https://ohmygit.org/)
+- [Pivi Games](https://pivigames.blog/)
+- [Side Hustle Stack](https://sidehustlestack.co/)
 - [VIM Adventures](https://vim-adventures.com/)
 ## Hosting
 - [Digital Ocean](https://www.digitalocean.com/)
@@ -385,6 +389,7 @@
 - [Image Cyborg](https://imagecyborg.com/)
 - [Kamua](https://kamua.com/)
 - [Kontra](https://application.security/)
+- [Lectulandia](https://lectulandia.to/)
 - [Library Genesis](https://libgen.is/)
 - [Que Estudiar](https://www.queestudiar.org/)
 - [Miro](https://miro.com/es/)
@@ -443,6 +448,12 @@
 - [The Stocks](http://thestocks.im)
 - [Unsplash](https://unsplash.com)
 - [UpScaler](https://icons8.com/upscaler)
+
+## Python
+- [Anaconda](https://www.anaconda.com/)
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://palletsprojects.com/p/flask/)
+- [Python](https://www.python.org/)
 ## Radio
 - [FreeCodeCamp Radio](https://coderadio.freecodecamp.org/)
 - [NCS](https://ncs.io/)
@@ -580,6 +591,13 @@
 - [ShortcutFoo](https://www.shortcutfoo.com/)
 - [UnScreen](https://www.unscreen.com/)
 - [Toolb.dev](https://www.toolb.dev/)
+
+## Work
+- [arc.dev](https://arc.dev/)
+- [JustRemote](https://justremote.co/)
+- [remote.io](https://www.remote.io/)
+- [RemoteOk](https://remoteok.io/)
+- [seek.co.nz](https://www.seek.co.nz/jobs)
 
 
 <!-- Icons -->
