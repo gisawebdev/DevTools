@@ -500,6 +500,7 @@
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es)
 - [Reed Barger](https://reedbarger.com/)
 - [useHooks](https://usehooks.com/)
+- [usehooks-typescript](https://usehooks-typescript.com/)
 - [Wouter](https://github.com/molefrog/wouter)
 - [Zustand](https://github.com/pmndrs/zustand)
 ## React Native
