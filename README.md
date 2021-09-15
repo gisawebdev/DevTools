@@ -138,59 +138,59 @@
 ## CSS 
 | Link | Description |
 | ---- | ----------- |
-| [Animate.css](https://animate.style/) | Text |
-| [Animista.net](https://animista.net/play/basic/rotate-90) | Text |
-| [AOS](https://michalsnik.github.io/aos/) | Text |
-| [BootStrap](https://getbootstrap.com/) | Text |
-| [Box-shadow.dev](https://box-shadow.dev/) | Text |
-| [Bulma](https://bulma.io/) | Text |
-| [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/) | Text |
-| [CSS Clip-path maker](https://bennettfeely.com/clippy/) | Text |
-| [Css Gradient](https://cssgradient.io/) | Text |
-| [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | Text |
-| [CSS Layout](https://csslayout.io/) | Text |
-| [CSS Scroll Shadows!](https://css-scroll-shadows.vercel.app/?bgColor=fcaef2&shadowColor=222222&pxSize=22) | Text |
-| [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | Text |
-| [CSS Effects](https://emilkowalski.github.io/css-effects-snippets/) | Text |
-| [Custom Shape Dividers](https://www.shapedivider.app/) | Text |
-| [EDgrid](https://ed-grid.com/) | Text |
-| [Epic Spinners](https://epic-spinners.epicmax.co/) | Text |
-| [Fancy Corners With CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/) | Text |
-| [FlexBox Defense](http://www.flexboxdefense.com/) | Text |
-| [FLEXBOX FROGGY](https://flexboxfroggy.com/) | Text |
-| [Flexy Boxes](https://the-echoplex.net/flexyboxes/) | Text |
-| [Foundation](https://get.foundation/) | Text |
-| [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) | Text |
-| [Html-Css-Js.com](https://html-css-js.com/css/generator/box-shadow/) | Text |
-| [keyframes.app](https://keyframes.app/) | Text |
-| [Kitwind](https://kitwind.io/products/kometa) | Text |
-| [Layoutit](https://www.layoutit.com/) | Text |
-| [Little Snippets](https://www.littlesnippets.net/) | Text |
-| [Lofi UI](https://lofiui.co/) | Text |
-| [MaterialCSS](https://materializecss.com/) | Text |
-| [Neumorphism](https://neumorphism.io/#ffffff) | Text |
-| [Normalize.css](https://necolas.github.io/normalize.css/) | Text |
-| [Patrones](https://freebiesupply.com/blog/css-background-patterns/) | Text |
-| [Pixel Art CSS](https://www.pixelartcss.com/) | Text |
-| [Pure.css](https://purecss.io/) | Text |
-| [Sass](https://sass-lang.com/) | Text |
-| [Selectores de CSS que debes memorizar](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) | Text |
-| [Skeleton.CSS](http://getskeleton.com/) | Text |
+| [Animate.css](https://animate.style/) | Just-add-water CSS animations. |
+| [Animista.net](https://animista.net/play/basic/rotate-90) | Animista is a place where you can play with a collection of pre-made css animations, tweak them and get only those you will actually use. |
+| [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
+| [BootStrap](https://getbootstrap.com/) | Build fast, responsive sites with Bootstrap. |
+| [Box-shadow.dev](https://box-shadow.dev/) | Box shadows are fun. This is a web app to help you create awesome box shadows. |
+| [Bulma](https://bulma.io/) | Bulma: the modern CSS framework that just works. |
+| [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/) | Beautiful pure CSS background patterns that you can actually use in your projects! |
+| [CSS Clip-path maker](https://bennettfeely.com/clippy/) | The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source. |
+| [Css Gradient](https://cssgradient.io/) | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites. |
+| [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | This project is a way for people to use CSS Grid features quickly to create dynamic layouts. |
+| [CSS Layout](https://csslayout.io/) | Popular Layouts & patterns made with CSS. |
+| [CSS Scroll Shadows!](https://css-scroll-shadows.vercel.app/?bgColor=fcaef2&shadowColor=222222&pxSize=22) | Adjust the controls and see the CSS scroll shadows change |
+| [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | This is a collection of pure css section separators with the possibility to customize and copy the code. |
+| [CSS Reference](https://tympanus.net/codrops/css_reference/) | An extensive CSS reference with all the important properties and info to learn CSS from the basics |
+| [Custom Shape Dividers](https://www.shapedivider.app/) | We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool. |
+| [EDgrid](https://ed-grid.com/) | Maqueta sitios y aplicaciones web sin una línea de CSS |
+| [Epic Spinners](https://epic-spinners.epicmax.co/) | Css only. Easy to use. |
+| [Fancy Corners With CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/) | Creating fancy corners is one of them. With a just few lines of CSS code, you can easily beautify the corners of HTML elements and create stunning visuals for users to interact with. |
+| [FlexBox Defense](http://www.flexboxdefense.com/) | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS! |
+| [FLEXBOX FROGGY](https://flexboxfroggy.com/) | Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! |
+| [Flexy Boxes](https://the-echoplex.net/flexyboxes/) | Flexbox playground and code generator. |
+| [Foundation](https://get.foundation/) | The most advanced responsive front-end framework in the world. |
+| [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) | Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties. |
+| [Html-Css-Js.com](https://html-css-js.com/css/generator/box-shadow/) | Box-Shadow CSS Generator. |
+| [keyframes.app](https://keyframes.app/) | Keyframes helps you write better CSS. |
+| [Kitwind](https://kitwind.io/products/kometa) | We are giving away our first UI kit for free. It includes over 130 sections, built with TailwindCSS, for your awesome projects. |
+| [Layoutit](https://www.layoutit.com/) | Try our simple frontend and management tools. |
+| [Little Snippets](https://www.littlesnippets.net/) | Little Snippets |
+| [Lofi UI](https://lofiui.co/) | Re-usable and re-workable components designed to be hacked at. Start here, add your own style, and build something awesome. |
+| [MaterialCSS](https://materializecss.com/) | A modern responsive front-end framework based on Material Design. |
+| [Neumorphism](https://neumorphism.io/#ffffff) | Generate Soft-UI CSS code. |
+| [Normalize.css](https://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
+| [Patterns](https://freebiesupply.com/blog/css-background-patterns/) | I’m always amazed at the things you can make with CSS3. |
+| [Pixel Art CSS](https://www.pixelartcss.com/) | Pixel Art to CSS is an online editor that helps you with that task. |
+| [Pure.css](https://purecss.io/) | A set of small, responsive CSS modules that you can use in every web project. |
+| [Sass](https://sass-lang.com/) | Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. |
+| [Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) | The 30 CSS Selectors You Must Memorize |
+| [Skeleton.CSS](http://getskeleton.com/) | A dead simple, responsive boilerplate. |
 | [Smolcss](https://smolcss.dev/) | Minimal snippets for modern CSS layouts and components. |
-| [Smooth Shadow](https://shadows.brumm.af/) | Text |
-| [Snippets](https://tympanus.net/codrops/css_reference/) | Text |
-| [Tail-Kit](https://www.tailwind-kit.com/) | Text |
-| [TailBlocks](https://tailblocks.cc/) | Text |
-| [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) | Text |
-| [Tailwind Templates](https://tailwindtemplates.io/) | Text |
-| [Tailwind Toolbox](https://www.tailwindtoolbox.com/) | Text |
-| [TailWind](https://tailwindcss.com/) | Text |
-| [TailWindComponents](https://tailwindcomponents.com/) | Text |
-| [Theme UI](https://theme-ui.com/) | Text |
-| [Top 25 CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Text |
-| [UI Guideline](https://www.uiguideline.com/components) | Text |
-| [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | Text |
-| [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/) | Text |
+| [Smooth Shadow](https://shadows.brumm.af/) | Make a smooth shadow, friend. |
+| [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0. It's all compatible with React, VueJS and Angular application. |
+| [TailBlocks](https://tailblocks.cc/) | Ready-to-use Tailwind CSS blocks. |
+| [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) | A unique collection of Copy & Paste TailwindCSS buttons 🙌. |
+| [Tailwind Templates](https://tailwindtemplates.io/) | This site is an open source project providing collections of templates & components for Rapid UI Development using Tailwind CSS. Simply copy & paste! |
+| [Tailwind Toolbox](https://www.tailwindtoolbox.com/) | Free Tailwind CSS Templates, Components and Resources. |
+| [TailWind](https://tailwindcss.com/) | Rapidly build modern websites without ever leaving your HTML. |
+| [TailWindComponents](https://tailwindcomponents.com/) | A free repository for community
+components using TailwindCSS |
+| [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
+| [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
+| [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
+| [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | One of the CSS units I use most is the wonderful % — so handy for positioning elements on the page. |
+| [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/) | As a Web developer, I believe CSS is one of our necessary skills. |
 
 ## DataBase
 | Link | Description |
