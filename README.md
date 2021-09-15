@@ -3,18 +3,16 @@
 ## Angular 
 | Link | Description |
 | ---- | ----------- |
-| [Angular / Cordova](https://medium.com/@nacojohn/convert-your-angular-project-to-mobile-app-using-cordova-f0384a7711a6) | Text |
-| [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/) | Text |
-| [Angular Epic Spinners](https://hackafro.github.io/angular-epic-spinners/?s=09) | Text |
-| [Angular Material](https://material.angular.io/) | Text |
-| [Angular Tips](https://auth0.com/blog/angular-9s-best-hidden-feature-strict-template-checking/) | Text |
-| [AngularFire](https://github.com/angular/angularfire) | Text |
-| [NG-Lightning](https://ng-lightning.github.io/ng-lightning/#/) | Text |
-| [NG-Prime](https://www.primefaces.org/primeng/) | Text |
-| [NG-ZORRO](https://ng.ant.design/docs/introduce/en) | Text |
-| [ng2-charts](https://valor-software.com/ng2-charts/) | Text |
-| [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination) | Text |
-| [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/) | Text |
+| [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/) | This article explores the patterns in Angular applications that make your code less readable and maintainable, like polluting the ngOnInit or writing useless directive selectors. |
+| [Angular Epic Spinners](https://hackafro.github.io/angular-epic-spinners/?s=09) | Reusable angular components for epic spinners. |
+| [Angular Material](https://material.angular.io/) | Material Design components for Angular. |
+| [AngularFire](https://github.com/angular/angularfire) | The official Angular library for Firebase. |
+| [NG-Lightning](https://ng-lightning.github.io/ng-lightning/#/) | Native Angular components & directives for Lightning Design System. |
+| [NG-Prime](https://www.primefaces.org/primeng/) | The Most Powerful Angular UI Component Library. |
+| [NG-ZORRO](https://ng.ant.design/docs/introduce/en) | An enterprise-class Angular UI component library based on Ant Design, all components are open source and free to use under MIT license. |
+| [ng2-charts](https://valor-software.com/ng2-charts/) | Beautiful charts for Angular based on Chart.js |
+| [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination) | Bootstrap components, powered by Angular. |
+| [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/) | 15 Free & Open-Source Angular Components. |
 
 ## APIS
 | Link | Description |
