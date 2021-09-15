@@ -110,6 +110,7 @@
 | [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. |
 | [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=en) | Video messaging for work. |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es) | Adds React debugging tools to the Chrome Developer Tools |
+| [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es) | Redux DevTools for debugging application's state changes. |
 | [Search Stackoverflow](https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj) | Stackoverflow Search Extension. |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en) | Extract colours from any website. |
 | [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) | Redesign the web with Stylus, a user styles manager. Stylus allows you to easily install themes and skins for many popular sites. |
@@ -517,62 +518,59 @@
 | [Anaconda](https://www.anaconda.com/) | A movement that brings together millions of data science practitioners, data-driven enterprises, and the open source community. |
 | [Django](https://www.djangoproject.com/) | Django makes it easier to build better web apps more quickly and with less code. |
 | [Flask](https://palletsprojects.com/p/flask/) | Flask is a lightweight WSGI web application framework. |
-| [Python](https://www.python.org/) | Python is a programming language that lets you work quickly
-and integrate systems more effectively. |
+| [Python](https://www.python.org/) | Python is a programming language that lets you work quickly and integrate systems more effectively. |
 ## Radio
 | Link | Description |
 | ---- | ----------- |
-| [FreeCodeCamp Radio](https://coderadio.freecodecamp.org/) | Text |
-| [NCS](https://ncs.io/) | Text |
-| [Radio.x-team](https://radio.x-team.com/) | Text |
-| [Spaces.fm](https://spaces.fm/) | Text |
+| [FreeCodeCamp Radio](https://coderadio.freecodecamp.org/) | Welcome to Code Radio. 24/7 music designed for coding. |
+| [NCS](https://ncs.io/) | Music without limitations. |
+| [Radio.x-team](https://radio.x-team.com/) | Radio.x-team. |
+| [Spaces.fm](https://spaces.fm/) | Spaces.fm |
 ## React
 | Link | Description |
 | ---- | ----------- |
-| [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Text |
-| [45 NPM Packages to Solve 16 React Problems](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224) | Text |
-| [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Text |
-| [Awesome React](https://github.com/enaqx/awesome-react#react-libraries) | Text |
-| [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) | Text |
-| [Chakra UI](https://chakra-ui.com/) | Text |
-| [Create React App](https://create-react-app.dev/docs/getting-started/) | Text |
-| [Element Z](https://elementz.style/#section-introduction) | Text |
-| [Framer Motion](https://www.framer.com/motion/) | Text |
-| [Gatsby.js](https://www.gatsbyjs.com/) | Text |
-| [Ionic React](https://ionicframework.com/docs/react) | Text |
-| [Material UI](https://material-ui.com/es/) | Text |
-| [Nextjs](https://nextjs.org/) | Text |
-| [Pose](https://popmotion.io/pose/) | Text |
-| [PrimeReact](https://www.primefaces.org/primereact/) | Text |
-| [React](https://reactjs.org/) | Text |
-| [React Anime](https://www.npmjs.com/package/react-anime) | Text |
-| [React Bootstrap](https://react-bootstrap.github.io/) | Text |
+| [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Congratulations on deciding to participate in 30 days of React programming challenge. |
+| [45 NPM Packages](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224) | 45 NPM Packages to Solve 16 React Problems |
+| [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
+| [Awesome React](https://github.com/enaqx/awesome-react#react-libraries) | A collection of awesome things regarding the React ecosystem. |
+| [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) | A curated list about React Hooks. |
+| [Chakra UI](https://chakra-ui.com/) | Create accessible React apps with speed. |
+| [Create React App](https://create-react-app.dev/docs/getting-started/) | Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration. |
+| [Element Z](https://elementz.style/#section-introduction) | A React Component library for buliding modern applications easily & quickly. |
+| [Framer Motion](https://www.framer.com/motion/) | A production-ready motion library for React. |
+| [Gatsby.js](https://www.gatsbyjs.com/) | The fastest way to run the fastest frontend. |
+| [Ionic React](https://ionicframework.com/docs/react) | One Codebase Any Platform Just React |
+| [Material UI](https://material-ui.com) | React components for faster and easier web development. Build your own design system, or start with Material Design. |
+| [Nextjs](https://nextjs.org/) | The React Framework for Production |
+| [Pose](https://popmotion.io/pose/) | A truly simple animation library for React, React Native, and Vue. |
+| [PrimeReact](https://www.primefaces.org/primereact/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
+| [React](https://reactjs.org/) | A JavaScript library for building user interfaces. |
+| [React Anime](https://www.npmjs.com/package/react-anime) | A super easy animation library for React built on top of Julian Garnier's. |
+| [React Bootstrap](https://react-bootstrap.github.io/) | The most popular front-end framework Rebuilt for React. |
 | [Recharts](https://recharts.org/en-US/) | A composable charting library built on React components |
-| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es) | Text |
-| [React Example](https://reactjsexample.com/) | Text |
-| [React Gsap](https://www.npmjs.com/package/react-gsap) | Text |
-| [React Hook Form](https://react-hook-form.com/) | Text |
-| [React Hot Toast](https://react-hot-toast.com/) | Text |
-| [React Icons](https://react-icons.github.io/react-icons/) | Text |
-| [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) | Text |
-| [React Motion](https://www.npmjs.com/package/react-motion) | Text |
-| [React Query](https://react-query.tanstack.com/) | Text |
-| [React Patterns](https://reactpatterns.com/) | Text |
-| [React Redux Links](https://github.com/markerikson/react-redux-links) | Text |
-| [React Reveal](https://www.react-reveal.com/) | Text |
-| [React Router](https://reactrouter.com/) | Text |
-| [React Spring](https://react-spring.io/) | Text |
-| [React Tutorial](https://react-tutorial.app/) | Text |
-| [React Transition Group](https://reactcommunity.org/react-transition-group/) | Text |
-| [REBASS](https://rebassjs.org/) | Text |
-| [Recoil](https://recoiljs.org/) | Text |
-| [Redux](https://redux.js.org/) | Text |
-| [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es) | Text |
-| [Reed Barger](https://reedbarger.com/) | Text |
-| [useHooks](https://usehooks.com/) | Text |
-| [usehooks-typescript](https://usehooks-typescript.com/) | Text |
-| [Wouter](https://github.com/molefrog/wouter) | Text |
-| [Zustand](https://github.com/pmndrs/zustand) | Text |
+| [React Examples](https://reactjsexample.com/) | React Examples |
+| [React Gsap](https://www.npmjs.com/package/react-gsap) | lets you use the GreenSock Animation Platform (GSAP) in React in a fully declarative way. It abstracts away the direct use of the GSAP Tween and Timeline functions. |
+| [React Hook Form](https://react-hook-form.com/) | Performant, flexible and extensible forms with easy-to-use validation. |
+| [React Hot Toast](https://react-hot-toast.com/) | The Best Toast in Town. Smoking hot React notifications. |
+| [React Icons](https://react-icons.github.io/react-icons/) | Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using. |
+| [React Interview](https://github.com/sudheerj/reactjs-interview-questions) | React Interview Questions & Answers |
+| [React Motion](https://www.npmjs.com/package/react-motion) | For 95% of use-cases of animating components, we don't have to resort to using hard-coded easing curves and duration. |
+| [React Query](https://react-query.tanstack.com/) | Performant and powerful data synchronization for React. |
+| [React Patterns](https://reactpatterns.com/) | Get the latest React patterns, tips, and tricks right to your inbox. |
+| [React Redux Links](https://github.com/markerikson/react-redux-links) | Curated tutorial and resource links I've collected on React, Redux, ES6, and more. |
+| [React Reveal](https://www.react-reveal.com/) | React Reveal is an animation framework for React. |
+| [React Router](https://reactrouter.com/) | React Router is a collection of navigational components that compose declaratively with your application. |
+| [React Spring](https://react-spring.io/) | React-spring is a spring-physics based animation library that should cover most of your UI related animation needs. |
+| [React Tutorial](https://react-tutorial.app/) | The easiest way to learn React. |
+| [React Transition Group](https://reactcommunity.org/react-transition-group/) | Exposes simple components useful for defining entering and exiting transitions. |
+| [REBASS](https://rebassjs.org/) | Rebass react primitive ui components built with styled system. |
+| [Recoil](https://recoiljs.org/) | A state management library for React. |
+| [Redux](https://redux.js.org/) | A Predictable State Container for JS Apps. |
+| [Reed Barger](https://reedbarger.com/) | Reed Barger Blog. |
+| [useHooks](https://usehooks.com/) | Easy to understand React Hook recipes by ui.dev |
+| [usehooks-typescript](https://usehooks-typescript.com/) | useHooks(🔥).ts Simple React hooks, ready to use, written in typescript. |
+| [Wouter](https://github.com/molefrog/wouter) | Wouter is a tiny router for modern React and Preact apps that relies on Hooks. A router you wanted so bad in your project! |
+| [Zustand](https://github.com/pmndrs/zustand) | A small, fast and scalable bearbones state-management solution using simplified flux principles. Has a comfy api based on hooks, isn't boilerplatey or opinionated. |
 ## React Native
 | Link | Description |
 | ---- | ----------- |
