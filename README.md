@@ -22,6 +22,7 @@
 | [Notion API](https://developers.notion.com/) | Connect Notion pages and databases to the tools you use every day, creating powerful workflows. |
 | [Spotify API](https://developer.spotify.com/documentation/web-api/) | Create a simple server-side application that accesses user related data through the Spotify Web API. |
 | [Poke API](https://pokeapi.co/) | All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API. |
+| [Public Apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. |
 | [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) | The Movie Database (TMDB) API. Below you will find a current list of the available methods on our movie, tv, actor and image API. |
 | [Random API](https://randomapi.com/) | Easily generate fake data for populating your mockups and testing your applications. |
 | [Unsplash API](https://source.unsplash.com/) | Simple embedding for Unsplash photos. |
@@ -266,10 +267,11 @@
 ## HTML
 | Link  | Description |
 | ----- | ----------- |
-| [Special Characters](https://css-tricks.com/snippets/html/glyphs/) | Special Characters. |
+| [Graphberry](https://www.graphberry.com/category/free-html-web-templates) | Free HTML web themes Exclusive collection of free responsive web templates |
 | [HTML Hell](https://www.htmhell.dev/) | A collection of bad practices in HTML, copied from real websites. |
 | [mytemplate](https://mytemplate.xyz/?ref=producthunt) | A no-code template for developer site. |
 | [Pixeden](https://www.pixeden.com/free-design-web-resources) | Pixeden is hard at work providing quality web resources. |
+| [Special Characters](https://css-tricks.com/snippets/html/glyphs/) | Special Characters. |
 | [W3C validator](https://validator.w3.org) | This validator checks the markup validity. |
 ## Icons
 | Link | Description |
@@ -574,130 +576,123 @@
 ## React Native
 | Link | Description |
 | ---- | ----------- |
-| [Expo](https://expo.dev/) | Text |
-| [React Native](https://reactnative.dev/) | Text |
+| [Expo](https://expo.dev/) | Make any app. Run it everywhere. |
+| [React Native](https://reactnative.dev/) | Learn once, write anywhere. |
 ## Regex
 | Link | Description |
 | ---- | ----------- |
-| [I Hate Regex](https://ihateregex.io/) | Text |
-| [Regexr](https://regexr.com/) | Text |
+| [I Hate Regex](https://ihateregex.io/) | Now you have two problems. |
+| [Regexr](https://regexr.com/) | RegExr.com is an online tool to learn, build, and test Regular Expressions. |
 ## SEO
 | Link | Description |
 | ---- | ----------- |
-| [SEO](http://webdesign.tutsplus.com/articles/a-web-designers-seo-checklist-including-portable-formats--webdesign-) | Text |
-| [WooRank](https://www.woorank.com) | Text |
+| [WooRank](https://www.woorank.com) | A simpler way to grow your business. |
 ## Share Code
 | Link | Description |
 | ---- | ----------- |
-| [Codepen](https://codepen.io/) | Text |
-| [CodeShare](https://codeshare.io/) | Text |
-| [Stackblitz](https://stackblitz.com/) | Text |
+| [Codepen](https://codepen.io/) | The best place to build, test, and discover front-end code. |
+| [CodeShare](https://codeshare.io/) | Share Code in Real-time with Developers. |
+| [Stackblitz](https://stackblitz.com/) | The fastest, most secure dev environment on the planet. |
 ## SVG
 | Link | Description |
 | ---- | ----------- |
-| [Generate SVG Waves 🌊](https://svgwave.in/) | Text |
-| [SVG Backgrounds](https://www.svgbackgrounds.com/) | Text |
-| [Vector Logo](https://worldvectorlogo.com/) | Text |
+| [Generate SVG Waves 🌊](https://svgwave.in/) | SVG Wave is a tiny, free and beautiful gradient SVG waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |
+| [SVG Backgrounds](https://www.svgbackgrounds.com/) | Customize and apply backgrounds fast. |
+| [Vector Logo](https://worldvectorlogo.com/) | Download vector logos. |
 ## Testing
 | Link | Description |
 | ---- | ----------- |
-| [Cypress](https://www.cypress.io/) | Text |
-| [Enzyme](https://enzymejs.github.io/enzyme/), [enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17), [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json) | Text |
-| [Jasmine](https://jasmine.github.io/) | Text |
-| [Jest.js](https://jestjs.io/) | Text |
-| [Testing Library](https://testing-library.com/) | Text |
+| [Cypress](https://www.cypress.io/) | The web has evolved. Finally, testing has too. |
+| [Enzyme](https://enzymejs.github.io/enzyme/), [enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17), [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json) | Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. Enzyme-adapter-react-17 Unofficial adapter for React 17 for Enzyme. Enzyme-to-json Convert Enzyme wrappers to a format compatible with Jest snapshot testing.|
+| [Jasmine](https://jasmine.github.io/) | Behavior-Driven JavaScript. |
+| [Jest.js](https://jestjs.io/) | Jest is a delightful JavaScript Testing Framework with a focus on simplicity. |
+| [Testing Library](https://testing-library.com/) | Simple and complete testing utilities that encourage good testing practices. |
 ## Transpilers
 | Link | Description |
 | ---- | ----------- |
-| [Babel](https://expressjs.com/) | Text |
-| [TypeScript](https://www.typescriptlang.org/) | Text |
+| [Babel](https://babeljs.io/) | Babel is a JavaScript compiler. Use next generation JavaScript, today. |
+| [TypeScript](https://www.typescriptlang.org/) | TypeScript is JavaScript with syntax for types. |
 ## Typography
 | Link | Description |
 | ---- | ----------- |
-| [Combinaciones de Fuentes](http://fontpair.co) | Text |
-| [FontEsk](https://fontesk.com/) | Text |
-| [FontFlipper](https://fontflipper.com/upload) | Text |
-| [FontShare](https://www.fontshare.com/) | Text |
-| [FontSquirrel](http://www.fontsquirrel.com) | Text |
-| [FontSpark](https://fontspark.app/) | Text |
-| [Google Fonts](https://fonts.google.com/) | Text |
-| [Google font to SVG path](https://danmarshall.github.io/google-font-to-svg-path/) | Text |
-| [Lista de Mejores Fuentes para Diseñadores](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380) | Text |
+| [FontEsk](https://fontesk.com/) | A curated font library of the best high quality free fonts to download for commercial and personal use. |
+| [FontFlipper](https://fontflipper.com/upload) | Font Flipper |
+| [Fontpair](http://fontpair.co) | Free Google Font pairs for your next creative project. |
+| [FontShare](https://www.fontshare.com/) | FontShare |
+| [FontSquirrel](http://www.fontsquirrel.com) | Free fonts have met their match. |
+| [FontSpark](https://fontspark.app/) | FontSpark |
+| [Google Fonts](https://fonts.google.com/) | Google Fonts is a library of 1,264 free licensed font families and APIs for convenient use via CSS and Android.  |
+| [Google font to SVG path](https://danmarshall.github.io/google-font-to-svg-path/) | Create an SVG path from a Google font. |
+| [85 best free fonts for designers](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380) | Enhance your designs with the best free fonts. These top options could be yours now. |
 ## UX
 | Link | Description |
 | ---- | ----------- |
-| [Curso Rápido UX en 31 Días](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) | Text |
-| [Más de 100 recursos sobre Diseño de UI](https://github.com/tipoqueno/awesome-ui) | Text |
-| [Trucos de UI](http://www.goodui.org) | Text |
+| [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) | UX Crash Course: 31 Fundamentals. |
+| [UI Design](https://github.com/tipoqueno/awesome-ui) | A curated list of useful resources related to User Interface Design |
+| [Good UI](http://www.goodui.org) | Learn From What Leading Companies A/B Test. |
 ## Vídeos
 | Link | Description |
 | ---- | ----------- |
-| [Clip Canvas - Free Clips](https://www.clipcanvas.com/free-footage) | Text |
-| [Free HD Footage](http://www.free-hd-footage.com) | Text |
-| [Mazwai](http://mazwai.com) | Text |
-| [Pexels video](https://videos.pexels.com) | Text |
-| [Pikwizad](https://pikwizard.com/video) | Text |
-| [Videvo](https://www.videvo.net/) | Text |
-| [Videzzy](https://www.videezy.com/) | Text |
-| [Vidsplay](https://www.vidsplay.com) | Text |
+| [Mazwai](http://mazwai.com) | Hand picked stock video footage. |
+| [Pexels video](https://videos.pexels.com) | The best free stock videos shared by the Pexels community. |
+| [Pikwizad](https://pikwizard.com/video) | High Quality, Free Stock Videos. |
+| [Videvo](https://www.videvo.net/) | Free Stock Video Footage. |
+| [Videzzy](https://www.videezy.com/) | Free HD Stock Footage & 4K Videos |
+| [Vidsplay](https://www.vidsplay.com) | Download Free Stock Video Footage. |
 ## VPN
 | Link | Description |
 | ---- | ----------- |
-| [CyberGhost](https://www.cyberghostvpn.com/) | Text |
-| [NordVpn](https://nordvpn.com/) | Text |
+| [CyberGhost](https://www.cyberghostvpn.com/) | With CyberGhost VPN, you can stay untraceable and anonymous online. |
+| [NordVpn](https://nordvpn.com/) | A good VPN service provides you a secure, encrypted tunnel for online traffic to flow. |
 ## Vue
 | Link | Description |
 | ---- | ----------- |
-| [Ionic Vue](https://ionicframework.com/docs/vue/overview) | Text |
-| [Quasar](https://quasar.dev/) | Text |
-| [Naive UI](https://www.naiveui.com/en-US/os-theme) | Text |
-| [Nuxt](https://nuxtjs.org/) | Text |
-| [Oruga](https://oruga.io/) | Text |
-| [Vant](https://vant-contrib.gitee.io/vant/#/en-US/quickstart) | Text |
-| [Varlet](https://varlet.gitee.io/varlet-ui/#/en-US/quickstart) | Text |
-| [Vue](https://v3.vuejs.org/) | Text |
-| [Vuestic](https://vuestic.dev/) | Text |
-| [Vuetify](https://vuetifyjs.com/en/) | Text |
-| [Vuex](https://vuex.vuejs.org/#what-is-a-state-management-pattern) | Text |
-| [Vue CLI](https://cli.vuejs.org/) | Text |
-| [Vue Devtools](https://devtools.vuejs.org/guide/installation.html) | Text |
-| [Vue.js Examples](https://vuejsexamples.com/) | Text |
-| [Vue Router](https://router.vuejs.org/) | Text |
-## Templates
-| Link | Description |
-| ---- | ----------- |
-| [Graphberry](https://www.graphberry.com/category/free-html-web-templates) | Text |
+| [Ionic Vue](https://ionicframework.com/docs/vue/overview) | combines the core Ionic Framework experience with the tooling and APIs that are tailored to Vue Developers. |
+| [Quasar](https://quasar.dev/) | Effortlessly build high-performance & high-quality Vue.js 3 user interfaces in record time. |
+| [Naive UI](https://www.naiveui.com/en-US/os-theme) | Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting |
+| [Nuxt](https://nuxtjs.org/) | The Intuitive Vue Framework. |
+| [Oruga](https://oruga.io/) | Oruga UI is like a caterpillar, minimal and yet functional. It's in your hands turning it into a butterfly. |
+| [Vant](https://vant-contrib.gitee.io/vant/#/en-US/quickstart) | Mobile UI Components built on Vue. |
+| [Varlet](https://varlet.gitee.io/varlet-ui/#/en-US/quickstart) | Material design mobile component library for Vue. |
+| [Vue](https://v3.vuejs.org/) | The Progressive JavaScript Framework |
+| [Vuestic](https://vuestic.dev/) | Use Vuestic UI with other component libraries without any conflicts. |
+| [Vuetify](https://vuetifyjs.com/en/) | Vuetify is a Vue UI Library with beautifully handcrafted Material Components. |
+| [Vuex](https://vuex.vuejs.org/#what-is-a-state-management-pattern) | Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. |
+| [Vue CLI](https://cli.vuejs.org/) | Standard Tooling for Vue.js Development. |
+| [Vue Devtools](https://devtools.vuejs.org/guide/installation.html) | The Vue.js devtools allows you to inspect and debug your applications. |
+| [Vue.js Examples](https://vuejsexamples.com/) | Vue.js Examples |
+| [Vue Router](https://router.vuejs.org/) | Vue Router is the official router for Vue.js (opens new window). It deeply integrates with Vue.js core to make building Single Page Applications with Vue.js a breeze. |
+
 ## Tools
 | Link | Description |
 | ---- | ----------- |
-| [A List Apart](https://alistapart.com/) | Text |
-| [Avataaars generator](https://getavataaars.com/) | Text |
-| [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/) | Text |
-| [BlobMaker](https://www.blobmaker.app/) | Text |
-| [Can I Use](https://caniuse.com/) | Text |
-| [CleanMock](https://cleanmock.com/) | Text |
-| [Fancy Text Decorator](https://fancytextdecorator.com/) | Text |
-| [Hidden Tools](https://hiddentools.dev/) | Text |
-| [Link-to-qr](https://link-to-qr.com/) | Text |
-| [Local PDF Tools](https://localpdf.tech/) | Text |
-| [MetaTags](https://metatags.io/) | Text |
-| [Mobbin](https://mobbin.design/) | Text |
-| [Mock Magic](https://www.mockmagic.com/) | Text |
-| [Npkill](https://www.npmjs.com/package/npkill) | Text |
-| [Profile Pic Maker](https://pfpmaker.com/) | Text |
-| [Public Apis](https://github.com/public-apis/public-apis) | Text |
-| [ScreenSizes](https://www.screensizes.app/) | Text |
-| [ReactiveX](http://reactivex.io/) | Text |
-| [Readme](https://readme.so/) | Text |
-| [Remove.bg](https://www.remove.bg/) | Text |
-| [Responsively](https://responsively.app/) | Text |
-| [Robo Mongo](https://robomongo.org/) | Text |
-| [ScreenToGif](https://www.screentogif.com/) | Text |
-| [ShotSnapp](https://shotsnapp.com/) | Text |
-| [ShortcutFoo](https://www.shortcutfoo.com/) | Text |
-| [UnScreen](https://www.unscreen.com/) | Text |
-| [Toolb.dev](https://www.toolb.dev/) | Text |
-| [Type Scale](https://type-scale.com/) | Text |
+| [A List Apart](https://alistapart.com/) | Design for Safety, An Excerpt. |
+| [Avataaars generator](https://getavataaars.com/) | avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! |
+| [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/) | Write your text with BIG LETTERS! You'll love ▀█▀ █▬█ █ ▄█▀ large font generator ♡. I've also made another cool generator you'll find here known around as █▀█ █▄█ ▀█▀ nut and █▬█ █ ▀█▀ hit font. |
+| [BlobMaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes. |
+| [Can I Use](https://caniuse.com/) | Can I Use |
+| [CleanMock](https://cleanmock.com/) | CleanMock |
+| [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
+| [Hidden Tools](https://hiddentools.dev/) | Discover a wide collection of tools made by the community. |
+| [Link-to-qr](https://link-to-qr.com/) | link-to-qr.com |
+| [Local PDF Tools](https://localpdf.tech/) | Local PDF uses Webassembly to edit your PDFs inside your Browser. |
+| [MetaTags](https://metatags.io/) | Meta tags are specific snippets of text and image content that provide a summary for a webpage. |
+| [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
+| [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
+| [Npkill](https://www.npmjs.com/package/npkill) | This tool allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay! |
+| [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
+| [ScreenSizes](https://www.screensizes.app/) | ScreenSizes |
+| [ReactiveX](http://reactivex.io/) | An API for asynchronous programming with observable streams. |
+| [Readme](https://readme.so/) | Our simple editor allows you to quickly add and customize all the sections you need for your project's readme. |
+| [Remove.bg](https://www.remove.bg/) | 100% Automatically and Free. |
+| [Responsively](https://responsively.app/) | A must-have DevTool for all Front-End developers that will make your job easier. |
+| [Robo Mongo](https://robomongo.org/) | A modern, robust and community-driven MongoDB management tool. |
+| [ScreenToGif](https://www.screentogif.com/) | Screen, webcam and sketchboard recorder with an integrated editor. |
+| [ShotSnapp](https://shotsnapp.com/) | Create beautiful device mockup images for your app or website design. Share it everywhere. |
+| [ShortcutFoo](https://www.shortcutfoo.com/) | Choose shortcuts to practice. |
+| [UnScreen](https://www.unscreen.com/) | Remove Video Background. |
+| [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
+| [Type Scale](https://type-scale.com/) | Type Scale. |
 
 ## Work
 | Link | Description |
