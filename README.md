@@ -240,80 +240,76 @@
 ## Games
 | Link | Description |
 | ---- | ----------- |
-| [CSS Diner](https://flukeout.github.io/) | Text |
-| [CSSBattle](https://cssbattle.dev/) | Text |
+| [CSS Diner](https://flukeout.github.io/) | It's a fun game to learn and practice CSS selectors. |
+| [CSSBattle](https://cssbattle.dev/) | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
 | [Flexbox Defense](http://www.flexboxdefense.com/) | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS! |
 | [FlexBox Froggy](https://flexboxfroggy.com/) | Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! |
-| [FlexBox Zombies](https://mastery.games/flexboxzombies/) | Text |
-| [Get Gamez](https://getgamez.net/) | Text |
-| [Grid Garden](https://cssgridgarden.com/) | Text |
-| [Lyrics Training](https://es.lyricstraining.com/) | Text |
-| [Oh My Git](https://ohmygit.org/) | Text |
-| [Pivi Games](https://pivigames.blog/) | Text |
-| [Side Hustle Stack](https://sidehustlestack.co/) | Text |
-| [VIM Adventures](https://vim-adventures.com/) | Text |
+| [FlexBox Zombies](https://mastery.games/flexboxzombies/) | FlexBox Zombies |
+| [Get Gamez](https://getgamez.net/) | Download Games. |
+| [Grid Garden](https://cssgridgarden.com/) | Grid Garden is a game for learning CSS grid layout. |
+| [Lyrics Training](https://es.lyricstraining.com/) | LyricsTraining es la nueva forma de aprender Inglés y otros idiomas por medio de la música y la letra de tus canciones favoritas. |
+| [Oh My Git](https://ohmygit.org/) | An open source game about learning Git! |
+| [Pivi Games](https://pivigames.blog/) | Download Games. |
+| [VIM Adventures](https://vim-adventures.com/) | Learning VIM while playing a game. |
 ## Hosting
 | Link | Description |
 | ---- | ----------- |
-| [Digital Ocean](https://www.digitalocean.com/) | Text |
-| [Firebase](https://firebase.google.com/) | Text |
-| [Heroku](https://www.heroku.com/) | Text |
-| [Netlify](https://www.netlify.com/) | Text |
-| [Surge](https://surge.sh/) | Text |
-| [Vercel](https://vercel.com/) | Text |
+| [Digital Ocean](https://www.digitalocean.com/) | Simplify your cloud. |
+| [Firebase](https://firebase.google.com/) | Firebase helps you build and run successful apps |
+| [Heroku](https://www.heroku.com/) | Turn your company into an apps company. |
+| [Netlify](https://www.netlify.com/) | An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. |
+| [Surge](https://surge.sh/) | Static web publishing for Front-End Developers |
+| [Vercel](https://vercel.com/) | Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work. |
 ## HTML
 | Link  | Description |
 | ----- | ----------- |
-| [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/) | Text |
-| [HTML Hell](https://www.htmhell.dev/) | Text |
-| [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML) | Text |
-| [mytemplate](https://mytemplate.xyz/?ref=producthunt) | Text |
-| [Pixeden](https://www.pixeden.com/free-design-web-resources) | Text |
-| [W3C validator](https://validator.w3.org) | Text |
-| [W3School](http://www.w3schools.com/html) | Text |
+| [Special Characters](https://css-tricks.com/snippets/html/glyphs/) | Special Characters. |
+| [HTML Hell](https://www.htmhell.dev/) | A collection of bad practices in HTML, copied from real websites. |
+| [mytemplate](https://mytemplate.xyz/?ref=producthunt) | A no-code template for developer site. |
+| [Pixeden](https://www.pixeden.com/free-design-web-resources) | Pixeden is hard at work providing quality web resources. |
+| [W3C validator](https://validator.w3.org) | This validator checks the markup validity. |
 ## Icons
 | Link | Description |
 | ---- | ----------- |
-| [Box Icons](https://boxicons.com/) | Text |
-| [CocoMaterial](https://cocomaterial.com/) | Text |
-| [Eva Icons](https://akveo.github.io/eva-icons/#/) | Text |
-| [Feather Icons](https://feathericons.com/) | Text |
-| [Flaticon](https://www.flaticon.com/) | Text |
-| [Font Awesome](https://fontawesome.com/) | Text |
-| [Glyphs](https://glyphs.fyi/) | Text |
-| [Heroicons](https://heroicons.dev/) | Text |
-| [IconDuck](https://iconduck.com/) | Text |
-| [IconFinder](https://www.iconfinder.com/) | Text |
-| [IconMonstr](https://iconmonstr.com/) | Text |
-| [Iconos8](https://iconos8.es/) | Text |
-| [IconScout](https://iconscout.com/) | Text |
-| [IconShock](https://www.iconshock.com/) | Text |
-| [Material Icons](https://material.io/resources/icons/?style=baseline) | Text |
-| [Lordicon](https://lordicon.com/) | Text |
-| [Polaris icon](https://polaris-icons.shopify.com/) | Text |
-| [The Noun Project](https://thenounproject.com/) | Text |
-| [Visiwig](https://www.visiwig.com/) | Text |
+| [Box Icons](https://boxicons.com/) | High Quality Web Icons. |
+| [CocoMaterial](https://cocomaterial.com/) | Discover the CocoMaterial, the Open Source hand-drawn illustration library. |
+| [Eva Icons](https://akveo.github.io/eva-icons/#/) | Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
+| [Feather Icons](https://feathericons.com/) | Simply beautiful open source icons. |
+| [Flaticon](https://www.flaticon.com/) | Download free vector icons and stickers for your projects. Resources made by and for designers. |
+| [Font Awesome](https://fontawesome.com/) | Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. |
+| [Glyphs](https://glyphs.fyi/) | The Mightiest Icons on the Web. |
+| [Heroicons](https://heroicons.dev/) | A set of 450+ free MIT-licensed high-quality SVG icons for you to use in your web projects. Available as basic SVG icons and via first-party React and Vue libraries. |
+| [IconDuck](https://iconduck.com/) | 118,894 free open source icons & illustrations. |
+| [IconFinder](https://www.iconfinder.com/) | Search through 5,749,071 icons and illustrations. |
+| [IconMonstr](https://iconmonstr.com/) | Discover 4512+ free icons in 316 collections. |
+| [Iconos8](https://iconos8.es/) | Iconos, ilustraciones, fotos, música y herramientas de diseño. |
+| [IconScout](https://iconscout.com/) | Over 3.5 Million+ Design Assets. |
+| [IconShock](https://www.iconshock.com/) | 2 Million+ professional icons library. |
+| [Material Icons](https://material.io/resources/icons/?style=baseline) | Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics. |
+| [Lordicon](https://lordicon.com/) | Animated Icon Library. |
+| [Polaris icon](https://polaris-icons.shopify.com/) | Polaris icon explorer. |
+| [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything. |
+| [Visiwig](https://www.visiwig.com/) | click + paste graphics that elevate your website and brand visuals. |
 ## Illustration
 | Link | Description |
 | ---- | ----------- |
-| [DrawKit](https://www.drawkit.io/free-icons) | Text |
-| [Illustation](https://illustation.io/) | Text |
-| [IRA Design](https://iradesign.io/) | Text |
-| [Storytale](https://storytale.io/) | Text |
-| [UnDraw](https://undraw.co/) | Text |
+| [DrawKit](https://www.drawkit.io/free-icons) | High quality, free vector icons, in four styles. |
+| [Illustation](https://illustation.io/) | Beautiful, unique illustrations and icons. |
+| [IRA Design](https://iradesign.io/) | Build your own amazing illustrations. |
+| [Storytale](https://storytale.io/) | High-class illustrations for web and mobile projects. |
+| [UnDraw](https://undraw.co/) | Create better designed websites, products and applications. |
 ## Inspiration
 | Link | Description |
 | ---- | ----------- |
-| [Admire the web](http://www.admiretheweb.com) | Text |
-| [Awwwards](https://www.awwwards.com) | Text |
-| [Behance](https://www.behance.net) | Text |
-| [Colección de elementos de Diseño](http://calltoidea.com) | Text |
-| [Dribble](https://dribbble.com) | Text |
-| [Flatdsgn](http://flatdsgn.com) | Text |
-| [Más recursos de desarrolladores frontEnd](https://github.com/dypsilon/frontend-dev-bookmarks) | Text |
-| [One Page Love](https://onepagelove.com) | Text |
-| [oozled](http://oozled.com) | Text |
-| [Site Inspire](https://www.siteinspire.com) | Text |
+| [Admire the web](http://www.admiretheweb.com) | Admire the web. |
+| [Awwwards](https://www.awwwards.com) | The awards of design, creativity and innovation on the internet. |
+| [Behance](https://www.behance.net) | Search the creative world at work. |
+| [CallToIdea](http://calltoidea.com) | Light up your imagination! |
+| [Dribble](https://dribbble.com) | Discover the world’s top designers & creatives. |
+| [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers |
+| [One Page Love](https://onepagelove.com) | One Page websites, templates and resources. |
+| [oozled](http://oozled.com) | Web Designing & Digital Marketing. |
+| [Site Inspire](https://www.siteinspire.com) | Siteinspire is a showcase of the finest web and interactive design. |
 ## JavaScript 
 | Link | Description |
 | ---- | ----------- |
@@ -475,6 +471,7 @@
 | [Retrostic](https://www.retrostic.com/) | Text |
 | [Screen Recorder](https://snipclip.app/screen-recorder/) | Text |
 | [Screenfly](https://bluetree.ai/screenfly/) | Text |
+| [Side Hustle Stack](https://sidehustlestack.co/) | Side Hustle Stack is a FREE resource to find platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow. |
 | [SmartMockups](https://smartmockups.com/) | Text |
 | [Slides](https://slides.com/) | Text |
 | [Soda Pdf](https://www.sodapdf.com/freeonlinetools/) | Text |
