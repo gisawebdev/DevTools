@@ -121,22 +121,20 @@
 ## Colors
 | Link | Description |
 | ---- | ----------- |
-| [Adobe Color CC](https://color.adobe.com/create/color-wheel/) | Text |
-| [Color Hunt](https://colorhunt.co/palettes) | Text |
-| [ColorBox](https://colorbox.io/) | Text |
-| [ColorHexa](https://www.colorhexa.com) | Text |
-| [colornamer](https://colornamer.netlify.app/) | Text |
-| [Coolors.co](https://coolors.co/app) | Text |
-| [Flatuicolors](http://flatuicolors.com) | Text |
-| [GetUiColors](http://getuicolors.com) | Text |
-| [Introducción a Teoría de Color para Diseñadores Web](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437) | Text |
-| [MaterialCSS](http://materializecss.com/color.html) | Text |
-| [Muzli Colors](https://colors.muz.li/) | Text |
-| [Mycolor.space](https://mycolor.space/?hex=%23845EC2&sub=1) | Text |
-| [Paletton](http://paletton.com) | Text |
-| [Smolcss](https://smolcss.dev/) | Text |
-| [Uigradients](https://uigradients.com/#Socialive) | Text |
-| [Variaciones de Colores](http://www.0to255.com) | Text |
+| [Adobe Color CC](https://color.adobe.com/create/color-wheel/) | Color wheel (or image in Extract Theme tab) can be used to generate color palette, which can be saved into Creative Cloud, after signing in. |
+| [Color Hunt](https://colorhunt.co/palettes) | Color Palettes for Designers and Artists |
+| [ColorBox](https://colorbox.io/) | ColorBox |
+| [ColorHexa](https://www.colorhexa.com) | Color encyclopedia : Information and conversion. |
+| [colornamer](https://colornamer.netlify.app/) | Naming colors has never been this easy! |
+| [Coolors.co](https://coolors.co/app) | The super fast color schemes generator! |
+| [Flatuicolors](http://flatuicolors.com) | 280 handpicked colors |
+| [GetUiColors](http://getuicolors.com) | Our visitors have copied 38,543 colors and counting! |
+| [Color Theory](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437) | An Introduction to Color Theory for Web Designers |
+| [Muzli Colors](https://colors.muz.li/) | Create Beautiful Color Schemes that works. |
+| [Mycolor.space](https://mycolor.space/?hex=%23845EC2&sub=1) | Never waste hours on finding the perfect color palette again! |
+| [Paletton](http://paletton.com) | Paletton is here to help you with all your color palette needs. |
+| [Uigradients](https://uigradients.com/#Socialive) | uiGradients is a community contributed collection of beautiful multi-color gradients. |
+| [0to255](http://www.0to255.com) | 0to255 is a color tool that makes it easy to lighten and darken colors. |
 ## CSS 
 | Link | Description |
 | ---- | ----------- |
@@ -169,6 +167,7 @@
 | [Layoutit](https://www.layoutit.com/) | Text |
 | [Little Snippets](https://www.littlesnippets.net/) | Text |
 | [Lofi UI](https://lofiui.co/) | Text |
+| [MaterialCSS](https://materializecss.com/) | Text |
 | [Neumorphism](https://neumorphism.io/#ffffff) | Text |
 | [Normalize.css](https://necolas.github.io/normalize.css/) | Text |
 | [Patrones](https://freebiesupply.com/blog/css-background-patterns/) | Text |
@@ -177,6 +176,7 @@
 | [Sass](https://sass-lang.com/) | Text |
 | [Selectores de CSS que debes memorizar](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) | Text |
 | [Skeleton.CSS](http://getskeleton.com/) | Text |
+| [Smolcss](https://smolcss.dev/) | Minimal snippets for modern CSS layouts and components. |
 | [Smooth Shadow](https://shadows.brumm.af/) | Text |
 | [Snippets](https://tympanus.net/codrops/css_reference/) | Text |
 | [Tail-Kit](https://www.tailwind-kit.com/) | Text |
