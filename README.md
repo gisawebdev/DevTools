@@ -57,14 +57,14 @@
 | [Node.js](https://nodejs.org/) | Text |
 | [Strapi](https://strapi.io/) | Text |
 ## Blogs
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [Carlosazaustre.es Blog](https://carlosazaustre.es/blog)
-- [FlavioCopes](https://flaviocopes.com/)
-- [Hashnode](https://hashnode.com/)
-- [kentcdodds](https://kentcdodds.com/blog/)
-- [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)
-- [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)
+| Link                       | Description |
+| -------------------------- | ----------- |
+| [Carlosazaustre.es Blog](https://carlosazaustre.es/blog)| Text |
+| [FlavioCopes](https://flaviocopes.com/)| Text |
+| [Hashnode](https://hashnode.com/)| Text |
+| [kentcdodds](https://kentcdodds.com/blog/)| Text |
+| [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)| Text |
+| [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)| Text |
 ## Bundles
 | Link         | Description |
 | ------------ | ----------- |
@@ -82,19 +82,19 @@
 | [Poet](https://poet.so/) | Text |
 | [Ray](https://ray.so/) | Text |
 ## Challenges
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [100 days css](https://100dayscss.com/)
-- [Ace FrontEnd](https://www.acefrontend.com/)
-- [App Ideas](https://github.com/florinpop17/app-ideas/)
-- [Codepen](https://codepen.io/challenges)
-- [Codier](https://codier.io/)
-- [Css-Tricks](https://css-tricks.com/)
-- [CSSBattle](https://cssbattle.dev/)
-- [Daily UI](https://www.dailyui.co/)
-- [DevChallenges](https://devchallenges.io/)
-- [FrontEndMentor](https://www.frontendmentor.io/)
-- [Frontloops](https://frontloops.io/)
+| Link             | Description |
+| ---------------- | ----------- |
+| [100 days css](https://100dayscss.com/) | Text |
+| [Ace FrontEnd](https://www.acefrontend.com/) | Text |
+| [App Ideas](https://github.com/florinpop17/app-ideas/) | Text |
+| [Codepen](https://codepen.io/challenges) | Text |
+| [Codier](https://codier.io/) | Text |
+| [Css-Tricks](https://css-tricks.com/) | Text |
+| [CSSBattle](https://cssbattle.dev/) | Text |
+| [Daily UI](https://www.dailyui.co/) | Text |
+| [DevChallenges](https://devchallenges.io/) | Text |
+| [FrontEndMentor](https://www.frontendmentor.io/) | Text |
+| [Frontloops](https://frontloops.io/) | Text |
 ## Chrome Extension
 | Link                            | Description |
 | ------------------------------- | ----------- |
@@ -195,67 +195,67 @@
 - [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
 
 ## DataBase
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [ArangoDB](https://www.arangodb.com/)
-- [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/)
-- [Apache Cassandra](https://cassandra.apache.org/_/index.html)
-- [MariaDB](https://mariadb.org/)
-- [Microsoft SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
-- [MongoDB](https://www.mongodb.com/es)
-- [MySQL](https://www.mysql.com/)
-- [Oracle DataBase](https://www.oracle.com/database/technologies/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Redis](https://redis.io/)
-- [SQLite](https://www.sqlite.org/index.html)
+| Link                   | Description |
+| ---------------------- | ----------- |
+| [ArangoDB](https://www.arangodb.com/) | Text |
+| [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/) | Text |
+| [Apache Cassandra](https://cassandra.apache.org/_/index.html) | Text |
+| [MariaDB](https://mariadb.org/) | Text |
+| [Microsoft SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) | Text |
+| [MongoDB](https://www.mongodb.com/es) | Text |
+| [MySQL](https://www.mysql.com/) | Text |
+| [Oracle DataBase](https://www.oracle.com/database/technologies/) | Text |
+| [PostgreSQL](https://www.postgresql.org/) | Text |
+| [Redis](https://redis.io/) | Text |
+| [SQLite](https://www.sqlite.org/index.html) | Text |
 ## Design
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [Ant Design](https://ant.design/)
-- [AppMockUp](https://app-mockup.com/)
-- [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-- [Canva](https://www.canva.com/)
-- [Element-UI](https://madewithvuejs.com/element-ui)
-- [Figma](https://www.figma.com/)
-- [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/)
-- [Flutter Awesome](https://flutterawesome.com/)
-- [Photopea](https://www.photopea.com/)
-- [Semantic UI](https://semantic-ui.com/)
+| Link              | Description |
+| ----------------- | ----------- |
+| [Ant Design](https://ant.design/) | Text |
+| [AppMockUp](https://app-mockup.com/) | Text |
+| [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) | Text |
+| [Canva](https://www.canva.com/) | Text |
+| [Element-UI](https://madewithvuejs.com/element-ui) | Text |
+| [Figma](https://www.figma.com/) | Text |
+| [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/) | Text |
+| [Flutter Awesome](https://flutterawesome.com/) | Text |
+| [Photopea](https://www.photopea.com/) | Text |
+| [Semantic UI](https://semantic-ui.com/) | Text |
 ## Developing
 | Link                            | Description |
 | ------------------------------- | ----------- |
-- [Caracterisiticas de Google Chrome que no estas usando](https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/)
-- [El proceso de Diseño web](http://www.newdesigngroup.ca/blog/web-design-process-infographic/)
-- [Usuario Aleatorio](https://randomuser.me)
+| [Caracterisiticas de Google Chrome que no estas usando](https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/) | Text |
+| [El proceso de Diseño web](http://www.newdesigngroup.ca/blog/web-design-process-infographic/) | Text |
+| [Usuario Aleatorio](https://randomuser.me) | Text |
 ## Diagrams
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [Draw.io](https://www.draw.io/)
+| Link      | Description |
+| --------- | ----------- |
+| [Draw.io](https://www.draw.io/) | Text |
 ## Domain
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [Hostgator](https://www.hostgator.com/)
-- [Hostinger](https://www.hostinger.com/)
-- [NameCheap](https://www.namecheap.com/)
+| Link        | Description |
+| ----------- | ----------- |
+| [Hostgator](https://www.hostgator.com/) | Text |
+| [Hostinger](https://www.hostinger.com/) | Text |
+| [NameCheap](https://www.namecheap.com/) | Text |
 ## Fonts
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [FontEsk](https://fontesk.com/)
-- [FontFlipper](https://fontflipper.com/upload)
-- [FontShare](https://www.fontshare.com/)
-- [FontSpark](https://fontspark.app/)
-- [Google Fonts](https://fonts.google.com/)
-- [Google font to SVG path](https://danmarshall.github.io/google-font-to-svg-path/)
+| Link                      | Description |
+| ------------------------- | ----------- |
+| [FontEsk](https://fontesk.com/) | Text |
+| [FontFlipper](https://fontflipper.com/upload) | Text |
+| [FontShare](https://www.fontshare.com/) | Text |
+| [FontSpark](https://fontspark.app/) | Text |
+| [Google Fonts](https://fonts.google.com/) | Text |
+| [Google font to SVG path](https://danmarshall.github.io/google-font-to-svg-path/) | Text |
 ## Formmater
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [Prettier](https://prettier.io/)
+| Link       | Description |
+| ---------- | ----------- |
+| [Prettier](https://prettier.io/) | Text |
 ## Flutter
-| Link                            | Description |
-| ------------------------------- | ----------- |
-- [Dart](https://dart.dev/)
-- [Flutter](https://flutter.dev/)
-- [Pub](https://pub.dev/)
+| Link      | Description |
+| --------- | ----------- |
+| [Dart](https://dart.dev/) | Text |
+| [Flutter](https://flutter.dev/) | Text |
+| [Pub](https://pub.dev/) | Text |
 ## Games
 | Link                            | Description |
 | ------------------------------- | ----------- |
