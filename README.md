@@ -184,8 +184,7 @@
 | [Tailwind Templates](https://tailwindtemplates.io/) | This site is an open source project providing collections of templates & components for Rapid UI Development using Tailwind CSS. Simply copy & paste! |
 | [Tailwind Toolbox](https://www.tailwindtoolbox.com/) | Free Tailwind CSS Templates, Components and Resources. |
 | [TailWind](https://tailwindcss.com/) | Rapidly build modern websites without ever leaving your HTML. |
-| [TailWindComponents](https://tailwindcomponents.com/) | A free repository for community
-components using TailwindCSS |
+| [TailWindComponents](https://tailwindcomponents.com/) | A free repository for community components using TailwindCSS |
 | [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
 | [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
@@ -195,17 +194,17 @@ components using TailwindCSS |
 ## DataBase
 | Link | Description |
 | ---- | ----------- |
-| [ArangoDB](https://www.arangodb.com/) | Text |
-| [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/) | Text |
-| [Apache Cassandra](https://cassandra.apache.org/_/index.html) | Text |
-| [MariaDB](https://mariadb.org/) | Text |
-| [Microsoft SQL Server](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) | Text |
-| [MongoDB](https://www.mongodb.com/es) | Text |
-| [MySQL](https://www.mysql.com/) | Text |
-| [Oracle DataBase](https://www.oracle.com/database/technologies/) | Text |
-| [PostgreSQL](https://www.postgresql.org/) | Text |
-| [Redis](https://redis.io/) | Text |
-| [SQLite](https://www.sqlite.org/index.html) | Text |
+| [ArangoDB](https://www.arangodb.com/) | Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. |
+| [Amazon DynamoDB](https://aws.amazon.com/en/dynamodb/) | Fast and flexible NoSQL database service for any scale. |
+| [Apache Cassandra](https://cassandra.apache.org/_/index.html) | Manage massive amounts of data, fast, without losing sleep. |
+| [MariaDB](https://mariadb.org/) | MariaDB Server: The open source relational database. |
+| [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) | Microsoft SQL Server |
+| [MongoDB](https://www.mongodb.com/en) | TAccelerate development, address diverse data sets, and adapt quickly to change with a proven application data platform built around the database most wanted by developers 4 years running. |
+| [MySQL](https://www.mysql.com/) | The world's most popular open source database. |
+| [Oracle DataBase](https://www.oracle.com/database/technologies/) | Oracle Database offers market-leading performance, scalability, reliability, and security, both on-premises and in the cloud. |
+| [PostgreSQL](https://www.postgresql.org/) | The World's Most Advanced Open Source Relational Database. |
+| [Redis](https://redis.io/) | Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. |
+| [SQLite](https://www.sqlite.org/index.html) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
 ## Design
 | Link | Description |
 | ---- | ----------- |
