@@ -61,6 +61,7 @@
 | [Carlosazaustre.es](https://carlosazaustre.es/blog)| Carlos Azaustre Blog. |
 | [Dev](https://dev.to/)| DEV Community |
 | [FlavioCopes](https://flaviocopes.com/)| Flavio Copes Blog. |
+| [Gourav](https://gourav.io/) | Gourav Goyal Blog. |
 | [Hashnode](https://hashnode.com/)| Everything you need to start blogging as a developer! |
 | [kentcdodds](https://kentcdodds.com/blog/)| Kent C. Dodds Blog. |
 | [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)| Majo here! 👋🏻, realizo apuntes a mano sobre las tecnologías más utilizadas. |
@@ -240,6 +241,7 @@
 ## Games
 | Link | Description |
 | ---- | ----------- |
+| [Bezier](https://bezier.method.ac/) | A game to help you master the pen tool |
 | [CSS Diner](https://flukeout.github.io/) | It's a fun game to learn and practice CSS selectors. |
 | [CSSBattle](https://cssbattle.dev/) | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. |
 | [Flexbox Defense](http://www.flexboxdefense.com/) | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS! |
@@ -383,145 +385,140 @@
 ## Optimizing Our Website
 | Link | Description |
 | ---- | ----------- |
-| [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) | Text |
-| [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | Text |
-| [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/?android=false&autocomplete=one-time-code&inputmode=decimal&type=url) | Text |
-| [Compress CSS](http://www.minifycss.com/css-compressor/) | Text |
-| [Compress Javascript](http://www.minifyjavascript.com) | Text |
-| [Favicon Generator](https://www.favicon-generator.org) | Text |
-| [Minimize Image](http://optimizilla.com) | Text |
-| [Real Favicon Generator](https://realfavicongenerator.net) | Text |
-| [Tiny Png](https://tinypng.com/) | Text |
-| [Vista previa en multiples dispositivos](http://www.responsinator.com) | Text |
+| [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) | Practical approaches to Universal Design for making your website/webapp accessible to everyone |
+| [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html) | Want to learn how to use ANDI for accessibility testing? This tutorial describes the features and functionality of ANDI, the free accessibility testing tool. |
+| [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/?android=false&autocomplete=one-time-code&inputmode=decimal&type=url) | Build a Better Mobile Input |
+| [Compress CSS](http://www.minifycss.com/css-compressor/) | Free CSS Compressor and CSS Compression Tool. |
+| [Compress Javascript](http://www.minifyjavascript.com) | Compress JavaScript Code Online for Free. |
+| [Favicon Generator](https://www.favicon-generator.org) | Favicon Generator |
+| [Optimizilla](https://imagecompressor.com/) | This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality. |
+| [Real Favicon Generator](https://realfavicongenerator.net) | Favicon Generator. For real. |
+| [Tiny Png](https://tinypng.com/) | Smart WebP, PNG and JPEG compression More than 1 billion WebP, PNG and JPEG images optimized and still counting! |
+| [Responsinator](http://www.responsinator.com) | Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices. |
 
 ## ORM
 | Link | Description |
 | ---- | ----------- |
-| [Sequelize](https://sequelize.org/) - Node | Text |
-| [Typeorm](https://typeorm.io/#/) - TypeScript | Text | 
+| [Sequelize](https://sequelize.org/) - Node | Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more. |
+| [Typeorm](https://typeorm.io/#/) - TypeScript | TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8). | 
 ## Package Manager
 | Link | Description |
 | ---- | ----------- |
-| [NPM](https://www.npmjs.com/) | Text |
-| [Yarn](https://yarnpkg.com/) | Text |
+| [NPM](https://www.npmjs.com/) | Build amazing things. |
+| [Yarn](https://yarnpkg.com/) | Safe, stable, reproducible project |
 ## Pages
 | Link | Description |
 | ---- | ----------- |
-| [10 Minute Mail](https://10minutemail.com/) | Text |
-| [30 seconds of code](https://www.30secondsofcode.org/) | Text |
-| [AccountKiller](https://www.accountkiller.com/en/home) | Text |
-| [Alternativeto](https://alternativeto.net/) | Text |
-| [Answer Socrates](https://answersocrates.com/) | Text |
-| [Apption](https://apption.co/) | Text |
-| [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources) | Text |
-| [AWS Device Farm](https://aws.amazon.com/device-farm/) | Text |
-| [Bezier](https://bezier.method.ac/) | Text |
-| [Biolinky.co](https://biolinky.co/landing?ref=p_uxbs) | Text |
-| [BrowserStack](https://www.browserstack.com/) | Text |
-| [Build Redux](https://buildredux.com/) | Text |
-| [Bundlephobia](https://bundlephobia.com/) | Text |
-| [Cloudinary](https://cloudinary.com/) | Text |
-| [Convert JSON](https://quicktype.io/) | Text |
-| [Cybrary](https://www.cybrary.it/) | Text |
-| [Deepl](https://www.deepl.com/es/translator) | Text |
-| [Dev Resources ES](https://devresourc.es/) | Text |
-| [Dev Resources Guru](https://devresources.guru/) | Text |
-| [Device Shots](https://deviceshots.com/) | Text |
-| [El Camino del FrontEnd Developer](https://github.com/mrcodedev/frontend-developer-resources/) | Text |
-| [Emaze](https://www.emaze.com/es/) | Text |
-| [EmojiFinder](https://emojifinder.com/) | Text |
-| [Exercism](https://exercism.io/) | Text |
-| [Git Explorer](https://gitexplorer.com/) | Text |
-| [GitHub Guides](https://guides.github.com/) | Text |
-| [GitIgnore](https://www.toptal.com/developers/gitignore) | Text |
-| [Gourav](https://gourav.io/) | Text |
-| [Go Light Stream](https://golightstream.com/) | Text |
-| [GreenSock](https://greensock.com/gsap/) | Text |
-| [HackerRank](https://www.hackerrank.com/) | Text |
-| [HacksPlaining](https://www.hacksplaining.com/) | Text |
-| [Haikei](https://app.haikei.app/) | Text |
-| [HashTagStack](https://hashtagstack.com/hashtag-generator) | Text |
-| [How Long To Beat](https://howlongtobeat.com/) | Text |
-| [I Love Img](https://www.iloveimg.com/es) | Text |
-| [I Love Pdf](https://www.ilovepdf.com/es) | Text |
-| [JS Books](https://jsbooks.revolunet.com/) | Text |
-| [Image Cyborg](https://imagecyborg.com/) | Text |
-| [Kamua](https://kamua.com/) | Text |
-| [Kontra](https://application.security/) | Text |
-| [Lectulandia](https://lectulandia.to/) | Text |
-| [Library Genesis](https://libgen.is/) | Text |
-| [Que Estudiar](https://www.queestudiar.org/) | Text |
-| [Miro](https://miro.com/es/) | Text |
-| [Morioh](https://morioh.com/explore?next=%2F) | Text |
-| [My Live Wallpapers](https://mylivewallpapers.com/) | Text |
-| [OpenLibra](https://openlibra.com/es/) | Text |
-| [PageSpeed Compare](https://pagespeed.compare/) | Text |
-| [Panzoid](https://panzoid.com/) | Text |
-| [Pastebin](https://pastebin.com/) | Text |
-| [Placeholder](https://placeholder.com/) | Text |
-| [Peppertype](https://www.peppertype.ai/) | Text |
-| [Presentation Maker](https://www.beautiful.ai/) | Text |
-| [Programming Fonts](https://www.programmingfonts.org/) | Text |
-| [Pollylingu](https://pollylingu.al/) | Text |
-| [Refactoring Guru](https://refactoring.guru/) | Text |
-| [Resizing](https://resizing.app/) | Text |
-| [Responsinator](https://www.responsinator.com/) | Text |
-| [Retrostic](https://www.retrostic.com/) | Text |
-| [Screen Recorder](https://snipclip.app/screen-recorder/) | Text |
-| [Screenfly](https://bluetree.ai/screenfly/) | Text |
+| [10 Minute Mail](https://10minutemail.com/) | Free Temporary Email. |
+| [30 seconds of code](https://www.30secondsofcode.org/) | 30 seconds of code |
+| [AccountKiller](https://www.accountkiller.com/en/home) | Want to ditch your online account? Shouldn’t be a problem, right? Unfortunately, on many websites, including popular ones like Facebook, deleting your account can be a real pain. |
+| [Alternativeto](https://alternativeto.net/) | 100,554 apps 818,870 likes 806,075 opinions about alternatives. |
+| [Answer Socrates](https://answersocrates.com/) | You have answers. We have questions. |
+| [Apption](https://apption.co/) | Find & Learn Notion friendly Embeddable Widget Apps |
+| [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources) | This is an awesome project about Web Development resources.  |
+| [AWS Device Farm](https://aws.amazon.com/device-farm/) | Improve the quality of your web and mobile applications by testing across desktop browsers and real mobile devices hosted in the AWS Cloud |
+| [Biolinky.co](https://biolinky.co/landing?ref=p_uxbs) | One Link. For Everything. |
+| [BrowserStack](https://www.browserstack.com/) | App & Browser Testing Made Easy. |
+| [Build Redux](https://buildredux.com/) | We Build PCs For Gamers. |
+| [Bundlephobia](https://bundlephobia.com/) | Find the cost of adding a npm package to your bundle. |
+| [Convert JSON](https://quicktype.io/) | Convert JSON into gorgeous, typesafe code in any language. |
+| [Cybrary](https://www.cybrary.it/) | The Leading Cybersecurity Professional Development Platform |
+| [Deepl](https://www.deepl.com/es/translator) | Millions translate with DeepL every day. |
+| [Dev Resources ES](https://devresourc.es/) | Dev Resources |
+| [Device Shots](https://deviceshots.com/) | Create device mockups in seconds! |
+| [El Camino del FrontEnd Developer](https://github.com/mrcodedev/frontend-developer-resources/) | Lista de recursos para ayudarte en tu camino a ser Frontend Developer o aprender nuevas cosas |
+| [Emaze](https://www.emaze.com/) | Build Amazing Digital Presentations Automatically |
+| [EmojiFinder](https://emojifinder.com/) | Type a word like love or yeah or music and we’ll show you matching emoji. |
+| [Exercism](https://exercism.io/) | Get really good at programming. |
+| [Git Explorer](https://gitexplorer.com/) | Find the right commands you need without digging through the web. |
+| [GitHub Guides](https://guides.github.com/) | GitHub Guides |
+| [GitIgnore](https://www.toptal.com/developers/gitignore) | Create useful .gitignore files for your project. |
+| [Go Light Stream](https://golightstream.com/) | Create more professional and impactful live streams. |
+| [GreenSock](https://greensock.com/gsap/) | Professional-grade JavaScript animation for the modern web. |
+| [HacksPlaining](https://www.hacksplaining.com/) | Security training for developers. |
+| [Haikei](https://app.haikei.app/) | Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! |
+| [HashTagStack](https://hashtagstack.com/hashtag-generator) | The most advanced Hashtag Generator |
+| [How Long To Beat](https://howlongtobeat.com/) | Track what you're playing, discover new games. |
+| [I Love Img](https://www.iloveimg.com/es) | Every tool you could want to edit images in bulk Your online photo editor is here and forever free! |
+| [I Love Pdf](https://www.ilovepdf.com/es) | Every tool you need to work with PDFs in one place Every tool you need to use PDFs, at your fingertips. All are 100% FREE and easy to use! Merge, split, compress, convert, rotate, unlock and watermark PDFs with just a few clicks. |
+| [JS Books](https://jsbooks.revolunet.com/) | The best free JavaScript resources. |
+| [Image Cyborg](https://imagecyborg.com/) | Download images from any website, webpage. |
+| [Kamua](https://kamua.com/) | The Fastest Way to Caption videos |
+| [Kontra](https://application.security/) | Application Security Training Redefined. |
+| [Lectulandia](https://lectulandia.to/) | Libros Gratis. |
+| [Library Genesis](https://libgen.is/) |  Book collection. |
+| [Que Estudiar](https://www.queestudiar.org/) | Que Estudiar |
+| [Miro](https://miro.com/es/) | The online collaborative whiteboard platform to bring teams together, anytime, anywhere. |
+| [Morioh](https://morioh.com/explore?next=%2F) | Social Network for Programmers and Developers. |
+| [My Live Wallpapers](https://mylivewallpapers.com/) | Download our free software and turn videos into your desktop wallpaper! |
+| [OpenLibra](https://openlibra.com/es/) | Book collection. |
+| [PageSpeed Compare](https://pagespeed.compare/) | Compare performance metrics of your pages against each other or your competitors using Google PageSpeed Insights |
+| [Panzoid](https://panzoid.com/) | Panzoid is a community and tools for creating beautiful, custom content. |
+| [Pastebin](https://pastebin.com/) | Pastebin |
+| [Placeholder](https://placeholder.com/) | Billions & billions of placeholder images served |
+| [Peppertype](https://www.peppertype.ai/) | Your Virtual Content Assistant |
+| [Presentation Maker](https://www.beautiful.ai/) | The first presentation maker that designs for you. |
+| [Programming Fonts](https://www.programmingfonts.org/) | ProgrammingFonts.org makes it easier to find monospaced fonts. All fonts in one place, with proper credits towards the creators. It's not a download portal, we don't track anything, it's strictly by nerds and designers for nerds and designers. |
+| [Pollylingu](https://pollylingu.al/) | Polly Lingual |
+| [Refactoring Guru](https://refactoring.guru/) | Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics. |
+| [Resizing](https://resizing.app/) | Resize Your Images Online |
+| [Responsinator](https://www.responsinator.com/) | Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices. It does not precisely replicate how it will look, for accurate testing always test on the real devices. |
+| [Retrostic](https://www.retrostic.com/) | Dear retro players, Retrostic aims to deliver every possible archived retro game in a form of ROM or ISO. |
+| [Snipclip](https://snipclip.app/screen-recorder/) | Record your screen in one click. |
+| [Screenfly](https://bluetree.ai/screenfly/) | Test Your Website at Different Resolutions |
 | [Side Hustle Stack](https://sidehustlestack.co/) | Side Hustle Stack is a FREE resource to find platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow. |
-| [SmartMockups](https://smartmockups.com/) | Text |
-| [Slides](https://slides.com/) | Text |
-| [Soda Pdf](https://www.sodapdf.com/freeonlinetools/) | Text |
-| [Sparkol](https://www.sparkol.com/en) | Text |
-| [SuperCook](https://www.supercook.com/) | Text |
-| [Tailor Brands](https://www.tailorbrands.com/es) | Text |
-| [The Front-End Checklist](https://frontendchecklist.io/) | Text |
-| [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) | Text |
-| [Undesign](https://undesign.learn.uno/) | Text |
-| [VS Code Themes](https://vscodethemes.com/) | Text |
-| [Vocal Remover](https://vocalremover.org/es/) | Text |
-| [Wdflat](https://wdflat.com/) | Text |
-| [WebComponents](https://www.webcomponents.org/) | Text |
-| [Website Responsive Testing Tool](http://responsivetesttool.com/) | Text |
-| [Weekly Visitor Report](https://clearbit.com/resources/tools/visitor-report) | Text |
-| [WIFI Map](https://www.wifimap.io/) | Text |
-| [Z-Library](https://b-ok.lat/) | Text |
+| [SmartMockups](https://smartmockups.com/) | Create stunning product mockups easily and online |
+| [Slides](https://slides.com/) | Make better presentations Slides lets you create professional slide decks and makes you look great presenting them. |
+| [Soda Pdf](https://www.sodapdf.com/freeonlinetools/) | Free Online PDF Tools. |
+| [Sparkol](https://www.sparkol.com/en) | Easy to use, affordable video software, professional animation services and workshops that transform the way you communicate. |
+| [SuperCook](https://www.supercook.com/) | SuperCook |
+| [Tailor Brands](https://www.tailorbrands.com/es) | Tailor Brands es la primera plataforma del mundo de marca y diseño de logos que funciona con IA. |
+| [The Front-End Checklist](https://frontendchecklist.io/) | The Front-End Checklist Application is perfect for modern websites and meticulous developers! |
+| [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) | TypeScript Deep Dive |
+| [Undesign](https://undesign.learn.uno/) | Collection of free design tools and resources for makers, developers and designers |
+| [VS Code Themes](https://vscodethemes.com/) | Preview themes from the VSCode marketplace. Check out the annoucement post. |
+| [Vocal Remover](https://vocalremover.org/es/) | Vocal Remover and Isolation Separate voice from music out of a song free with powerful AI algorithms |
+| [Wdflat](https://wdflat.com/) | Free designs for streamers |
+| [WebComponents](https://www.webcomponents.org/) | Web components are a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps. |
+| [Website Responsive Testing Tool](http://responsivetesttool.com/) | Is your website/page device friendly? |
+| [Weekly Visitor Report](https://clearbit.com/resources/tools/visitor-report) | Get a weekly report of the companies visiting your website, giving you complete visibility — for free. |
+| [WIFI Map](https://www.wifimap.io/) | Free Internet Connectivity Tool |
+| [Z-Library](https://b-ok.lat/) | Z-Library is one of the largest online libraries in the world that contains over 8,533,000 books and 84,837,000 articles. We aim to make literature accessible to everyone. Today (September, 15th) we are launching additional fundraising for project maintenance and development . |
 ## Payment Platforms
 | Link | Description |
 | ---- | ----------- |
-| [Buy Me a Coffee](https://www.buymeacoffee.com/) | Text |
-| [Patreon](https://www.patreon.com/) | Text |
-| [Stripe](https://tagmanager.google.com/) | Text |
+| [Buy Me a Coffee](https://www.buymeacoffee.com/) | Buy Me a Coffee is a simple, meaningful way to fund your creative work. |
+| [Patreon](https://www.patreon.com/) | Change the way art is valued. |
+| [Stripe](https://stripe.com/) | Payments infrastructure for the internet. |
 ## Photos
 | Link | Description |
 | ---- | ----------- |
-| [CoolBackgrounds](https://coolbackgrounds.io/) | Text |
-| [Cloudinary](https://cloudinary.com/) | Text |
-| [Foodiesfeed](https://www.foodiesfeed.com) | Text |
-| [Freepik](https://www.freepik.com/) | Text |
-| [Giphy](https://giphy.com/) | Text |
-| [Itg.Digital](https://itg.digital/) | Text |
-| [Imcreator Free](http://www.imcreator.com/free) | Text |
-| [ManyPixels](https://www.manypixels.co/gallery) | Text |
-| [Pexels](https://www.pexels.com) | Text |
-| [Picsum](https://picsum.photos/) | Text |
-| [Pikwizard](https://pikwizard.com/) | Text |
-| [PlaceImg](https://placeimg.com/) | Text |
-| [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations) | Text |
-| [Subttle Pattern](https://www.toptal.com/designers/subtlepatterns/) | Text |
-| [The Patter Library](http://thepatternlibrary.com) | Text |
-| [The Stocks](http://thestocks.im) | Text |
-| [Unsplash](https://unsplash.com) | Text |
-| [UpScaler](https://icons8.com/upscaler) | Text |
+| [CoolBackgrounds](https://coolbackgrounds.io/) | Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. Beyond backgrounds, the images generated can be used as 🖥 desktop wallpapers or cropped for 📱 mobile wallpapers. |
+| [Cloudinary](https://cloudinary.com/) | We create, manage and deliver engaging experiences at scale. |
+| [Foodiesfeed](https://www.foodiesfeed.com) | Best resource for highly visually appealing free food photos in high resolution. |
+| [Freepik](https://www.freepik.com/) | Graphic resources for everyone. |
+| [Giphy](https://giphy.com/) | GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more. |
+| [Itg.Digital](https://itg.digital/) | Create custom illustrations in a few clicks using our online builder. |
+| [Imcreator Free](http://www.imcreator.com/free) | A curated collection of free web design resources, all for commercial use. |
+| [ManyPixels](https://www.manypixels.co/gallery) | Free Illustration Gallery. |
+| [Pexels](https://www.pexels.com) | The best free stock photos & videos shared by talented creators. |
+| [Picsum](https://picsum.photos/) | Lorem Picsum The Lorem Ipsum for photos. |
+| [Pikwizard](https://pikwizard.com/) | High Quality, Free Stock Photos. |
+| [PlaceImg](https://placeimg.com/) | Add a width, height and category. It's that simple. Use the buttons above to create the type of image you need. |
+| [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations) | One new high-quality, open-source illustration each day. |
+| [Subttle Pattern](https://www.toptal.com/designers/subtlepatterns/) | Subttle Pattern |
+| [The Patter Library](http://thepatternlibrary.com) | This on going project compiles patterns shared by the most talented designers out there for you to use freely in your designs. |
+| [Unsplash](https://unsplash.com) | The internet’s source of freely-usable images. Powered by creators everywhere. |
+| [UpScaler](https://icons8.com/upscaler) | Enhance image resolution with AI. |
 
 ## Python
 | Link | Description |
 | ---- | ----------- |
-| [Anaconda](https://www.anaconda.com/) | Text |
-| [Django](https://www.djangoproject.com/) | Text |
-| [Flask](https://palletsprojects.com/p/flask/) | Text |
-| [Python](https://www.python.org/) | Text |
+| [Anaconda](https://www.anaconda.com/) | A movement that brings together millions of data science practitioners, data-driven enterprises, and the open source community. |
+| [Django](https://www.djangoproject.com/) | Django makes it easier to build better web apps more quickly and with less code. |
+| [Flask](https://palletsprojects.com/p/flask/) | Flask is a lightweight WSGI web application framework. |
+| [Python](https://www.python.org/) | Python is a programming language that lets you work quickly
+and integrate systems more effectively. |
 ## Radio
 | Link | Description |
 | ---- | ----------- |
@@ -708,6 +705,7 @@
 | Link | Description |
 | ---- | ----------- |
 | [arc.dev](https://arc.dev/) | Text |
+| [HackerRank](https://www.hackerrank.com/) | Matching developers with great companies. |
 | [JustRemote](https://justremote.co/) | Text |
 | [remote.io](https://www.remote.io/) | Text |
 | [RemoteOk](https://remoteok.io/) | Text |
