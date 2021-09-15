@@ -17,86 +17,89 @@
 ## APIS
 | Link | Description |
 | ---- | ----------- |
-| [CoinGecko API](https://www.coingecko.com/en) | Text |
-| [Monster Hunter API](https://docs.mhw-db.com/) | Text |
-| [Notion API](https://developers.notion.com/) | Text |
-| [Spotify API](https://developer.spotify.com/documentation/web-api/) | Text |
-| [Poke API](https://pokeapi.co/) | Text |
-| [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) | Text |
-| [Unsplash API](https://source.unsplash.com/) | Text |
+| [CoinGecko API](https://www.coingecko.com/en) | 
+The Most Comprehensive Cryptocurrency API. |
+| [MHW API](https://docs.mhw-db.com/) | Monster Hunter World API. |
+| [Notion API](https://developers.notion.com/) | Connect Notion pages and databases to the tools you use every day, creating powerful workflows. |
+| [Spotify API](https://developer.spotify.com/documentation/web-api/) | Create a simple server-side application that accesses user related data through the Spotify Web API. |
+| [Poke API](https://pokeapi.co/) | All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API. |
+| [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) | The Movie Database (TMDB) API. Below you will find a current list of the available methods on our movie, tv, actor and image API. |
+| [Unsplash API](https://source.unsplash.com/) | Simple embedding for Unsplash photos. |
 ## API Request
 | Link | Description |
 | ---- | ----------- |
-| [Curl](https://curl.se/) | Text |
-| [Hoppscotch](https://hoppscotch.io/) | Text |
-| [Insomnia](https://insomnia.rest/) | Text |
-| [Postman](https://www.postman.com/) | Text |
+| [Curl](https://curl.se/) | Command line tool and library for transferring data with URLs. |
+| [Hoppscotch](https://hoppscotch.io/) | Open source API development ecosystem |
+| [Insomnia](https://insomnia.rest/) | Deliver high quality APIs through standards and collaboration with the Insomnia API design platform. |
+| [Postman](https://www.postman.com/) | Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster. |
 ## Articles
 | Link | Description |
 | ---- | ----------- |
-| [10 Most Important Meta Tags You Need to Know for SEO](https://www.searchenginejournal.com/important-tags-seo/156440/#close) | Text |
-| [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/) | Text |
-| [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/) | Text |
-| [6 Buenas prácticas para el manejo de tus repositorios en Github](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929) | Text |
-| [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) | Text |
-| [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) | Text |
-| [Implement Dark Mode On Your Website](https://dev.to/mattmarquise/implement-dark-mode-on-your-website-5c5a) | Text |
-| [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) | Text |
-| [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript) | Text |
-| [The Psychology of Design](https://growth.design/psychology/) | Text |
-| [The Ultimate Javascript vs Dart Syntax Guide](https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6) | Text |
+| [10 Most Important Meta Tags](https://www.searchenginejournal.com/important-tags-seo/156440/#close) | You Need to Know for SEO. |
+| [10 Tips for Writing](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/) | Clean and Scalable JavaScript. |
+| [13 Things](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/) | You Should Know Before You Enter In Web Development |
+| [6 Best practices](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929) | for managing your repositories in Github. |
+| [Airbnb JavaScript](https://github.com/airbnb/javascript) | Style Guide. |
+| [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) | concepts adapted for JavaScript .|
+| [Implement Dark Mode](https://dev.to/mattmarquise/implement-dark-mode-on-your-website-5c5a) | On Your Website |
+| [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) | JavaScript Algorithms and Data Structures. |
+| [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript) | The Algorithms - JavaScript. |
+| [The Psychology of Design](https://growth.design/psychology/) | The Psychology of Design. |
+| [The Ultimate Javascript vs Dart Syntax Guide](https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6) | The Ultimate Javascript vs Dart Syntax Guide. |
 ## BackEnd
 | Link | Description |
 | ---- | ----------- |
-| [Deno](https://deno.land/) | Text |
-| [Express](https://babeljs.io/) | Text |
-| [Fastify](https://www.fastify.io/) | Text |
-| [Hapi](https://hapi.dev/) | Text |
-| [Node.js](https://nodejs.org/) | Text |
-| [Strapi](https://strapi.io/) | Text |
+| [Deno](https://deno.land/) | A modern runtime for JavaScript and TypeScript. |
+| [Express](https://expressjs.com/) | Fast, unopinionated, minimalist web framework for Node.js |
+| [Fastify](https://www.fastify.io/) | Fast and low overhead web framework, for Node.js |
+| [Hapi](https://hapi.dev/) | The Simple, Secure Framework Developers Trust |
+| [Node.js](https://nodejs.org/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
+| [Strapi](https://strapi.io/) | Design APIs fast, manage content easily. |
 ## Blogs
 | Link | Description |
 | ---- | ----------- |
-| [Carlosazaustre.es Blog](https://carlosazaustre.es/blog)| Text |
-| [FlavioCopes](https://flaviocopes.com/)| Text |
-| [Hashnode](https://hashnode.com/)| Text |
-| [kentcdodds](https://kentcdodds.com/blog/)| Text |
-| [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)| Text |
-| [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)| Text |
+| [Carlosazaustre.es](https://carlosazaustre.es/blog)| Carlos Azaustre Blog. |
+| [Dev](https://dev.to/)| DEV Community |
+| [FlavioCopes](https://flaviocopes.com/)| Flavio Copes Blog. |
+| [Hashnode](https://hashnode.com/)| Everything you need to start blogging as a developer! |
+| [kentcdodds](https://kentcdodds.com/blog/)| Kent C. Dodds Blog. |
+| [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)| Majo here! 👋🏻, realizo apuntes a mano sobre las tecnologías más utilizadas. |
+| [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)| Aprende conceptos de tecnología, programación y otras cosas, en español, gratis y ¡Explicados con gatitos! |
 ## Bundles
 | Link | Description |
 | ---- | ----------- |
-| [Create App](https://createapp.dev/) | Text |
-| [EsBuild](https://esbuild.github.io/) | Text |
-| [Rollup.js](https://rollupjs.org/guide/en/) | Text |
-| [Snowpack](https://www.snowpack.dev/) | Text |
-| [Waypoint](https://www.waypointproject.io/) | Text |
-| [WebPack](https://webpack.js.org/) | Text |
+| [Create App](https://createapp.dev/) | Frontend build config generator. |
+| [EsBuild](https://esbuild.github.io/) | An extremely fast JavaScript bundler. |
+| [Rollup.js](https://rollupjs.org/guide/en/) | Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. |
+| [Snowpack](https://www.snowpack.dev/) | The faster frontend build tool. |
+| [Waypoint](https://www.waypointproject.io/) | Build. Deploy. Release. |
+| [WebPack](https://webpack.js.org/) | At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph from one or more entry points and then combines every module your project needs into one or more bundles, which are static assets to serve your content from. |
 ## Capture Code
 | Link | Description |
 | ---- | ----------- |
-| [Carbon](https://carbon.now.sh/) | Text |
-| [CodeKeep](https://codekeep.io/home) | Text |
-| [Poet](https://poet.so/) | Text |
-| [Ray](https://ray.so/) | Text |
+| [Carbon](https://carbon.now.sh/) | Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started. |
+| [CodeKeep](https://codekeep.io/home) | A Better Way to Organize , Share & Discover Snippets |
+| [Poet](https://poet.so/) | Capture and share Twitter posts  as beautiful images. Get started by pasting a tweet URL into the input above. |
+| [Ray](https://ray.so/) | Create and share beautiful images of your source code. |
 ## Challenges
 | Link | Description |
 | ---- | ----------- |
-| [100 days css](https://100dayscss.com/) | Text |
-| [Ace FrontEnd](https://www.acefrontend.com/) | Text |
-| [App Ideas](https://github.com/florinpop17/app-ideas/) | Text |
-| [Codepen](https://codepen.io/challenges) | Text |
-| [Codier](https://codier.io/) | Text |
-| [Css-Tricks](https://css-tricks.com/) | Text |
-| [CSSBattle](https://cssbattle.dev/) | Text |
-| [Daily UI](https://www.dailyui.co/) | Text |
-| [DevChallenges](https://devchallenges.io/) | Text |
-| [FrontEndMentor](https://www.frontendmentor.io/) | Text |
-| [Frontloops](https://frontloops.io/) | Text |
+| [100 days css](https://100dayscss.com/) | For 100 consecutive days, I've written HTML and CSS snippets as a creative learning process for myself. |
+| [Ace FrontEnd](https://www.acefrontend.com/) | Ace your web developer interview. |
+| [App Ideas](https://github.com/florinpop17/app-ideas/) | Have you ever wanted to build something but you had no idea what to do? Just as authors sometimes have "writers block" it's also true for developers. This list is intended to solve this issue once and for all! 👍 |
+| [Codepen](https://codepen.io/challenges) | Challenges are fun opportunities for leveling up your skills by building things. Each week, you’ll get a new prompt surrounding a monthly theme to riff on. The best Pens get picked and featured on the homepage! |
+| [Codier](https://codier.io/) | Explore and attempt front-end coding challenges. |
+| [Css-Tricks](https://css-tricks.com/front-end-challenges/) | Front-End Challenges. |
+| [CSSBattle](https://cssbattle.dev/) | CSS code-golfing game is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test. |
+| [Daily UI](https://www.dailyui.co/) | Daily UI is a series of daily Design Challenges Inspiration and Surprise Rewards! |
+| [DevChallenges](https://devchallenges.io/) | Web Development Resources and Community that help you to become a Web Developer by working with Real-life projects and practices. |
+| [FrontEndMentor](https://www.frontendmentor.io/) | Improve your front-end coding skills by building real projects. |
+| [Frontloops](https://frontloops.io/) | Power up your frontend development chops with real-world challenges. |
 ## Chrome Extension
 | Link | Description |
 | ---- | ----------- |
 | [Adblock para Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=es) | Text |
+| [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Text |
 | [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=es) | Text |
 | [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd?hl=es) | Text |
 | [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) | Text |
@@ -114,6 +117,7 @@
 | [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=es) | Text |
 | [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en) | Text |
 | [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) | Text |
+| [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=es) | Text |
 | [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) | Text |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es) | Text |
 | [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn) | Text |
