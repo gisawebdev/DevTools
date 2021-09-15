@@ -97,30 +97,27 @@
 ## Chrome Extension
 | Link | Description |
 | ---- | ----------- |
-| [Adblock para Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=es) | Text |
-| [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Text |
-| [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=es) | Text |
-| [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd?hl=es) | Text |
-| [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) | Text |
-| [Click and Clean](https://chrome.google.com/webstore/detail/click-and-clean/mgngmngjioknlgjjaiiamcdbahombpfb?hl=en) | Text |
-| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Text |
-| [CSS - Shack](https://chrome.google.com/webstore/detail/css-shack/geiccgjkigajaicecnhdokggninehdlp) | Text |
-| [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es) | Text |
-| [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) | Text |
-| [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj?hl=es) | Text |
-| [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es) | Text |
-| [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=en) | Text |
-| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es) | Text |
-| [Search Stackoverflow](https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj) | Text |
-| [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en) | Text |
-| [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=es) | Text |
-| [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en) | Text |
-| [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) | Text |
-| [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=es) | Text |
-| [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) | Text |
-| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es) | Text |
-| [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn) | Text |
-| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Text |
+| [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=en) | Removes ads from Youtube™. |
+| [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) | Angular DevTools extends Chrome DevTools adding Angular specific debugging and profiling capabilities. |
+| [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) | Check My Links is a link checker that crawls through your webpage and looks for broken links. |
+| [Click and Clean](https://chrome.google.com/webstore/detail/click-and-clean/mgngmngjioknlgjjaiiamcdbahombpfb?hl=en) | Quickly delete your browsing data - open windows, browsing history, cookies, downloads history, form data, caches etc. |
+| [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies. |
+| [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es) | Get a feed of the hottest developer news personalized to you. |
+| [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) | Write your best with Grammarly for Chrome. |
+| [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj?hl=es) | Create grids and measure their distance easily. |
+| [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. |
+| [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=en) | Video messaging for work. |
+| [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es) | Adds React debugging tools to the Chrome Developer Tools |
+| [Search Stackoverflow](https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj) | Stackoverflow Search Extension. |
+| [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en) | Extract colours from any website. |
+| [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) | Redesign the web with Stylus, a user styles manager. Stylus allows you to easily install themes and skins for many popular sites. |
+| [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en) | Capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application. |
+| [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) | Responsive design testing tool to test any website’s responsiveness – it only takes 2 seconds! Emulate various screen resolutions. |
+| [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=es) | Chrome and Firefox DevTools extension for debugging Vue.js applications. |
+| [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) | Collaboration tool for website feedback and fixing design bugs. |
+| [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es) | Identify web technologies. |
+| [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn) | Allows you to know what typeface is used on any web site. |
+| [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Resize the browser window to emulate various screen resolutions. |
 ## Colors
 | Link | Description |
 | ---- | ----------- |
