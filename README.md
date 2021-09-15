@@ -313,47 +313,46 @@
 ## JavaScript 
 | Link | Description |
 | ---- | ----------- |
-| [Algolia Places](https://community.algolia.com/places/) | Text |
-| [Anime.js](https://animejs.com/) | Text |
-| [ApexCharts.js](https://apexcharts.com/) | Text |
-| [Audio.js](https://kolber.github.io/audiojs/) | Text |
-| [Axios](https://github.com/axios/axios) | Text |
-| [Bideo.js](https://rishabhp.github.io/bideo.js/) | Text |
-| [Cdnjs](https://cdnjs.com/) | Text |
-| [Chart.js](https://www.chartjs.org/) | Text |
-| [Chartist.js](https://gionkunz.github.io/chartist-js/) | Text |
-| [Choreographer.js](https://christinecha.github.io/choreographer-js/) | Text |
-| [Cleave.js](https://nosir.github.io/cleave.js/) | Text |
-| [CodeMirror](https://codemirror.net/) | Text |
-| [Curso de JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed3/blob/master/teoria/clase17.md) | Text |
-| [D3.js](https://d3js.org/) | Text |
-| [Draggable](https://shopify.github.io/draggable/) | Text |
-| [Email.js](https://www.emailjs.com/) | Text |
-| [Faker.js](https://github.com/marak/Faker.js/) | Text |
-| [FullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs) | Text |
-| [Glider.js](https://nickpiscitelli.github.io/Glider.js/) | Text |
-| [Glimmer](https://glimmerjs.com/) | Text |
-| [Hammer.js](https://hammerjs.github.io/) | Text |
-| [Immer.js](https://github.com/immerjs/immer) | Text |
-| [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) | Text |
-| [Moment.js](https://momentjs.com/) | Text |
-| [NProgress.js](https://ricostacruz.com/nprogress/) | Text |
-| [Popper.js](https://popper.js.org/) | Text |
-| [Ramda](https://ramdajs.com/) | Text |
-| [Recharts](https://recharts.org/en-US/) | Text |
-| [Redux](https://redux.js.org/introduction/getting-started) | Text |
-| [Reveal.js](https://revealjs.com/) | Text |
-| [Run.js](https://runjs.app/) | Text |
-| [Socket](https://socket.io/) | Text |
-| [Sortable.js](https://sortablejs.github.io/Sortable/) | Text |
-| [The Modern JavaScript Tutorial](https://javascript.info/) | Text |
-| [Tone.js](https://tonejs.github.io/) | Text |
-| [Typed.js](https://mattboldt.github.io/typed.js/) | Text |
-| [TypeIt](https://www.typeit.org/) | Text |
-| [TypeWriter.js](https://safi.me.uk/typewriterjs/) | Text |
-| [Underscore.js](https://underscorejs.org/) | Text |
-| [Utils](https://1loc.dev/) | Text |
-| [Video.js](https://videojs.com/) | Text |
+| [Algolia Places](https://community.algolia.com/places/) | Turn any ```<input>``` into an address autocomplete. |
+| [Anime.js](https://animejs.com/) | JavaScript animation engine. |
+| [ApexCharts.js](https://apexcharts.com/) | Modern & Interactive Open-source Charts. |
+| [Audio.js](https://kolber.github.io/audiojs/) | audio.js is a drop-in javascript library that allows HTML5’s ```<audio>``` tag to be used anywhere. |
+| [Axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js |
+| [Bideo.js](https://rishabhp.github.io/bideo.js/) | A JS library that makes it super easy to add fullscreen background videos. |
+| [Cdnjs](https://cdnjs.com/) | Simple. Fast. Reliable. Content delivery at its finest. |
+| [Chart.js](https://www.chartjs.org/) | Simple yet flexible JavaScript charting for designers & developers. |
+| [Chartist.js](https://gionkunz.github.io/chartist-js/) | Simple Responsive Charts |
+| [Choreographer.js](https://christinecha.github.io/choreographer-js/) | A simple library to take care of complex CSS animations. |
+| [Cleave.js](https://nosir.github.io/cleave.js/) | Format your ```<input/>``` content when you are typing |
+| [CodeMirror](https://codemirror.net/) | CodeMirror is a versatile text editor implemented in JavaScript for the browser. |
+| [Curso de JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed3/blob/master/teoria/clase17.md) | Curso de JavaScript Avanzado para desarrolladores Front-end |
+| [D3.js](https://d3js.org/) | D3.js is a JavaScript library for manipulating documents based on data. |
+| [Draggable](https://shopify.github.io/draggable/) | A lightweight, responsive, modern drag & drop library |
+| [Email.js](https://www.emailjs.com/) | Send Email Directly From JavaScript. |
+| [Faker.js](https://github.com/marak/Faker.js/) | faker.js - generate massive amounts of fake data in the browser and node.js |
+| [FullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs) | Create Beautiful Fullscreen scrolling websites. |
+| [Glider.js](https://nickpiscitelli.github.io/Glider.js/) | A blazingly fast, crazy small, fully responsive, mobile-friendly, dependency free, native scrolling list with paging controls! |
+| [Glimmer](https://glimmerjs.com/) | Fast and light-weight UI components for the web. |
+| [Hammer.js](https://hammerjs.github.io/) | Add touch gestures to your webapp. |
+| [Immer.js](https://github.com/immerjs/immer) | Create the next immutable state tree by simply modifying the current tree. |
+| [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) | The easiest way to  learn  &  practice  modern JavaScript. |
+| [Moment.js](https://momentjs.com/) | Parse, validate, manipulate, and display dates and times in JavaScript. |
+| [NProgress.js](https://ricostacruz.com/nprogress/) | A nanoscopic progress bar. Featuring realistic trickle animations to convince your users that something is happening! |
+| [Popper.js](https://popper.js.org/) | Tooltip & Popover Positioning Engine |
+| [Ramda](https://ramdajs.com/) | A practical functional library for JavaScript programmers. |
+| [Redux](https://redux.js.org/introduction/getting-started) | Redux is a predictable state container for JavaScript apps. |
+| [Reveal.js](https://revealjs.com/) | The HTML Presentation Framework. |
+| [Run.js](https://runjs.app/) | The JavaScript playground for your desktop |
+| [Socket](https://socket.io/) | Bidirectional and low-latency communication for every platform |
+| [Sortable.js](https://sortablejs.github.io/Sortable/) | JavaScript library for reorderable drag-and-drop lists. |
+| [The Modern JavaScript Tutorial](https://javascript.info/) | How it's done now. From the basics to advanced topics with simple, but detailed explanations. |
+| [Tone.js](https://tonejs.github.io/) | Tone.js is a Web Audio framework for creating interactive music in the browser. |
+| [Typed.js](https://mattboldt.github.io/typed.js/) | Typed.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set. |
+| [TypeIt](https://www.typeit.org/) | Type accent marks, diacritics and other characters online. |
+| [TypeWriter.js](https://safi.me.uk/typewriterjs/) | A simple yet powerful native javascript plugin for a cool typewriter effect. |
+| [Underscore.js](https://underscorejs.org/) | Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. |
+| [Utils](https://1loc.dev/) | 286 Favorite JavaScript Utilities in single line of code! No more! |
+| [Video.js](https://videojs.com/) | Make your player yours with the world's most popular open source HTML5 player framework |
 ## Learn
 | Link | Description |
 | ---- | ----------- |
@@ -552,6 +551,7 @@
 | [React](https://reactjs.org/) | Text |
 | [React Anime](https://www.npmjs.com/package/react-anime) | Text |
 | [React Bootstrap](https://react-bootstrap.github.io/) | Text |
+| [Recharts](https://recharts.org/en-US/) | A composable charting library built on React components |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es) | Text |
 | [React Example](https://reactjsexample.com/) | Text |
 | [React Gsap](https://www.npmjs.com/package/react-gsap) | Text |
