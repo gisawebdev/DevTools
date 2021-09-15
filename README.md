@@ -23,6 +23,7 @@
 | [Spotify API](https://developer.spotify.com/documentation/web-api/) | Create a simple server-side application that accesses user related data through the Spotify Web API. |
 | [Poke API](https://pokeapi.co/) | All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API. |
 | [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) | The Movie Database (TMDB) API. Below you will find a current list of the available methods on our movie, tv, actor and image API. |
+| [Random API](https://randomapi.com/) | Easily generate fake data for populating your mockups and testing your applications. |
 | [Unsplash API](https://source.unsplash.com/) | Simple embedding for Unsplash photos. |
 ## API Request
 | Link | Description |
@@ -156,8 +157,6 @@
 | [EDgrid](https://ed-grid.com/) | Maqueta sitios y aplicaciones web sin una línea de CSS |
 | [Epic Spinners](https://epic-spinners.epicmax.co/) | Css only. Easy to use. |
 | [Fancy Corners With CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/) | Creating fancy corners is one of them. With a just few lines of CSS code, you can easily beautify the corners of HTML elements and create stunning visuals for users to interact with. |
-| [FlexBox Defense](http://www.flexboxdefense.com/) | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS! |
-| [FLEXBOX FROGGY](https://flexboxfroggy.com/) | Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! |
 | [Flexy Boxes](https://the-echoplex.net/flexyboxes/) | Flexbox playground and code generator. |
 | [Foundation](https://get.foundation/) | The most advanced responsive front-end framework in the world. |
 | [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) | Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties. |
@@ -208,49 +207,43 @@
 ## Design
 | Link | Description |
 | ---- | ----------- |
-| [Ant Design](https://ant.design/) | Text |
-| [AppMockUp](https://app-mockup.com/) | Text |
-| [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) | Text |
-| [Canva](https://www.canva.com/) | Text |
-| [Element-UI](https://madewithvuejs.com/element-ui) | Text |
-| [Figma](https://www.figma.com/) | Text |
-| [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/) | Text |
-| [Flutter Awesome](https://flutterawesome.com/) | Text |
-| [Photopea](https://www.photopea.com/) | Text |
-| [Semantic UI](https://semantic-ui.com/) | Text |
-## Developing
-| Link | Description |
-| ---- | ----------- |
-| [Caracterisiticas de Google Chrome que no estas usando](https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/) | Text |
-| [El proceso de Diseño web](http://www.newdesigngroup.ca/blog/web-design-process-infographic/) | Text |
-| [Usuario Aleatorio](https://randomuser.me) | Text |
+| [Ant Design](https://ant.design/) | A design system for enterprise-level products. Create an efficient and enjoyable work experience. |
+| [AppMockUp](https://app-mockup.com/) | Where App Screenshots Are Made. |
+| [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) | Atomic design is methodology for creating design systems. |
+| [Canva](https://www.canva.com/) | Empowering the world to design. |
+| [Element-UI](https://madewithvuejs.com/element-ui) | Element is a Vue 2.0 based component library for developers, designers and product managers. |
+| [Figma](https://www.figma.com/) | Creative tools meet the internet. |
+| [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/) | A collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior. |
+| [Flutter Awesome](https://flutterawesome.com/) | Flutter Awesome |
+| [Photopea](https://www.photopea.com/) | Photopea: advanced image editor. |
+| [Semantic UI](https://semantic-ui.com/) | User Interface is the language of the web. |
 ## Diagrams
 | Link | Description |
 | ---- | ----------- |
-| [Draw.io](https://www.draw.io/) | Text |
+| [Draw.io](https://www.draw.io/) | draw.io is proprietary software for making diagrams and charts. |
 ## Domain
 | Link | Description |
 | ---- | ----------- |
-| [Hostgator](https://www.hostgator.com/) | Text |
-| [Hostinger](https://www.hostinger.com/) | Text |
-| [NameCheap](https://www.namecheap.com/) | Text |
+| [Hostgator](https://www.hostgator.com/) | Go where the pros host. |
+| [Hostinger](https://www.hostinger.com/) | Order Premium Web Hosting for at least 12 months and get a free .COM domain for the first year. Free SSL included. |
+| [NameCheap](https://www.namecheap.com/) | Buy a domain and everything else you need. |
 ## Formmater
 | Link | Description |
 | ---- | ----------- |
-| [Prettier](https://prettier.io/) | Text |
+| [Prettier](https://prettier.io/) | An opinionated code formatter, Supports many languages, Integrates with most editors, Has few options. |
 ## Flutter
 | Link | Description |
 | ---- | ----------- |
-| [Dart](https://dart.dev/) | Text |
-| [Flutter](https://flutter.dev/) | Text |
-| [Pub](https://pub.dev/) | Text |
+| [Dart](https://dart.dev/) | Dart is a client-optimized language for fast apps on any platform. |
+| [Flutter](https://flutter.dev/) | Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase. |
+| [Pub](https://pub.dev/) | The official package repository for Dart and Flutter apps. |
 ## Games
 | Link | Description |
 | ---- | ----------- |
 | [CSS Diner](https://flukeout.github.io/) | Text |
 | [CSSBattle](https://cssbattle.dev/) | Text |
-| [Flexbox Defense](http://www.flexboxdefense.com/) | Text |
-| [FlexBox Froggy](https://flexboxfroggy.com/) | Text |
+| [Flexbox Defense](http://www.flexboxdefense.com/) | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS! |
+| [FlexBox Froggy](https://flexboxfroggy.com/) | Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! |
 | [FlexBox Zombies](https://mastery.games/flexboxzombies/) | Text |
 | [Get Gamez](https://getgamez.net/) | Text |
 | [Grid Garden](https://cssgridgarden.com/) | Text |
