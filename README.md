@@ -13,6 +13,15 @@
 - [ng2-charts](https://valor-software.com/ng2-charts/)
 - [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
 - [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/)
+
+## APIS
+- [CoinGecko API](https://www.coingecko.com/en)
+- [Monster Hunter API](https://docs.mhw-db.com/)
+- [Notion API](https://developers.notion.com/)
+- [Spotify API](https://developer.spotify.com/documentation/web-api/)
+- [Poke API](https://pokeapi.co/)
+- [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction)
+- [Unsplash API](https://source.unsplash.com/)
 ## API Request
 - [Curl](https://curl.se/)
 - [Hoppscotch](https://hoppscotch.io/)
@@ -54,6 +63,7 @@
 ## Capture Code
 - [Carbon](https://carbon.now.sh/)
 - [CodeKeep](https://codekeep.io/home)
+- [Poet](https://poet.so/)
 - [Ray](https://ray.so/)
 ## Challenges
 - [100 days css](https://100dayscss.com/)
@@ -258,6 +268,7 @@
 - [DrawKit](https://www.drawkit.io/free-icons)
 - [Illustation](https://illustation.io/)
 - [IRA Design](https://iradesign.io/)
+- [Storytale](https://storytale.io/)
 - [UnDraw](https://undraw.co/)
 ## Inspiration
 - [Admire the web](http://www.admiretheweb.com)
@@ -354,6 +365,7 @@
 - [AccountKiller](https://www.accountkiller.com/en/home)
 - [Alternativeto](https://alternativeto.net/)
 - [Answer Socrates](https://answersocrates.com/)
+- [Apption](https://apption.co/)
 - [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources)
 - [AWS Device Farm](https://aws.amazon.com/device-farm/)
 - [Bezier](https://bezier.method.ac/)
@@ -400,6 +412,7 @@
 - [Panzoid](https://panzoid.com/)
 - [Pastebin](https://pastebin.com/)
 - [Placeholder](https://placeholder.com/)
+- [Peppertype](https://www.peppertype.ai/)
 - [Presentation Maker](https://www.beautiful.ai/)
 - [Programming Fonts](https://www.programmingfonts.org/)
 - [Pollylingu](https://pollylingu.al/)
@@ -409,6 +422,7 @@
 - [Retrostic](https://www.retrostic.com/)
 - [Screen Recorder](https://snipclip.app/screen-recorder/)
 - [Screenfly](https://bluetree.ai/screenfly/)
+- [SmartMockups](https://smartmockups.com/)
 - [Slides](https://slides.com/)
 - [Soda Pdf](https://www.sodapdf.com/freeonlinetools/)
 - [Sparkol](https://www.sparkol.com/en)
@@ -422,6 +436,7 @@
 - [Wdflat](https://wdflat.com/)
 - [WebComponents](https://www.webcomponents.org/)
 - [Website Responsive Testing Tool](http://responsivetesttool.com/)
+- [Weekly Visitor Report](https://clearbit.com/resources/tools/visitor-report)
 - [WIFI Map](https://www.wifimap.io/)
 - [Z-Library](https://b-ok.lat/)
 ## Payment Platforms
@@ -578,12 +593,15 @@
 - [Hidden Tools](https://hiddentools.dev/)
 - [Link-to-qr](https://link-to-qr.com/)
 - [Local PDF Tools](https://localpdf.tech/)
+- [MetaTags](https://metatags.io/)
 - [Mobbin](https://mobbin.design/)
 - [Mock Magic](https://www.mockmagic.com/)
 - [Npkill](https://www.npmjs.com/package/npkill)
+- [Profile Pic Maker](https://pfpmaker.com/)
 - [Public Apis](https://github.com/public-apis/public-apis)
 - [ScreenSizes](https://www.screensizes.app/)
 - [ReactiveX](http://reactivex.io/)
+- [Readme](https://readme.so/)
 - [Remove.bg](https://www.remove.bg/)
 - [Responsively](https://responsively.app/)
 - [Robo Mongo](https://robomongo.org/)
@@ -592,6 +610,7 @@
 - [ShortcutFoo](https://www.shortcutfoo.com/)
 - [UnScreen](https://www.unscreen.com/)
 - [Toolb.dev](https://www.toolb.dev/)
+- [Type Scale](https://type-scale.com/)
 
 ## Work
 - [arc.dev](https://arc.dev/)
