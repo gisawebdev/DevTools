@@ -1,52 +1,64 @@
 # Dev Tools
 
 ## Angular 
-- [Angular / Cordova](https://medium.com/@nacojohn/convert-your-angular-project-to-mobile-app-using-cordova-f0384a7711a6)
-- [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/)
-- [Angular Epic Spinners](https://hackafro.github.io/angular-epic-spinners/?s=09)
-- [Angular Material](https://material.angular.io/)
-- [Angular Tips](https://auth0.com/blog/angular-9s-best-hidden-feature-strict-template-checking/)
-- [AngularFire](https://github.com/angular/angularfire)
-- [NG-Lightning](https://ng-lightning.github.io/ng-lightning/#/)
-- [NG-Prime](https://www.primefaces.org/primeng/)
-- [NG-ZORRO](https://ng.ant.design/docs/introduce/en)
-- [ng2-charts](https://valor-software.com/ng2-charts/)
-- [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination)
-- [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/)
+| Link                            | Description |
+| ------------------------------- | ----------- |
+| [Angular / Cordova](https://medium.com/@nacojohn/convert-your-angular-project-to-mobile-app-using-cordova-f0384a7711a6) | Text |
+| [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/) | Text |
+| [Angular Epic Spinners](https://hackafro.github.io/angular-epic-spinners/?s=09) | Text |
+| [Angular Material](https://material.angular.io/) | Text |
+| [Angular Tips](https://auth0.com/blog/angular-9s-best-hidden-feature-strict-template-checking/) | Text |
+| [AngularFire](https://github.com/angular/angularfire) | Text |
+| [NG-Lightning](https://ng-lightning.github.io/ng-lightning/#/) | Text |
+| [NG-Prime](https://www.primefaces.org/primeng/) | Text |
+| [NG-ZORRO](https://ng.ant.design/docs/introduce/en) | Text |
+| [ng2-charts](https://valor-software.com/ng2-charts/) | Text |
+| [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/#/pagination) | Text |
+| [Open-Source Angular Components](https://www.creative-tim.com/blog/web-design/free-open-source-angular-components/) | Text |
 
 ## APIS
-- [CoinGecko API](https://www.coingecko.com/en)
-- [Monster Hunter API](https://docs.mhw-db.com/)
-- [Notion API](https://developers.notion.com/)
-- [Spotify API](https://developer.spotify.com/documentation/web-api/)
-- [Poke API](https://pokeapi.co/)
-- [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction)
-- [Unsplash API](https://source.unsplash.com/)
+| Link                 | Description |
+| -------------------- | ----------- |
+| [CoinGecko API](https://www.coingecko.com/en) | Text |
+| [Monster Hunter API](https://docs.mhw-db.com/) | Text |
+| [Notion API](https://developers.notion.com/) | Text |
+| [Spotify API](https://developer.spotify.com/documentation/web-api/) | Text |
+| [Poke API](https://pokeapi.co/) | Text |
+| [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) | Text |
+| [Unsplash API](https://source.unsplash.com/) | Text |
 ## API Request
-- [Curl](https://curl.se/)
-- [Hoppscotch](https://hoppscotch.io/)
-- [Insomnia](https://insomnia.rest/)
-- [Postman](https://www.postman.com/)
+| Link         | Description |
+| ------------ | ----------- |
+| [Curl](https://curl.se/) | Text |
+| [Hoppscotch](https://hoppscotch.io/) | Text |
+| [Insomnia](https://insomnia.rest/) | Text |
+| [Postman](https://www.postman.com/) | Text |
 ## Articles
-- [10 Most Important Meta Tags You Need to Know for SEO](https://www.searchenginejournal.com/important-tags-seo/156440/#close)
-- [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/)
-- [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/)
-- [6 Buenas prácticas para el manejo de tus repositorios en Github](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929)
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-- [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
-- [Implement Dark Mode On Your Website](https://dev.to/mattmarquise/implement-dark-mode-on-your-website-5c5a)
-- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
-- [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)
-- [The Psychology of Design](https://growth.design/psychology/)
-- [The Ultimate Javascript vs Dart Syntax Guide](https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6)
+| Link                                                             | Description |
+| ---------------------------------------------------------------- | ----------- |
+| [10 Most Important Meta Tags You Need to Know for SEO](https://www.searchenginejournal.com/important-tags-seo/156440/#close) | Text |
+| [10 Tips for Writing Clean and Scalable JavaScript](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/) | Text |
+| [13 Things You Should Know Before You Enter In Web Development](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/) | Text |
+| [6 Buenas prácticas para el manejo de tus repositorios en Github](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929) | Text |
+| [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) | Text |
+| [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) | Text |
+| [Implement Dark Mode On Your Website](https://dev.to/mattmarquise/implement-dark-mode-on-your-website-5c5a) | Text |
+| [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) | Text |
+| [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript) | Text |
+| [The Psychology of Design](https://growth.design/psychology/) | Text |
+| [The Ultimate Javascript vs Dart Syntax Guide](https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6) | Text |
 ## BackEnd
-- [Deno](https://deno.land/)
-- [Express](https://babeljs.io/)
-- [Fastify](https://www.fastify.io/)
-- [Hapi](https://hapi.dev/)
-- [Node.js](https://nodejs.org/)
-- [Strapi](https://strapi.io/)
+| Link      | Description |
+| --------- | ----------- |
+| [Deno](https://deno.land/) | Text |
+| [Express](https://babeljs.io/) | Text |
+| [Fastify](https://www.fastify.io/) | Text |
+| [Hapi](https://hapi.dev/) | Text |
+| [Node.js](https://nodejs.org/) | Text |
+| [Strapi](https://strapi.io/) | Text |
 ## Blogs
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Carlosazaustre.es Blog](https://carlosazaustre.es/blog)
 - [FlavioCopes](https://flaviocopes.com/)
 - [Hashnode](https://hashnode.com/)
@@ -54,18 +66,24 @@
 - [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)
 - [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)
 ## Bundles
-- [Create App](https://createapp.dev/)
-- [EsBuild](https://esbuild.github.io/)
-- [Rollup.js](https://rollupjs.org/guide/en/)
-- [Snowpack](https://www.snowpack.dev/)
-- [Waypoint](https://www.waypointproject.io/)
-- [WebPack](https://webpack.js.org/)
+| Link         | Description |
+| ------------ | ----------- |
+| [Create App](https://createapp.dev/) | Text |
+| [EsBuild](https://esbuild.github.io/) | Text |
+| [Rollup.js](https://rollupjs.org/guide/en/) | Text |
+| [Snowpack](https://www.snowpack.dev/) | Text |
+| [Waypoint](https://www.waypointproject.io/) | Text |
+| [WebPack](https://webpack.js.org/) | Text |
 ## Capture Code
-- [Carbon](https://carbon.now.sh/)
-- [CodeKeep](https://codekeep.io/home)
-- [Poet](https://poet.so/)
-- [Ray](https://ray.so/)
+| Link       | Description |
+| ---------- | ----------- |
+| [Carbon](https://carbon.now.sh/) | Text |
+| [CodeKeep](https://codekeep.io/home) | Text |
+| [Poet](https://poet.so/) | Text |
+| [Ray](https://ray.so/) | Text |
 ## Challenges
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [100 days css](https://100dayscss.com/)
 - [Ace FrontEnd](https://www.acefrontend.com/)
 - [App Ideas](https://github.com/florinpop17/app-ideas/)
@@ -78,6 +96,8 @@
 - [FrontEndMentor](https://www.frontendmentor.io/)
 - [Frontloops](https://frontloops.io/)
 ## Chrome Extension
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Adblock para Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk?hl=es)
 - [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=es)
 - [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd?hl=es)
@@ -101,6 +121,8 @@
 - [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn)
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 ## Colors
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 - [Color Hunt](https://colorhunt.co/palettes)
 - [ColorBox](https://colorbox.io/)
@@ -118,6 +140,8 @@
 - [Uigradients](https://uigradients.com/#Socialive)
 - [Variaciones de Colores](http://www.0to255.com)
 ## CSS 
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Animate.css](https://animate.style/)
 - [Animista.net](https://animista.net/play/basic/rotate-90)
 - [AOS](https://michalsnik.github.io/aos/)
@@ -171,6 +195,8 @@
 - [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
 
 ## DataBase
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [ArangoDB](https://www.arangodb.com/)
 - [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/)
 - [Apache Cassandra](https://cassandra.apache.org/_/index.html)
@@ -183,6 +209,8 @@
 - [Redis](https://redis.io/)
 - [SQLite](https://www.sqlite.org/index.html)
 ## Design
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Ant Design](https://ant.design/)
 - [AppMockUp](https://app-mockup.com/)
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
@@ -194,16 +222,24 @@
 - [Photopea](https://www.photopea.com/)
 - [Semantic UI](https://semantic-ui.com/)
 ## Developing
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Caracterisiticas de Google Chrome que no estas usando](https://www.labnol.org/software/chrome-dev-tools-tutorial/28131/)
 - [El proceso de Diseño web](http://www.newdesigngroup.ca/blog/web-design-process-infographic/)
 - [Usuario Aleatorio](https://randomuser.me)
 ## Diagrams
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Draw.io](https://www.draw.io/)
 ## Domain
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Hostgator](https://www.hostgator.com/)
 - [Hostinger](https://www.hostinger.com/)
 - [NameCheap](https://www.namecheap.com/)
 ## Fonts
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [FontEsk](https://fontesk.com/)
 - [FontFlipper](https://fontflipper.com/upload)
 - [FontShare](https://www.fontshare.com/)
@@ -211,12 +247,18 @@
 - [Google Fonts](https://fonts.google.com/)
 - [Google font to SVG path](https://danmarshall.github.io/google-font-to-svg-path/)
 ## Formmater
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Prettier](https://prettier.io/)
 ## Flutter
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Dart](https://dart.dev/)
 - [Flutter](https://flutter.dev/)
 - [Pub](https://pub.dev/)
 ## Games
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [CSS Diner](https://flukeout.github.io/)
 - [CSSBattle](https://cssbattle.dev/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
@@ -230,6 +272,8 @@
 - [Side Hustle Stack](https://sidehustlestack.co/)
 - [VIM Adventures](https://vim-adventures.com/)
 ## Hosting
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Firebase](https://firebase.google.com/)
 - [Heroku](https://www.heroku.com/)
@@ -237,6 +281,8 @@
 - [Surge](https://surge.sh/)
 - [Vercel](https://vercel.com/)
 ## HTML
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Caracteres especiales en HTML](https://css-tricks.com/snippets/html/glyphs/)
 - [HTML Hell](https://www.htmhell.dev/)
 - [Mozilla Developer Network](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -245,6 +291,8 @@
 - [W3C validator](https://validator.w3.org)
 - [W3School](http://www.w3schools.com/html)
 ## Icons
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Box Icons](https://boxicons.com/)
 - [CocoMaterial](https://cocomaterial.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
@@ -265,12 +313,16 @@
 - [The Noun Project](https://thenounproject.com/)
 - [Visiwig](https://www.visiwig.com/)
 ## Illustration
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [DrawKit](https://www.drawkit.io/free-icons)
 - [Illustation](https://illustation.io/)
 - [IRA Design](https://iradesign.io/)
 - [Storytale](https://storytale.io/)
 - [UnDraw](https://undraw.co/)
 ## Inspiration
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Admire the web](http://www.admiretheweb.com)
 - [Awwwards](https://www.awwwards.com)
 - [Behance](https://www.behance.net)
@@ -282,6 +334,8 @@
 - [oozled](http://oozled.com)
 - [Site Inspire](https://www.siteinspire.com)
 ## JavaScript 
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Algolia Places](https://community.algolia.com/places/)
 - [Anime.js](https://animejs.com/)
 - [ApexCharts.js](https://apexcharts.com/)
@@ -324,24 +378,36 @@
 - [Utils](https://1loc.dev/)
 - [Video.js](https://videojs.com/)
 ## Learn
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Digital Defynd](https://digitaldefynd.com/)
 - [Mem](https://mem.dev/)
 - [LeetCode](https://leetcode.com/)
 - [The Odin Projec](https://www.theodinproject.com/)
 ## Linters
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [ESLint](https://eslint.org/)
 - [JSLint](https://jslint.com/)
 ## Manager
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Google Tag Manager](https://tagmanager.google.com/)
 ## Maps
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Mapbox](https://www.mapbox.com/)
 - [MyMappi](https://mymappi.com/)
 ## Notification
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Quantum Alert](https://quantumalert.cosmogic.com/)
 - [Sweet Alert 2](https://sweetalert2.github.io/)
 - [Toast.js](https://toast-js.com/)
 - [Toasty.js](http://jakim.me/Toasty.js/)
 ## Optimizing Our Website
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/)
 - [ANDI](https://www.ssa.gov/accessibility/andi/help/howtouse.html)
 - [Build a Better Mobile Input](https://better-mobile-inputs.netlify.app/?android=false&autocomplete=one-time-code&inputmode=decimal&type=url)
@@ -354,12 +420,18 @@
 - [Vista previa en multiples dispositivos](http://www.responsinator.com)
 
 ## ORM
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Sequelize](https://sequelize.org/) - Node
 - [Typeorm](https://typeorm.io/#/) - TypeScript 
 ## Package Manager
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [NPM](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
 ## Pages
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [10 Minute Mail](https://10minutemail.com/)
 - [30 seconds of code](https://www.30secondsofcode.org/)
 - [AccountKiller](https://www.accountkiller.com/en/home)
@@ -440,11 +512,14 @@
 - [WIFI Map](https://www.wifimap.io/)
 - [Z-Library](https://b-ok.lat/)
 ## Payment Platforms
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Buy Me a Coffee](https://www.buymeacoffee.com/)
 - [Patreon](https://www.patreon.com/)
-## Payment Tools
 - [Stripe](https://tagmanager.google.com/)
 ## Photos
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [CoolBackgrounds](https://coolbackgrounds.io/)
 - [Cloudinary](https://cloudinary.com/)
 - [Foodiesfeed](https://www.foodiesfeed.com)
@@ -465,16 +540,22 @@
 - [UpScaler](https://icons8.com/upscaler)
 
 ## Python
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Anaconda](https://www.anaconda.com/)
 - [Django](https://www.djangoproject.com/)
 - [Flask](https://palletsprojects.com/p/flask/)
 - [Python](https://www.python.org/)
 ## Radio
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [FreeCodeCamp Radio](https://coderadio.freecodecamp.org/)
 - [NCS](https://ncs.io/)
 - [Radio.x-team](https://radio.x-team.com/)
 - [Spaces.fm](https://spaces.fm/)
 ## React
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React)
 - [45 NPM Packages to Solve 16 React Problems](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224)
 - [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components)
@@ -519,40 +600,60 @@
 - [Wouter](https://github.com/molefrog/wouter)
 - [Zustand](https://github.com/pmndrs/zustand)
 ## React Native
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Expo](https://expo.dev/)
 - [React Native](https://reactnative.dev/)
 ## Regex
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [I Hate Regex](https://ihateregex.io/)
 - [Regexr](https://regexr.com/)
 ## SEO
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [SEO](http://webdesign.tutsplus.com/articles/a-web-designers-seo-checklist-including-portable-formats--webdesign-)
 - [WooRank](https://www.woorank.com)
 ## Share Code
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Codepen](https://codepen.io/)
 - [CodeShare](https://codeshare.io/)
 - [Stackblitz](https://stackblitz.com/)
 ## SVG
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Generate SVG Waves 🌊](https://svgwave.in/)
 - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 - [Vector Logo](https://worldvectorlogo.com/)
 ## Testing
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Enzyme](https://enzymejs.github.io/enzyme/), [enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17), [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json)
 - [Jasmine](https://jasmine.github.io/)
 - [Jest.js](https://jestjs.io/)
 - [Testing Library](https://testing-library.com/)
 ## Transpilers
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Babel](https://expressjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 ## Typography
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Combinaciones de Fuentes](http://fontpair.co)
 - [FontSquirrel](http://www.fontsquirrel.com)
 - [Google Fonts](https://www.google.com/fonts)
 - [Lista de Mejores Fuentes para Diseñadores](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 ## UX
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Curso Rápido UX en 31 Días](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
 - [Más de 100 recursos sobre Diseño de UI](https://github.com/tipoqueno/awesome-ui)
 - [Trucos de UI](http://www.goodui.org)
 ## Vídeos
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Clip Canvas - Free Clips](https://www.clipcanvas.com/free-footage)
 - [Free HD Footage](http://www.free-hd-footage.com)
 - [Mazwai](http://mazwai.com)
@@ -562,9 +663,13 @@
 - [Videzzy](https://www.videezy.com/)
 - [Vidsplay](https://www.vidsplay.com)
 ## VPN
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [CyberGhost](https://www.cyberghostvpn.com/)
 - [NordVpn](https://nordvpn.com/)
 ## Vue
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Ionic Vue](https://ionicframework.com/docs/vue/overview)
 - [Quasar](https://quasar.dev/)
 - [Naive UI](https://www.naiveui.com/en-US/os-theme)
@@ -581,8 +686,12 @@
 - [Vue.js Examples](https://vuejsexamples.com/)
 - [Vue Router](https://router.vuejs.org/)
 ## Templates
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [Graphberry](https://www.graphberry.com/category/free-html-web-templates)
 ## Tools
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [A List Apart](https://alistapart.com/)
 - [Avataaars generator](https://getavataaars.com/)
 - [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/)
@@ -613,17 +722,12 @@
 - [Type Scale](https://type-scale.com/)
 
 ## Work
+| Link                            | Description |
+| ------------------------------- | ----------- |
 - [arc.dev](https://arc.dev/)
 - [JustRemote](https://justremote.co/)
 - [remote.io](https://www.remote.io/)
 - [RemoteOk](https://remoteok.io/)
 - [seek.co.nz](https://www.seek.co.nz/jobs)
 
-
-<!-- Icons -->
-[Angular]: <img align="center" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-[CSS3]: <img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-[HTML5]: <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-[JavaScript]: <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[React]: <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
