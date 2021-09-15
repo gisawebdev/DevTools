@@ -392,10 +392,10 @@
 ## Notification
 | Link | Description |
 | ---- | ----------- |
-- [Quantum Alert](https://quantumalert.cosmogic.com/)
-- [Sweet Alert 2](https://sweetalert2.github.io/)
-- [Toast.js](https://toast-js.com/)
-- [Toasty.js](http://jakim.me/Toasty.js/)
+| [Quantum Alert](https://quantumalert.cosmogic.com/) | Text |
+| [Sweet Alert 2](https://sweetalert2.github.io/) | Text |
+| [Toast.js](https://toast-js.com/) | Text |
+| [Toasty.js](http://jakim.me/Toasty.js/) | Text |
 ## Optimizing Our Website
 | Link | Description |
 | ---- | ----------- |
@@ -533,17 +533,17 @@
 ## Python
 | Link | Description |
 | ---- | ----------- |
-- [Anaconda](https://www.anaconda.com/)
-- [Django](https://www.djangoproject.com/)
-- [Flask](https://palletsprojects.com/p/flask/)
-- [Python](https://www.python.org/)
+| [Anaconda](https://www.anaconda.com/) | Text |
+| [Django](https://www.djangoproject.com/) | Text |
+| [Flask](https://palletsprojects.com/p/flask/) | Text |
+| [Python](https://www.python.org/) | Text |
 ## Radio
 | Link | Description |
 | ---- | ----------- |
-- [FreeCodeCamp Radio](https://coderadio.freecodecamp.org/)
-- [NCS](https://ncs.io/)
-- [Radio.x-team](https://radio.x-team.com/)
-- [Spaces.fm](https://spaces.fm/)
+| [FreeCodeCamp Radio](https://coderadio.freecodecamp.org/) | Text |
+| [NCS](https://ncs.io/) | Text |
+| [Radio.x-team](https://radio.x-team.com/) | Text |
+| [Spaces.fm](https://spaces.fm/) | Text |
 ## React
 | Link | Description |
 | ---- | ----------- |
@@ -662,26 +662,26 @@
 ## VPN
 | Link | Description |
 | ---- | ----------- |
-- [CyberGhost](https://www.cyberghostvpn.com/)
-- [NordVpn](https://nordvpn.com/)
+| [CyberGhost](https://www.cyberghostvpn.com/) | Text |
+| [NordVpn](https://nordvpn.com/) | Text |
 ## Vue
 | Link | Description |
 | ---- | ----------- |
-- [Ionic Vue](https://ionicframework.com/docs/vue/overview)
-- [Quasar](https://quasar.dev/)
-- [Naive UI](https://www.naiveui.com/en-US/os-theme)
-- [Nuxt](https://nuxtjs.org/)
-- [Oruga](https://oruga.io/)
-- [Vant](https://vant-contrib.gitee.io/vant/#/en-US/quickstart)
-- [Varlet](https://varlet.gitee.io/varlet-ui/#/en-US/quickstart)
-- [Vue](https://v3.vuejs.org/)
-- [Vuestic](https://vuestic.dev/)
-- [Vuetify](https://vuetifyjs.com/en/)
-- [Vuex](https://vuex.vuejs.org/#what-is-a-state-management-pattern)
-- [Vue CLI](https://cli.vuejs.org/)
-- [Vue Devtools](https://devtools.vuejs.org/guide/installation.html)
-- [Vue.js Examples](https://vuejsexamples.com/)
-- [Vue Router](https://router.vuejs.org/)
+| [Ionic Vue](https://ionicframework.com/docs/vue/overview) | Text |
+| [Quasar](https://quasar.dev/) | Text |
+| [Naive UI](https://www.naiveui.com/en-US/os-theme) | Text |
+| [Nuxt](https://nuxtjs.org/) | Text |
+| [Oruga](https://oruga.io/) | Text |
+| [Vant](https://vant-contrib.gitee.io/vant/#/en-US/quickstart) | Text |
+| [Varlet](https://varlet.gitee.io/varlet-ui/#/en-US/quickstart) | Text |
+| [Vue](https://v3.vuejs.org/) | Text |
+| [Vuestic](https://vuestic.dev/) | Text |
+| [Vuetify](https://vuetifyjs.com/en/) | Text |
+| [Vuex](https://vuex.vuejs.org/#what-is-a-state-management-pattern) | Text |
+| [Vue CLI](https://cli.vuejs.org/) | Text |
+| [Vue Devtools](https://devtools.vuejs.org/guide/installation.html) | Text |
+| [Vue.js Examples](https://vuejsexamples.com/) | Text |
+| [Vue Router](https://router.vuejs.org/) | Text |
 ## Templates
 | Link | Description |
 | ---- | ----------- |
