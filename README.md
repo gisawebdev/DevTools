@@ -356,31 +356,30 @@
 ## Learn
 | Link | Description |
 | ---- | ----------- |
-| [Digital Defynd](https://digitaldefynd.com/) | Text |
-| [Mem](https://mem.dev/) | Text |
-| [LeetCode](https://leetcode.com/) | Text |
-| [The Odin Projec](https://www.theodinproject.com/) | Text |
+| [Digital Defynd](https://digitaldefynd.com/) | Find the best courses online. |
+| [Mem](https://mem.dev/) | Never forget what you learn. |
+| [LeetCode](https://leetcode.com/) | A New Way to Learn. |
+| [The Odin Projec](https://www.theodinproject.com/) | Your Career in Web Development Starts Here. |
 ## Linters
 | Link | Description |
 | ---- | ----------- |
-| [ESLint](https://eslint.org/) | Text |
-| [JSLint](https://jslint.com/) | Text |
+| [ESLint](https://eslint.org/) | Find and fix problems in your JavaScript code. |
+| [JSLint](https://jslint.com/) | The JavaScript Code Quality Tool. |
 ## Manager
 | Link | Description |
 | ---- | ----------- |
-| [Google Tag Manager](https://tagmanager.google.com/) | Text |
+| [Google Tag Manager](https://tagmanager.google.com/) | is a tag management system that allows you to quickly and easily update tracking codes and related code snippets, collectively referred to as tags, on your website or mobile application. |
 ## Maps
 | Link | Description |
 | ---- | ----------- |
-| [Mapbox](https://www.mapbox.com/) | Text |
-| [MyMappi](https://mymappi.com/) | Text |
+| [Mapbox](https://www.mapbox.com/) | Maps and location for developers. |
+| [MyMappi](https://mymappi.com/) | Mobility & Location solutions. |
 ## Notification
 | Link | Description |
 | ---- | ----------- |
-| [Quantum Alert](https://quantumalert.cosmogic.com/) | Text |
-| [Sweet Alert 2](https://sweetalert2.github.io/) | Text |
-| [Toast.js](https://toast-js.com/) | Text |
-| [Toasty.js](http://jakim.me/Toasty.js/) | Text |
+| [Quantum Alert](https://quantumalert.cosmogic.com/) | A Powerful , Elegant and fully customizable "alert" library using JavaScript that replaces that boring style of alert. |
+| [Sweet Alert 2](https://sweetalert2.github.io/) | A beautiful, responsive, customizable, accessible (wai-aria) replacement for javascript's popup boxes zero dependencies |
+| [Toasty.js](http://jakim.me/Toasty.js/) | A minimal JavaScript notification plugin that provides a simple way to display customizable toast messages on the web page with CSS3 transition effects. |
 ## Optimizing Our Website
 | Link | Description |
 | ---- | ----------- |
