@@ -17,8 +17,7 @@
 ## APIS
 | Link | Description |
 | ---- | ----------- |
-| [CoinGecko API](https://www.coingecko.com/en) | 
-The Most Comprehensive Cryptocurrency API. |
+| [CoinGecko API](https://www.coingecko.com/en) | The Most Comprehensive Cryptocurrency API. |
 | [MHW API](https://docs.mhw-db.com/) | Monster Hunter World API. |
 | [Notion API](https://developers.notion.com/) | Connect Notion pages and databases to the tools you use every day, creating powerful workflows. |
 | [Spotify API](https://developer.spotify.com/documentation/web-api/) | Create a simple server-side application that accesses user related data through the Spotify Web API. |
