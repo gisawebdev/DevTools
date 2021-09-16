@@ -697,11 +697,11 @@
 ## Work
 | Link | Description |
 | ---- | ----------- |
-| [arc.dev](https://arc.dev/) | Text |
+| [arc.dev](https://arc.dev/) | The easiest way to find remote developer jobs. |
 | [HackerRank](https://www.hackerrank.com/) | Matching developers with great companies. |
-| [JustRemote](https://justremote.co/) | Text |
-| [remote.io](https://www.remote.io/) | Text |
-| [RemoteOk](https://remoteok.io/) | Text |
-| [seek.co.nz](https://www.seek.co.nz/jobs) | Text |
+| [JustRemote](https://justremote.co/) | Remote Jobs That Fit Your Life. |
+| [remote.io](https://www.remote.io/) | Discover the best remote jobs to work from home. |
+| [RemoteOk](https://remoteok.io/) | Work anywhere, life anywhere  |
+| [seek.co.nz](https://www.seek.co.nz/jobs) | SEEK is a diverse group of companies that have a unified purpose to help people live more fulfilling and productive working lives and help organisations succeed. |
 
 
