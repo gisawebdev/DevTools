@@ -55,6 +55,8 @@
 | [Fastify](https://www.fastify.io/) | Fast and low overhead web framework, for Node.js |
 | [Hapi](https://hapi.dev/) | The Simple, Secure Framework Developers Trust |
 | [Node.js](https://nodejs.org/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
+| [Restify](http://restify.com/) | The future of Node.js REST development. |
+| [Sails](https://sailsjs.com/) | The MVC framework for Node.js |
 | [Strapi](https://strapi.io/) | Design APIs fast, manage content easily. |
 ## Blogs
 | Link | Description |
@@ -148,6 +150,7 @@
 | [BootStrap](https://getbootstrap.com/) | Build fast, responsive sites with Bootstrap. |
 | [Box-shadow.dev](https://box-shadow.dev/) | Box shadows are fun. This is a web app to help you create awesome box shadows. |
 | [Bulma](https://bulma.io/) | Bulma: the modern CSS framework that just works. |
+| [CSS-Animations](https://css-animations.io/) | Animate On Scroll Library. |
 | [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/) | Beautiful pure CSS background patterns that you can actually use in your projects! |
 | [CSS Clip-path maker](https://bennettfeely.com/clippy/) | The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source. |
 | [Css Gradient](https://cssgradient.io/) | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites. |
@@ -217,7 +220,7 @@
 | [Element-UI](https://madewithvuejs.com/element-ui) | Element is a Vue 2.0 based component library for developers, designers and product managers. |
 | [Figma](https://www.figma.com/) | Creative tools meet the internet. |
 | [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/) | A collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior. |
-| [Flutter Awesome](https://flutterawesome.com/) | Flutter Awesome |
+| [Glorify](https://www.glorify.com/) | Create high converting product images in a few clicks. |
 | [Photopea](https://www.photopea.com/) | Photopea: advanced image editor. |
 | [Semantic UI](https://semantic-ui.com/) | User Interface is the language of the web. |
 ## Diagrams
@@ -239,6 +242,7 @@
 | ---- | ----------- |
 | [Dart](https://dart.dev/) | Dart is a client-optimized language for fast apps on any platform. |
 | [Flutter](https://flutter.dev/) | Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase. |
+| [Flutter Awesome](https://flutterawesome.com/) | Flutter Awesome |
 | [Pub](https://pub.dev/) | The official package repository for Dart and Flutter apps. |
 ## Games
 | Link | Description |
@@ -301,6 +305,8 @@
 | [DrawKit](https://www.drawkit.io/free-icons) | High quality, free vector icons, in four styles. |
 | [Illustation](https://illustation.io/) | Beautiful, unique illustrations and icons. |
 | [IRA Design](https://iradesign.io/) | Build your own amazing illustrations. |
+| [Open Doodles](https://www.opendoodles.com/) | A Free Set of Open-Source Illustrations! |
+| [Storyset](https://storyset.com/) | Awesome free customizable illustrations for your next project. |
 | [Storytale](https://storytale.io/) | High-class illustrations for web and mobile projects. |
 | [UnDraw](https://undraw.co/) | Create better designed websites, products and applications. |
 ## Inspiration
@@ -361,9 +367,12 @@
 ## Learn
 | Link | Description |
 | ---- | ----------- |
+| [CodeChef](https://www.codechef.com/) | CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests. |
 | [Digital Defynd](https://digitaldefynd.com/) | Find the best courses online. |
-| [Mem](https://mem.dev/) | Never forget what you learn. |
 | [LeetCode](https://leetcode.com/) | A New Way to Learn. |
+| [Mem](https://mem.dev/) | Never forget what you learn. |
+| [MemRise](https://www.memrise.com/) | Learn a Language from Real People. |
+| [Programiz](https://www.programiz.com/) | Learn to code with our beginner-friendly tutorials and examples. Read tutorials, try examples, write programs, and learn to code. |
 | [The Odin Projec](https://www.theodinproject.com/) | Your Career in Web Development Starts Here. |
 ## Linters
 | Link | Description |
@@ -418,6 +427,7 @@
 | [Alternativeto](https://alternativeto.net/) | 100,554 apps 818,870 likes 806,075 opinions about alternatives. |
 | [Answer Socrates](https://answersocrates.com/) | You have answers. We have questions. |
 | [Apption](https://apption.co/) | Find & Learn Notion friendly Embeddable Widget Apps |
+| [AprendeNotion](https://aprendenotion.com/) | Notion para la vida real. |
 | [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources) | This is an awesome project about Web Development resources.  |
 | [AWS Device Farm](https://aws.amazon.com/device-farm/) | Improve the quality of your web and mobile applications by testing across desktop browsers and real mobile devices hosted in the AWS Cloud |
 | [Biolinky.co](https://biolinky.co/landing?ref=p_uxbs) | One Link. For Everything. |
@@ -437,6 +447,7 @@
 | [GitHub Guides](https://guides.github.com/) | GitHub Guides |
 | [GitIgnore](https://www.toptal.com/developers/gitignore) | Create useful .gitignore files for your project. |
 | [Go Light Stream](https://golightstream.com/) | Create more professional and impactful live streams. |
+| [Glide](https://www.glideapps.com/) | Powerful apps from spreadsheets. |
 | [GreenSock](https://greensock.com/gsap/) | Professional-grade JavaScript animation for the modern web. |
 | [HacksPlaining](https://www.hacksplaining.com/) | Security training for developers. |
 | [Haikei](https://app.haikei.app/) | Haikei is a web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! |
@@ -451,6 +462,7 @@
 | [Lectulandia](https://lectulandia.to/) | Libros Gratis. |
 | [Library Genesis](https://libgen.is/) |  Book collection. |
 | [Que Estudiar](https://www.queestudiar.org/) | Que Estudiar |
+| [Mail Signatures](https://www.mail-signatures.com/signature-generator/) | Free Email Signature Generator. |
 | [Miro](https://miro.com/es/) | The online collaborative whiteboard platform to bring teams together, anytime, anywhere. |
 | [Morioh](https://morioh.com/explore?next=%2F) | Social Network for Programmers and Developers. |
 | [My Live Wallpapers](https://mylivewallpapers.com/) | Download our free software and turn videos into your desktop wallpaper! |
@@ -458,7 +470,9 @@
 | [PageSpeed Compare](https://pagespeed.compare/) | Compare performance metrics of your pages against each other or your competitors using Google PageSpeed Insights |
 | [Panzoid](https://panzoid.com/) | Panzoid is a community and tools for creating beautiful, custom content. |
 | [Pastebin](https://pastebin.com/) | Pastebin |
+| [PDF Drive](https://www.pdfdrive.com/) | Book Collection. |
 | [Placeholder](https://placeholder.com/) | Billions & billions of placeholder images served |
+| [Planeta Libro](https://planetalibro.net/) | Coleccion de Libros. |
 | [Peppertype](https://www.peppertype.ai/) | Your Virtual Content Assistant |
 | [Presentation Maker](https://www.beautiful.ai/) | The first presentation maker that designs for you. |
 | [Programming Fonts](https://www.programmingfonts.org/) | ProgrammingFonts.org makes it easier to find monospaced fonts. All fonts in one place, with proper credits towards the creators. It's not a download portal, we don't track anything, it's strictly by nerds and designers for nerds and designers. |
@@ -476,8 +490,10 @@
 | [Sparkol](https://www.sparkol.com/en) | Easy to use, affordable video software, professional animation services and workshops that transform the way you communicate. |
 | [SuperCook](https://www.supercook.com/) | SuperCook |
 | [Tailor Brands](https://www.tailorbrands.com/es) | Tailor Brands es la primera plataforma del mundo de marca y diseño de logos que funciona con IA. |
+| [TeraBox](https://www.terabox.com/) | Dubox has officially been renamed as TeraBox. |
 | [The Front-End Checklist](https://frontendchecklist.io/) | The Front-End Checklist Application is perfect for modern websites and meticulous developers! |
 | [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) | TypeScript Deep Dive |
+| [TypingClub](https://www.typingclub.com/) | Learn Touch Typing for free! |
 | [Undesign](https://undesign.learn.uno/) | Collection of free design tools and resources for makers, developers and designers |
 | [VS Code Themes](https://vscodethemes.com/) | Preview themes from the VSCode marketplace. Check out the annoucement post. |
 | [Vocal Remover](https://vocalremover.org/es/) | Vocal Remover and Isolation Separate voice from music out of a song free with powerful AI algorithms |
@@ -496,6 +512,7 @@
 ## Photos
 | Link | Description |
 | ---- | ----------- |
+| [Burst](https://burst.shopify.com/) | Download free, high-resolution images. |
 | [CoolBackgrounds](https://coolbackgrounds.io/) | Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. Beyond backgrounds, the images generated can be used as 🖥 desktop wallpapers or cropped for 📱 mobile wallpapers. |
 | [Cloudinary](https://cloudinary.com/) | We create, manage and deliver engaging experiences at scale. |
 | [Foodiesfeed](https://www.foodiesfeed.com) | Best resource for highly visually appealing free food photos in high resolution. |
@@ -503,13 +520,19 @@
 | [Giphy](https://giphy.com/) | GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reaction GIFs, unique GIFs and more. |
 | [Itg.Digital](https://itg.digital/) | Create custom illustrations in a few clicks using our online builder. |
 | [Imcreator Free](http://www.imcreator.com/free) | A curated collection of free web design resources, all for commercial use. |
+| [Kaboompics](https://kaboompics.com/) | Let's find the perfect photo for you. |
 | [ManyPixels](https://www.manypixels.co/gallery) | Free Illustration Gallery. |
 | [Pexels](https://www.pexels.com) | The best free stock photos & videos shared by talented creators. |
+| [Picography](https://picography.co/) | Gorgeous, High-Resolution, Free Photos. |
 | [Picsum](https://picsum.photos/) | Lorem Picsum The Lorem Ipsum for photos. |
 | [Pikwizard](https://pikwizard.com/) | High Quality, Free Stock Photos. |
+| [Pixabay](https://pixabay.com/) | Stunning free images & royalty free stock. |
 | [PlaceImg](https://placeimg.com/) | Add a width, height and category. It's that simple. Use the buttons above to create the type of image you need. |
 | [Scale by Flexiple](https://2.flexiple.com/scale/all-illustrations) | One new high-quality, open-source illustration each day. |
+| [Stockio](https://www.stockio.com/) | Free Photos, Vectors, Icons, Fonts and Videos. |
+| [StockSnap](https://stocksnap.io/) | Beautiful Free Stock Photos. |
 | [Subttle Pattern](https://www.toptal.com/designers/subtlepatterns/) | Subttle Pattern |
+| [Reshot](https://www.reshot.com/) | Free Icons, Illustrations & Photos. |
 | [The Patter Library](http://thepatternlibrary.com) | This on going project compiles patterns shared by the most talented designers out there for you to use freely in your designs. |
 | [Unsplash](https://unsplash.com) | The internet’s source of freely-usable images. Powered by creators everywhere. |
 | [UpScaler](https://icons8.com/upscaler) | Enhance image resolution with AI. |
@@ -534,6 +557,7 @@
 | [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Congratulations on deciding to participate in 30 days of React programming challenge. |
 | [45 NPM Packages](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224) | 45 NPM Packages to Solve 16 React Problems |
 | [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
+| [Akita](https://github.com/datorama/akita) | Whether it be Angular, React, Vue, Web Components or plain old vanilla JS, Akita can do the heavy lifting and serve as a useful tool for maintaining clean, boilerplate-free, and scalable applications. |
 | [Awesome React](https://github.com/enaqx/awesome-react#react-libraries) | A collection of awesome things regarding the React ecosystem. |
 | [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) | A curated list about React Hooks. |
 | [Chakra UI](https://chakra-ui.com/) | Create accessible React apps with speed. |
@@ -541,8 +565,10 @@
 | [Element Z](https://elementz.style/#section-introduction) | A React Component library for buliding modern applications easily & quickly. |
 | [Framer Motion](https://www.framer.com/motion/) | A production-ready motion library for React. |
 | [Gatsby.js](https://www.gatsbyjs.com/) | The fastest way to run the fastest frontend. |
+| [Hookstate.js](https://hookstate.js.org/) | The simple but incredibly fast and flexible state management that is based on React state hook. |
 | [Ionic React](https://ionicframework.com/docs/react) | One Codebase Any Platform Just React |
 | [Material UI](https://material-ui.com) | React components for faster and easier web development. Build your own design system, or start with Material Design. |
+| [Mobx](https://mobx.js.org/README.html) | Simple, scalable state management. |
 | [Nextjs](https://nextjs.org/) | The React Framework for Production |
 | [Pose](https://popmotion.io/pose/) | A truly simple animation library for React, React Native, and Vue. |
 | [PrimeReact](https://www.primefaces.org/primereact/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
@@ -597,6 +623,7 @@
 | Link | Description |
 | ---- | ----------- |
 | [Generate SVG Waves 🌊](https://svgwave.in/) | SVG Wave is a tiny, free and beautiful gradient SVG waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |
+| [SVG Artista](https://svgartista.net/) | Super handy SVG drawing animation tool. |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) | Customize and apply backgrounds fast. |
 | [Vector Logo](https://worldvectorlogo.com/) | Download vector logos. |
 ## Testing
@@ -674,6 +701,7 @@
 | [CleanMock](https://cleanmock.com/) | CleanMock |
 | [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
 | [Hidden Tools](https://hiddentools.dev/) | Discover a wide collection of tools made by the community. |
+| [LogoTester](https://logotester.thework.market/) | Instantly check if your logo is up to the top industry standards. |
 | [Link-to-qr](https://link-to-qr.com/) | link-to-qr.com |
 | [Local PDF Tools](https://localpdf.tech/) | Local PDF uses Webassembly to edit your PDFs inside your Browser. |
 | [MetaTags](https://metatags.io/) | Meta tags are specific snippets of text and image content that provide a summary for a webpage. |
@@ -698,10 +726,13 @@
 | Link | Description |
 | ---- | ----------- |
 | [arc.dev](https://arc.dev/) | The easiest way to find remote developer jobs. |
+| [GeeksForGeeks](https://www.geeksforgeeks.org/) | Being the pro in programming can be easy, especially if you start with us! |
 | [HackerRank](https://www.hackerrank.com/) | Matching developers with great companies. |
 | [JustRemote](https://justremote.co/) | Remote Jobs That Fit Your Life. |
-| [remote.io](https://www.remote.io/) | Discover the best remote jobs to work from home. |
+| [Remote.io](https://www.remote.io/) | Discover the best remote jobs to work from home. |
+| [Remote First](https://remotefirst.digital/) | Discover the best remote jobs to work from home. |
 | [RemoteOk](https://remoteok.io/) | Work anywhere, life anywhere  |
 | [seek.co.nz](https://www.seek.co.nz/jobs) | SEEK is a diverse group of companies that have a unified purpose to help people live more fulfilling and productive working lives and help organisations succeed. |
+| [TutorialsPoint](https://www.tutorialspoint.com/index.htm) | You are browsing the best resource for Online Education. |
 
 
