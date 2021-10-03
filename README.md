@@ -568,6 +568,7 @@
 | [Hookstate.js](https://hookstate.js.org/) | The simple but incredibly fast and flexible state management that is based on React state hook. |
 | [Ionic React](https://ionicframework.com/docs/react) | One Codebase Any Platform Just React |
 | [Material UI](https://material-ui.com) | React components for faster and easier web development. Build your own design system, or start with Material Design. |
+| [Mo.js](https://mojs.github.io/) | Is good at click-to-animate microinteractions, dynamic lettering and dozens of shape manipilations. |
 | [Mobx](https://mobx.js.org/README.html) | Simple, scalable state management. |
 | [Nextjs](https://nextjs.org/) | The React Framework for Production |
 | [Pose](https://popmotion.io/pose/) | A truly simple animation library for React, React Native, and Vue. |
