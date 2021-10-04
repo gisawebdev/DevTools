@@ -327,6 +327,7 @@
 | [Algolia Places](https://community.algolia.com/places/) | Turn any ```<input>``` into an address autocomplete. |
 | [Anime.js](https://animejs.com/) | JavaScript animation engine. |
 | [ApexCharts.js](https://apexcharts.com/) | Modern & Interactive Open-source Charts. |
+| [Atropos](https://atroposjs.com/?ref=producthunt) | Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. Available for JavaScript, React and Vue.js |
 | [Audio.js](https://kolber.github.io/audiojs/) | audio.js is a drop-in javascript library that allows HTML5’s ```<audio>``` tag to be used anywhere. |
 | [Axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js |
 | [Bideo.js](https://rishabhp.github.io/bideo.js/) | A JS library that makes it super easy to add fullscreen background videos. |
