@@ -258,6 +258,7 @@
 | [Lyrics Training](https://es.lyricstraining.com/) | LyricsTraining es la nueva forma de aprender Inglés y otros idiomas por medio de la música y la letra de tus canciones favoritas. |
 | [Oh My Git](https://ohmygit.org/) | An open source game about learning Git! |
 | [Pivi Games](https://pivigames.blog/) | Download Games. |
+| [TypingClub](https://www.typingclub.com/) | Learn Touch Typing for free! |
 | [VIM Adventures](https://vim-adventures.com/) | Learning VIM while playing a game. |
 ## Hosting
 | Link | Description |
