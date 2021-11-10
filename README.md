@@ -709,6 +709,7 @@
 | [Local PDF Tools](https://localpdf.tech/) | Local PDF uses Webassembly to edit your PDFs inside your Browser. |
 | [MetaTags](https://metatags.io/) | Meta tags are specific snippets of text and image content that provide a summary for a webpage. |
 | [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
+| [Mockaroo](https://www.mockaroo.com/) | Data Fake Generator. |
 | [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
 | [Npkill](https://www.npmjs.com/package/npkill) | This tool allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay! |
 | [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
