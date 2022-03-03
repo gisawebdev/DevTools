@@ -605,8 +605,30 @@
 ## React Native
 | Link | Description |
 | ---- | ----------- |
+| [A guide to Flexbox properties in React Native](https://blog.logrocket.com/a-guide-to-flexbox-properties-in-react-native/) | A guide to Flexbox properties in React Native. |
+| [Displaying images with the React Native Image component](https://blog.logrocket.com/displaying-images-with-the-react-native-image-component/) | Displaying images with the React Native Image component. |
+| [Dripsy](dripsy.xyz) | Unstyled, responsive UI primitives for React Native + Web. |
 | [Expo](https://expo.dev/) | Make any app. Run it everywhere. |
+| [Hermes](https://hermesengine.dev/) | JavaScript engine optimized for React Native. |
+| [Implementing React Native biometric authentication with Expo](https://blog.logrocket.com/implementing-react-native-biometric-authentication-expo/) | Implementing React Native biometric authentication with Expo. |
+| [Lottie](https://airbnb.io/lottie/#/README) | Lottie is a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web!. |
+| [Material Kit React Native](https://www.creative-tim.com/product/material-kit-react-native) | FREE REACT NATIVE APP TEMPLATE. |
+| [Nachos UI](https://avocode.com/nachos-ui) | Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React. |
+| [NativeBase](https://nativebase.io/) | NativeBase is a component library that enables devs to build universal design systems. It is built on top of React Native, allowing you to develop apps for Android, iOS and the Web. |
 | [React Native](https://reactnative.dev/) | Learn once, write anywhere. |
+| [React Native Animatable](https://github.com/oblador/react-native-animatable) | Declarative transitions and animations for React Native. |
+| [React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/) | A performant interactive bottom sheet with fully configurable options. |
+| [React Native Elements](https://reactnativeelements.com/) | A React Native framework for making cross platform applications. |
+| [React Native Example](https://reactnativeexample.com/) | React Native Example. |
+| [React Native Epic Spinners](https://www.npmjs.com/package/react-native-epic-spinners) | This library is the React Native's built-in Animated implementation of epic-spinners. |
+| [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/) | Declarative API exposing platform native touch and gesture system to React Native. |
+| [React Navigation](https://reactnavigation.org/) | Routing and navigation for Expo and React Native apps. |
+| [React Native Paper](https://callstack.github.io/react-native-paper/) | Paper is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines. |
+| [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) | React Native's Animated library reimplemented. |
+| [React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/) | React Native Shadow Generator. |
+| [Safeareaview for android notch devices](https://stackoverflow.com/questions/51289587/how-to-use-safeareaview-for-android-notch-devices) | Safeareaview for android notch devices. |
+| [The best React Native libraries for leveraging native features](https://blog.logrocket.com/the-best-react-native-libraries-for-leveraging-native-features/) | The best React Native libraries for leveraging native features. |
+| [Using Material UI in React Native](https://blog.logrocket.com/using-material-ui-in-react-native/) | Using Material UI in React Native. |
 ## Regex
 | Link | Description |
 | ---- | ----------- |
