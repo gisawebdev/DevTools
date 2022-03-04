@@ -21,6 +21,7 @@
 | [MHW API](https://docs.mhw-db.com/) | Monster Hunter World API. |
 | [Notion API](https://developers.notion.com/) | Connect Notion pages and databases to the tools you use every day, creating powerful workflows. |
 | [Spotify API](https://developer.spotify.com/documentation/web-api/) | Create a simple server-side application that accesses user related data through the Spotify Web API. |
+| [Lorem Picsum](https://picsum.photos/) | Easy to use, stylish placeholders. |
 | [Poke API](https://pokeapi.co/) | All the Pokémon data you'll ever need in one place, easily accessible through a modern RESTful API. |
 | [Public Apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. |
 | [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) | The Movie Database (TMDB) API. Below you will find a current list of the available methods on our movie, tv, actor and image API. |
@@ -122,7 +123,7 @@
 | [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=es) | Chrome and Firefox DevTools extension for debugging Vue.js applications. |
 | [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) | Collaboration tool for website feedback and fixing design bugs. |
 | [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es) | Identify web technologies. |
-| [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn) | Allows you to know what typeface is used on any web site. |
+| [What Font](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=es) | Allows you to know what typeface is used on any web site. |
 | [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) | Resize the browser window to emulate various screen resolutions. |
 ## Colors
 | Link | Description |
@@ -253,11 +254,9 @@
 | [Flexbox Defense](http://www.flexboxdefense.com/) | Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must position your towers using CSS! |
 | [FlexBox Froggy](https://flexboxfroggy.com/) | Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! |
 | [FlexBox Zombies](https://mastery.games/flexboxzombies/) | FlexBox Zombies |
-| [Get Gamez](https://getgamez.net/) | Download Games. |
 | [Grid Garden](https://cssgridgarden.com/) | Grid Garden is a game for learning CSS grid layout. |
 | [Lyrics Training](https://es.lyricstraining.com/) | LyricsTraining es la nueva forma de aprender Inglés y otros idiomas por medio de la música y la letra de tus canciones favoritas. |
 | [Oh My Git](https://ohmygit.org/) | An open source game about learning Git! |
-| [Pivi Games](https://pivigames.blog/) | Download Games. |
 | [TypingClub](https://www.typingclub.com/) | Learn Touch Typing for free! |
 | [VIM Adventures](https://vim-adventures.com/) | Learning VIM while playing a game. |
 ## Hosting
