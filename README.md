@@ -42,6 +42,7 @@
 | [13 Things](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/) | You Should Know Before You Enter In Web Development |
 | [6 Best practices](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929) | for managing your repositories in Github. |
 | [Airbnb JavaScript](https://github.com/airbnb/javascript) | Style Guide. |
+| [Como hacer un dark mode fácil, rápido y sencillo](https://rsbmk.ml/post/dark-mode) | Como hacer un dark mode fácil, rápido y sencillo. |
 | [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) | concepts adapted for JavaScript .|
 | [Implement Dark Mode](https://dev.to/mattmarquise/implement-dark-mode-on-your-website-5c5a) | On Your Website |
 | [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) | JavaScript Algorithms and Data Structures. |
@@ -562,6 +563,7 @@
 | [Awesome React](https://github.com/enaqx/awesome-react#react-libraries) | A collection of awesome things regarding the React ecosystem. |
 | [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) | A curated list about React Hooks. |
 | [Chakra UI](https://chakra-ui.com/) | Create accessible React apps with speed. |
+| [ClassNames](https://github.com/JedWatson/classnames) | A simple JavaScript utility for conditionally joining classNames together. |
 | [Create React App](https://create-react-app.dev/docs/getting-started/) | Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration. |
 | [Element Z](https://elementz.style/#section-introduction) | A React Component library for buliding modern applications easily & quickly. |
 | [Framer Motion](https://www.framer.com/motion/) | A production-ready motion library for React. |
@@ -577,6 +579,7 @@
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces. |
 | [React Anime](https://www.npmjs.com/package/react-anime) | A super easy animation library for React built on top of Julian Garnier's. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | The most popular front-end framework Rebuilt for React. |
+| [React Content Loader](https://skeletonreact.com/) | Tool to easily create your animated skeleton-screen components, replacing usual loading and delivering better experiences for users, giving a wireframe of your pages like placeholders boxes for content and images. Supports React, React Native, Vue, and vanilla HTML. |
 | [Recharts](https://recharts.org/en-US/) | A composable charting library built on React components |
 | [React Examples](https://reactjsexample.com/) | React Examples |
 | [React Gsap](https://www.npmjs.com/package/react-gsap) | lets you use the GreenSock Animation Platform (GSAP) in React in a fully declarative way. It abstracts away the direct use of the GSAP Tween and Timeline functions. |
@@ -625,7 +628,12 @@
 | [React Native Paper](https://callstack.github.io/react-native-paper/) | Paper is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines. |
 | [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) | React Native's Animated library reimplemented. |
 | [React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/) | React Native Shadow Generator. |
+| [React Native Shared Element](https://github.com/IjzerenHein/react-native-shared-element) | This library in itself is not a Navigation- or Router library. Instead, it provides a set of comprehensive full native building blocks for performing shared element transitions in Router- or Transition libraries. If you are looking for the React Navigation binding, you can find it here. |
+| [React Native Snap Carousel](https://github.com/meliorence/react-native-snap-carousel) | Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS. |
+| [React Native Svg Animations](https://github.com/73R3WY/react-native-svg-animations) | SVG Animations wrapper for react-native. |
+| [React Native Tabbar Interaction](https://github.com/Mindinventory/react-native-tabbar-interaction) | Beautiful Tabbar Interaction with Sliding Inset FABs, made with React Native. |
 | [Safeareaview for android notch devices](https://stackoverflow.com/questions/51289587/how-to-use-safeareaview-for-android-notch-devices) | Safeareaview for android notch devices. |
+| [Tailwind RN](https://www.npmjs.com/package/tailwind-rn) | All styles are generated directly from Tailwind's output, so they're always up-to-date.|
 | [The best React Native libraries for leveraging native features](https://blog.logrocket.com/the-best-react-native-libraries-for-leveraging-native-features/) | The best React Native libraries for leveraging native features. |
 | [Using Material UI in React Native](https://blog.logrocket.com/using-material-ui-in-react-native/) | Using Material UI in React Native. |
 ## Regex
