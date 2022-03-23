@@ -136,6 +136,7 @@
 | [colornamer](https://colornamer.netlify.app/) | Naming colors has never been this easy! |
 | [Coolors.co](https://coolors.co/app) | The super fast color schemes generator! |
 | [Flatuicolors](http://flatuicolors.com) | 280 handpicked colors |
+| [Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/) | 280 handpicked colors |
 | [GetUiColors](http://getuicolors.com) | Our visitors have copied 38,543 colors and counting! |
 | [Color Theory](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437) | An Introduction to Color Theory for Web Designers |
 | [Muzli Colors](https://colors.muz.li/) | Create Beautiful Color Schemes that works. |
@@ -162,7 +163,6 @@
 | [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | This is a collection of pure css section separators with the possibility to customize and copy the code. |
 | [CSS Reference](https://tympanus.net/codrops/css_reference/) | An extensive CSS reference with all the important properties and info to learn CSS from the basics |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool. |
-| [EDgrid](https://ed-grid.com/) | Maqueta sitios y aplicaciones web sin una línea de CSS |
 | [Epic Spinners](https://epic-spinners.epicmax.co/) | Css only. Easy to use. |
 | [Fancy Corners With CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/) | Creating fancy corners is one of them. With a just few lines of CSS code, you can easily beautify the corners of HTML elements and create stunning visuals for users to interact with. |
 | [Flexy Boxes](https://the-echoplex.net/flexyboxes/) | Flexbox playground and code generator. |
@@ -170,7 +170,6 @@
 | [Glassmorphism CSS Generator](https://ui.glass/generator/?ref=producthunt) | Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties. |
 | [Html-Css-Js.com](https://html-css-js.com/css/generator/box-shadow/) | Box-Shadow CSS Generator. |
 | [keyframes.app](https://keyframes.app/) | Keyframes helps you write better CSS. |
-| [Kitwind](https://kitwind.io/products/kometa) | We are giving away our first UI kit for free. It includes over 130 sections, built with TailwindCSS, for your awesome projects. |
 | [Layoutit](https://www.layoutit.com/) | Try our simple frontend and management tools. |
 | [Little Snippets](https://www.littlesnippets.net/) | Little Snippets |
 | [Lofi UI](https://lofiui.co/) | Re-usable and re-workable components designed to be hacked at. Start here, add your own style, and build something awesome. |
@@ -185,13 +184,6 @@
 | [Skeleton.CSS](http://getskeleton.com/) | A dead simple, responsive boilerplate. |
 | [Smolcss](https://smolcss.dev/) | Minimal snippets for modern CSS layouts and components. |
 | [Smooth Shadow](https://shadows.brumm.af/) | Make a smooth shadow, friend. |
-| [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0. It's all compatible with React, VueJS and Angular application. |
-| [TailBlocks](https://tailblocks.cc/) | Ready-to-use Tailwind CSS blocks. |
-| [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) | A unique collection of Copy & Paste TailwindCSS buttons 🙌. |
-| [Tailwind Templates](https://tailwindtemplates.io/) | This site is an open source project providing collections of templates & components for Rapid UI Development using Tailwind CSS. Simply copy & paste! |
-| [Tailwind Toolbox](https://www.tailwindtoolbox.com/) | Free Tailwind CSS Templates, Components and Resources. |
-| [TailWind](https://tailwindcss.com/) | Rapidly build modern websites without ever leaving your HTML. |
-| [TailWindComponents](https://tailwindcomponents.com/) | A free repository for community components using TailwindCSS |
 | [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
 | [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
@@ -381,6 +373,7 @@
 | ---- | ----------- |
 | [ESLint](https://eslint.org/) | Find and fix problems in your JavaScript code. |
 | [JSLint](https://jslint.com/) | The JavaScript Code Quality Tool. |
+| [StandardJS](https://standardjs.com/) | JavaScript Standard Style. |
 ## Manager
 | Link | Description |
 | ---- | ----------- |
@@ -574,6 +567,7 @@
 | [Mo.js](https://mojs.github.io/) | Is good at click-to-animate microinteractions, dynamic lettering and dozens of shape manipilations. |
 | [Mobx](https://mobx.js.org/README.html) | Simple, scalable state management. |
 | [Nextjs](https://nextjs.org/) | The React Framework for Production |
+| [Next UI](https://nextui.org/) | Make beautiful websites regardless of your design experience. |
 | [Pose](https://popmotion.io/pose/) | A truly simple animation library for React, React Native, and Vue. |
 | [PrimeReact](https://www.primefaces.org/primereact/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces. |
@@ -615,6 +609,7 @@
 | [Implementing React Native biometric authentication with Expo](https://blog.logrocket.com/implementing-react-native-biometric-authentication-expo/) | Implementing React Native biometric authentication with Expo. |
 | [Lottie](https://airbnb.io/lottie/#/README) | Lottie is a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web!. |
 | [Material Kit React Native](https://www.creative-tim.com/product/material-kit-react-native) | FREE REACT NATIVE APP TEMPLATE. |
+| [Moti](https://moti.fyi/) | First and foremost, I made Moti because I need animations and transitions that work well on both websites & native apps. |
 | [Nachos UI](https://avocode.com/nachos-ui) | Pick from a bunch of pre-coded UI components ready for your next kick-ass app in JavaScript or React. |
 | [NativeBase](https://nativebase.io/) | NativeBase is a component library that enables devs to build universal design systems. It is built on top of React Native, allowing you to develop apps for Android, iOS and the Web. |
 | [React Native](https://reactnative.dev/) | Learn once, write anywhere. |
@@ -658,13 +653,30 @@
 | [SVG Artista](https://svgartista.net/) | Super handy SVG drawing animation tool. |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) | Customize and apply backgrounds fast. |
 | [Vector Logo](https://worldvectorlogo.com/) | Download vector logos. |
+
+## Tailwind
+| Link | Description |
+| ---- | ----------- |
+| [Daisy UI](https://daisyui.com/) | The most popular, free and open-source Tailwind CSS component library. |
+| [Gradient Generator](https://hypercolor.dev/generator) | Create your own Tailwind CSS gradient with the full Tailwind CSS color library and the extended radial and conic gradient options provided through Hypercolor. |
+| [Headless UI](https://headlessui.dev/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [Kitwind](https://kitwind.io/products/kometa) | We are giving away our first UI kit for free. It includes over 130 sections, built with TailwindCSS, for your awesome projects. |
+| [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0. It's all compatible with React, VueJS and Angular application. |
+| [TailBlocks](https://tailblocks.cc/) | Ready-to-use Tailwind CSS blocks. |
+| [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) | A unique collection of Copy & Paste TailwindCSS buttons 🙌. |
+| [Tailwind Elements](https://tailwind-elements.com/) | Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
+| [Tailwind Templates](https://tailwindtemplates.io/) | This site is an open source project providing collections of templates & components for Rapid UI Development using Tailwind CSS. Simply copy & paste! |
+| [Tailwind Toolbox](https://www.tailwindtoolbox.com/) | Free Tailwind CSS Templates, Components and Resources. |
+| [TailWind](https://tailwindcss.com/) | Rapidly build modern websites without ever leaving your HTML. |
+| [TailWindComponents](https://tailwindcomponents.com/) | A free repository for community components using TailwindCSS |
+
 ## Testing
 | Link | Description |
 | ---- | ----------- |
 | [Cypress](https://www.cypress.io/) | The web has evolved. Finally, testing has too. |
 | [Enzyme](https://enzymejs.github.io/enzyme/), [enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17), [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json) | Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. Enzyme-adapter-react-17 Unofficial adapter for React 17 for Enzyme. Enzyme-to-json Convert Enzyme wrappers to a format compatible with Jest snapshot testing.|
-| [Jasmine](https://jasmine.github.io/) | Behavior-Driven JavaScript. |
 | [Jest.js](https://jestjs.io/) | Jest is a delightful JavaScript Testing Framework with a focus on simplicity. |
+| [Playwright](https://playwright.dev/) | Playwright enables reliable end-to-end testing for modern web apps. |
 | [Testing Library](https://testing-library.com/) | Simple and complete testing utilities that encourage good testing practices. |
 ## Transpilers
 | Link | Description |
@@ -730,8 +742,10 @@
 | [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/) | Write your text with BIG LETTERS! You'll love ▀█▀ █▬█ █ ▄█▀ large font generator ♡. I've also made another cool generator you'll find here known around as █▀█ █▄█ ▀█▀ nut and █▬█ █ ▀█▀ hit font. |
 | [BlobMaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Can I Use](https://caniuse.com/) | Can I Use |
+| [Choose an open source license](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. |
 | [CleanMock](https://cleanmock.com/) | CleanMock |
 | [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
+| [Gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages. |
 | [Hidden Tools](https://hiddentools.dev/) | Discover a wide collection of tools made by the community. |
 | [LogoTester](https://logotester.thework.market/) | Instantly check if your logo is up to the top industry standards. |
 | [Link-to-qr](https://link-to-qr.com/) | link-to-qr.com |
@@ -740,9 +754,11 @@
 | [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
 | [Mockaroo](https://www.mockaroo.com/) | Data Fake Generator. |
 | [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
+| [Ngrok](https://ngrok.com/) | Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. |
 | [Npkill](https://www.npmjs.com/package/npkill) | This tool allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay! |
 | [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
 | [ScreenSizes](https://www.screensizes.app/) | ScreenSizes |
+| [Servor](https://www.npmjs.com/package/servor) | A dependency free dev server for modern web application development. |
 | [ReactiveX](http://reactivex.io/) | An API for asynchronous programming with observable streams. |
 | [Readme](https://readme.so/) | Our simple editor allows you to quickly add and customize all the sections you need for your project's readme. |
 | [Remove.bg](https://www.remove.bg/) | 100% Automatically and Free. |
