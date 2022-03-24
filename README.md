@@ -628,7 +628,7 @@
 | [React Native Svg Animations](https://github.com/73R3WY/react-native-svg-animations) | SVG Animations wrapper for react-native. |
 | [React Native Tabbar Interaction](https://github.com/Mindinventory/react-native-tabbar-interaction) | Beautiful Tabbar Interaction with Sliding Inset FABs, made with React Native. |
 | [Safeareaview for android notch devices](https://stackoverflow.com/questions/51289587/how-to-use-safeareaview-for-android-notch-devices) | Safeareaview for android notch devices. |
-| [Tailwind RN](https://www.npmjs.com/package/tailwind-rn) | All styles are generated directly from Tailwind's output, so they're always up-to-date.|
+| [Tailwind React Native Classnames](https://www.npmjs.com/package/twrnc) | A simple, expressive API for TailwindCSS + React Native, written in TypeScript.|
 | [The best React Native libraries for leveraging native features](https://blog.logrocket.com/the-best-react-native-libraries-for-leveraging-native-features/) | The best React Native libraries for leveraging native features. |
 | [Using Material UI in React Native](https://blog.logrocket.com/using-material-ui-in-react-native/) | Using Material UI in React Native. |
 ## Regex
