@@ -566,17 +566,21 @@
 | [MUI](https://mui.com/) | React components for faster and easier web development. Build your own design system, or start with Material Design. |
 | [Mo.js](https://mojs.github.io/) | Is good at click-to-animate microinteractions, dynamic lettering and dozens of shape manipilations. |
 | [Mobx](https://mobx.js.org/README.html) | Simple, scalable state management. |
+| [Motion Design](https://motion.ant.design/) | Animation specification and components of Ant Design. Use Ant Motion to quickly use animations in the React framework. We offer single, combined and complete animations solutions. |
 | [Nextjs](https://nextjs.org/) | The React Framework for Production |
 | [Next UI](https://nextui.org/) | Make beautiful websites regardless of your design experience. |
 | [Pose](https://popmotion.io/pose/) | A truly simple animation library for React, React Native, and Vue. |
 | [PrimeReact](https://www.primefaces.org/primereact/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces. |
 | [React Anime](https://www.npmjs.com/package/react-anime) | A super easy animation library for React built on top of Julian Garnier's. |
+| [React Animations](https://github.com/FormidableLabs/react-animations) | A collection of animations that can be used with any inline style library that supports using objects to define keyframe animations, such as Radium or Aphrodite. React-animations implements all animations from animate.css. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | The most popular front-end framework Rebuilt for React. |
 | [React Content Loader](https://skeletonreact.com/) | Tool to easily create your animated skeleton-screen components, replacing usual loading and delivering better experiences for users, giving a wireframe of your pages like placeholders boxes for content and images. Supports React, React Native, Vue, and vanilla HTML. |
 | [Recharts](https://recharts.org/en-US/) | A composable charting library built on React components |
 | [React Examples](https://reactjsexample.com/) | React Examples |
+| [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) | A lightweight magic-move library for configurable layout transitions. |
 | [React Gsap](https://www.npmjs.com/package/react-gsap) | lets you use the GreenSock Animation Platform (GSAP) in React in a fully declarative way. It abstracts away the direct use of the GSAP Tween and Timeline functions. |
+| [React Loading](https://github.com/fakiolinho/react-loading) | Easy to use loading animations for React projects. Uses SVG animations from Brent Jackson's loading project. |
 | [React Hook Form](https://react-hook-form.com/) | Performant, flexible and extensible forms with easy-to-use validation. |
 | [React Hot Toast](https://react-hot-toast.com/) | The Best Toast in Town. Smoking hot React notifications. |
 | [React Icons](https://react-icons.github.io/react-icons/) | Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using. |
@@ -584,12 +588,16 @@
 | [React Motion](https://www.npmjs.com/package/react-motion) | For 95% of use-cases of animating components, we don't have to resort to using hard-coded easing curves and duration. |
 | [React Query](https://react-query.tanstack.com/) | Performant and powerful data synchronization for React. |
 | [React Patterns](https://reactpatterns.com/) | Get the latest React patterns, tips, and tricks right to your inbox. |
+| [React Particle Effect Buttons](https://transitive-bullshit.github.io/react-particle-effect-button/) | React Particle Effect Buttons. |
 | [React Redux Links](https://github.com/markerikson/react-redux-links) | Curated tutorial and resource links I've collected on React, Redux, ES6, and more. |
 | [React Reveal](https://www.react-reveal.com/) | React Reveal is an animation framework for React. |
 | [React Router](https://reactrouter.com/) | React Router is a collection of navigational components that compose declaratively with your application. |
+| [React Scroll Parallax](https://github.com/jscottsmith/react-scroll-parallax) | 🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements. |
 | [React Spring](https://react-spring.io/) | React-spring is a spring-physics based animation library that should cover most of your UI related animation needs. |
+| [React Stonecutter](https://dantrain.github.io/react-stonecutter/) | Animated grid layout component for React, inspired by Masonry. Choose between CSS Transitions or React-Motion for animation. |
 | [React Tutorial](https://react-tutorial.app/) | The easiest way to learn React. |
 | [React Transition Group](https://reactcommunity.org/react-transition-group/) | Exposes simple components useful for defining entering and exiting transitions. |
+| [React Typist](https://jstejada.github.io/react-typist/) | React Component for making typing animations. Wrap Typist around your text or any element tree to animate text inside the tree. Easily stylable and highly configurable. |
 | [REBASS](https://rebassjs.org/) | Rebass react primitive ui components built with styled system. |
 | [Recoil](https://recoiljs.org/) | A state management library for React. |
 | [Redux](https://redux.js.org/) | A Predictable State Container for JS Apps. |
@@ -605,6 +613,7 @@
 | [Displaying images with the React Native Image component](https://blog.logrocket.com/displaying-images-with-the-react-native-image-component/) | Displaying images with the React Native Image component. |
 | [Dripsy](dripsy.xyz) | Unstyled, responsive UI primitives for React Native + Web. |
 | [Expo](https://expo.dev/) | Make any app. Run it everywhere. |
+| [Fluid Transitions for React Navigation](https://github.com/fram-x/FluidTransitions) | This project aims to implement a simple yet powerful set of constructs for building fluid transitions between elements when navigating with React Navigation. |
 | [Hermes](https://hermesengine.dev/) | JavaScript engine optimized for React Native. |
 | [Implementing React Native biometric authentication with Expo](https://blog.logrocket.com/implementing-react-native-biometric-authentication-expo/) | Implementing React Native biometric authentication with Expo. |
 | [Lottie](https://airbnb.io/lottie/#/README) | Lottie is a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web!. |
