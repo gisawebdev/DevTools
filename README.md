@@ -746,6 +746,7 @@
 ## Tools
 | Link | Description |
 | ---- | ----------- |
+| [10015](https://10015.io/) | All Online Tools in “One Box”. |
 | [A List Apart](https://alistapart.com/) | Design for Safety, An Excerpt. |
 | [Avataaars generator](https://getavataaars.com/) | avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! |
 | [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/) | Write your text with BIG LETTERS! You'll love ▀█▀ █▬█ █ ▄█▀ large font generator ♡. I've also made another cool generator you'll find here known around as █▀█ █▄█ ▀█▀ nut and █▬█ █ ▀█▀ hit font. |
@@ -759,12 +760,14 @@
 | [LogoTester](https://logotester.thework.market/) | Instantly check if your logo is up to the top industry standards. |
 | [Link-to-qr](https://link-to-qr.com/) | link-to-qr.com |
 | [Local PDF Tools](https://localpdf.tech/) | Local PDF uses Webassembly to edit your PDFs inside your Browser. |
+| [Magic Pattern](https://www.magicpattern.design/) | Beautiful Graphics With 10+ Tools. Instantly & Effortless! |
 | [MetaTags](https://metatags.io/) | Meta tags are specific snippets of text and image content that provide a summary for a webpage. |
 | [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
 | [Mockaroo](https://www.mockaroo.com/) | Data Fake Generator. |
 | [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
 | [Ngrok](https://ngrok.com/) | Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. |
 | [Npkill](https://www.npmjs.com/package/npkill) | This tool allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay! |
+| [Omatsuri](https://omatsuri.app/) | Open source browser tools for everyday use. |
 | [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
 | [ScreenSizes](https://www.screensizes.app/) | ScreenSizes |
 | [Servor](https://www.npmjs.com/package/servor) | A dependency free dev server for modern web application development. |
