@@ -52,7 +52,10 @@
 ## BackEnd
 | Link | Description |
 | ---- | ----------- |
+| [Awesome](https://github.com/sindresorhus/awesome/#back-end-development) | resourses. |
+| [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns) | Software design pattern - A general, reusable solution to a commonly occurring problem within a given context in software design. It is a description or template for how to solve a problem that can be used in many different situations. |
 | [Deno](https://deno.land/) | A modern runtime for JavaScript and TypeScript. |
+| [Deta](https://www.deta.sh) | Build & deploy your ideas on the universe's most developer friendly cloud platform. Say goodbye to servers and bills. Deta is free for ever. |
 | [Express](https://expressjs.com/) | Fast, unopinionated, minimalist web framework for Node.js |
 | [Fastify](https://www.fastify.io/) | Fast and low overhead web framework, for Node.js |
 | [Hapi](https://hapi.dev/) | The Simple, Secure Framework Developers Trust |
@@ -155,11 +158,12 @@
 | [Bulma](https://bulma.io/) | Bulma: the modern CSS framework that just works. |
 | [CSS-Animations](https://css-animations.io/) | Animate On Scroll Library. |
 | [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/) | Beautiful pure CSS background patterns that you can actually use in your projects! |
-| [CSS Clip-path maker](https://bennettfeely.com/clippy/) | The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an SVG source. |
+| [CSS Clip-path maker](https://bennettfeely.com/clippy/) | The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an \ source. |
 | [Css Gradient](https://cssgradient.io/) | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites. |
 | [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | This project is a way for people to use CSS Grid features quickly to create dynamic layouts. |
 | [CSS Layout](https://csslayout.io/) | Popular Layouts & patterns made with CSS. |
 | [CSS Scroll Shadows!](https://css-scroll-shadows.vercel.app/?bgColor=fcaef2&shadowColor=222222&pxSize=22) | Adjust the controls and see the CSS scroll shadows change |
+| [CSS Script](https://www.cssscript.com) | Best Free JavaScript & CSS/CSS3 Libraries For Modern Web Design. |
 | [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | This is a collection of pure css section separators with the possibility to customize and copy the code. |
 | [CSS Reference](https://tympanus.net/codrops/css_reference/) | An extensive CSS reference with all the important properties and info to learn CSS from the basics |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool. |
@@ -174,6 +178,7 @@
 | [Little Snippets](https://www.littlesnippets.net/) | Little Snippets |
 | [Lofi UI](https://lofiui.co/) | Re-usable and re-workable components designed to be hacked at. Start here, add your own style, and build something awesome. |
 | [MaterialCSS](https://materializecss.com/) | A modern responsive front-end framework based on Material Design. |
+| [MarkSheet](https://marksheet.io) | A free HTML and CSS tutorial. |
 | [Neumorphism](https://neumorphism.io/#ffffff) | Generate Soft-UI CSS code. |
 | [Normalize.css](https://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
 | [Patterns](https://freebiesupply.com/blog/css-background-patterns/) | I’m always amazed at the things you can make with CSS3. |
@@ -215,6 +220,7 @@
 | [Figma](https://www.figma.com/) | Creative tools meet the internet. |
 | [Fluent UI](https://developer.microsoft.com/es-es/fluentui#/) | A collection of UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior. |
 | [Glorify](https://www.glorify.com/) | Create high converting product images in a few clicks. |
+| [Jitter](https://jitter.video) | Motion design, made simple. |
 | [Photopea](https://www.photopea.com/) | Photopea: advanced image editor. |
 | [Semantic UI](https://semantic-ui.com/) | User Interface is the language of the web. |
 ## Diagrams
@@ -295,10 +301,12 @@
 ## Illustration
 | Link | Description |
 | ---- | ----------- |
+| [Blush Design](https://blush.design) | Tell your story with illustrations. |
 | [DrawKit](https://www.drawkit.io/free-icons) | High quality, free vector icons, in four styles. |
 | [Illustation](https://illustation.io/) | Beautiful, unique illustrations and icons. |
 | [IRA Design](https://iradesign.io/) | Build your own amazing illustrations. |
 | [Open Doodles](https://www.opendoodles.com/) | A Free Set of Open-Source Illustrations! |
+| [Open Peeps](https://www.openpeeps.com) | A hand-drawn illustration library. |
 | [Storyset](https://storyset.com/) | Awesome free customizable illustrations for your next project. |
 | [Storytale](https://storytale.io/) | High-class illustrations for web and mobile projects. |
 | [UnDraw](https://undraw.co/) | Create better designed websites, products and applications. |
@@ -558,6 +566,7 @@
 | [Chakra UI](https://chakra-ui.com/) | Create accessible React apps with speed. |
 | [ClassNames](https://github.com/JedWatson/classnames) | A simple JavaScript utility for conditionally joining classNames together. |
 | [Create React App](https://create-react-app.dev/docs/getting-started/) | Create React App is an officially supported way to create single-page React applications. It offers a modern build setup with no configuration. |
+| [Draft.js](https://draftjs.org) | Rich Text Editor Framework for React |
 | [Element Z](https://elementz.style/#section-introduction) | A React Component library for buliding modern applications easily & quickly. |
 | [Framer Motion](https://www.framer.com/motion/) | A production-ready motion library for React. |
 | [Gatsby.js](https://www.gatsbyjs.com/) | The fastest way to run the fastest frontend. |
@@ -575,7 +584,10 @@
 | [React Anime](https://www.npmjs.com/package/react-anime) | A super easy animation library for React built on top of Julian Garnier's. |
 | [React Animations](https://github.com/FormidableLabs/react-animations) | A collection of animations that can be used with any inline style library that supports using objects to define keyframe animations, such as Radium or Aphrodite. React-animations implements all animations from animate.css. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | The most popular front-end framework Rebuilt for React. |
+| [React DnD](https://react-dnd.github.io/react-dnd/about) | 
+React DnD is a set of React utilities to help you build complex drag and drop interfaces while keeping your components decoupled. It is a perfect fit for apps like Trello and Storify, where dragging transfers data between different parts of the application, and the components change their appearance and the application state in response to the drag and drop events. |
 | [React Content Loader](https://skeletonreact.com/) | Tool to easily create your animated skeleton-screen components, replacing usual loading and delivering better experiences for users, giving a wireframe of your pages like placeholders boxes for content and images. Supports React, React Native, Vue, and vanilla HTML. |
+| [React Device Detect](https://www.npmjs.com/package/react-device-detect) | Detect device, and render view according to the detected device type. |
 | [Recharts](https://recharts.org/en-US/) | A composable charting library built on React components |
 | [React Examples](https://reactjsexample.com/) | React Examples |
 | [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) | A lightweight magic-move library for configurable layout transitions. |
@@ -592,9 +604,14 @@
 | [React Redux Links](https://github.com/markerikson/react-redux-links) | Curated tutorial and resource links I've collected on React, Redux, ES6, and more. |
 | [React Reveal](https://www.react-reveal.com/) | React Reveal is an animation framework for React. |
 | [React Router](https://reactrouter.com/) | React Router is a collection of navigational components that compose declaratively with your application. |
+| [React Select](https://react-select.com/home) | A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support. |
 | [React Scroll Parallax](https://github.com/jscottsmith/react-scroll-parallax) | 🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements. |
+| [React Slick](https://react-slick.neostack.com) | 🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements. |
+| [React Spinners](https://www.davidhu.io/react-spinners/) | React Spinners. |
 | [React Spring](https://react-spring.io/) | React-spring is a spring-physics based animation library that should cover most of your UI related animation needs. |
 | [React Stonecutter](https://dantrain.github.io/react-stonecutter/) | Animated grid layout component for React, inspired by Masonry. Choose between CSS Transitions or React-Motion for animation. |
+| [React Table](https://react-table.tanstack.com) | Lightweight and extensible data tables for React. |
+| [React Tabs](https://reactcommunity.org/react-tabs/) | An accessible and easy tab component for ReactJS. |
 | [React Tutorial](https://react-tutorial.app/) | The easiest way to learn React. |
 | [React Transition Group](https://reactcommunity.org/react-transition-group/) | Exposes simple components useful for defining entering and exiting transitions. |
 | [React Typist](https://jstejada.github.io/react-typist/) | React Component for making typing animations. Wrap Typist around your text or any element tree to animate text inside the tree. Easily stylable and highly configurable. |
@@ -748,6 +765,7 @@
 | ---- | ----------- |
 | [10015](https://10015.io/) | All Online Tools in “One Box”. |
 | [A List Apart](https://alistapart.com/) | Design for Safety, An Excerpt. |
+| [Astro](https://astro.build) | Build fast websites, faster. |
 | [Avataaars generator](https://getavataaars.com/) | avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! |
 | [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/) | Write your text with BIG LETTERS! You'll love ▀█▀ █▬█ █ ▄█▀ large font generator ♡. I've also made another cool generator you'll find here known around as █▀█ █▄█ ▀█▀ nut and █▬█ █ ▀█▀ hit font. |
 | [BlobMaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes. |
@@ -755,6 +773,7 @@
 | [Choose an open source license](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. |
 | [CleanMock](https://cleanmock.com/) | CleanMock |
 | [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
+| [First Aid Git](https://firstaidgit.io/#/) | A searchable collection of the most frequently asked Git questions. |
 | [Gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages. |
 | [Hidden Tools](https://hiddentools.dev/) | Discover a wide collection of tools made by the community. |
 | [LogoTester](https://logotester.thework.market/) | Instantly check if your logo is up to the top industry standards. |
@@ -765,9 +784,11 @@
 | [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
 | [Mockaroo](https://www.mockaroo.com/) | Data Fake Generator. |
 | [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
+| [New Project](https://railway.app/new) | Deploy your app to production effortlessly. |
 | [Ngrok](https://ngrok.com/) | Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. |
 | [Npkill](https://www.npmjs.com/package/npkill) | This tool allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay! |
 | [Omatsuri](https://omatsuri.app/) | Open source browser tools for everyday use. |
+| [QR Generator wifi](https://qrcode.tec-it.com/es/wifi) | QR Generator wifi. |
 | [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
 | [ScreenSizes](https://www.screensizes.app/) | ScreenSizes |
 | [Servor](https://www.npmjs.com/package/servor) | A dependency free dev server for modern web application development. |
@@ -779,7 +800,9 @@
 | [ScreenToGif](https://www.screentogif.com/) | Screen, webcam and sketchboard recorder with an integrated editor. |
 | [ShotSnapp](https://shotsnapp.com/) | Create beautiful device mockup images for your app or website design. Share it everywhere. |
 | [ShortcutFoo](https://www.shortcutfoo.com/) | Choose shortcuts to practice. |
+| [Svg Viewer](https://www.svgviewer.dev) | svg viewer. |
 | [UnScreen](https://www.unscreen.com/) | Remove Video Background. |
+| [Tauri](https://tauri.studio) | Build smaller, faster, and more secure desktop applications with a web frontend |
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
 | [Type Scale](https://type-scale.com/) | Type Scale. |
 
