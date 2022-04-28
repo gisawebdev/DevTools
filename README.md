@@ -605,7 +605,7 @@
 | [React Router](https://reactrouter.com/) | React Router is a collection of navigational components that compose declaratively with your application. |
 | [React Select](https://react-select.com/home) | A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support. |
 | [React Scroll Parallax](https://github.com/jscottsmith/react-scroll-parallax) | 🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements. |
-| [React Slick](https://react-slick.neostack.com) | 🔮 React hooks and components to create parallax scroll effects for banners, images or any other DOM elements. |
+| [React Slick](https://react-slick.neostack.com) | The Last React Carousel You'll Ever Need!. |
 | [React Spinners](https://www.davidhu.io/react-spinners/) | React Spinners. |
 | [React Spring](https://react-spring.io/) | React-spring is a spring-physics based animation library that should cover most of your UI related animation needs. |
 | [React Stonecutter](https://dantrain.github.io/react-stonecutter/) | Animated grid layout component for React, inspired by Masonry. Choose between CSS Transitions or React-Motion for animation. |
