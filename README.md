@@ -49,6 +49,19 @@
 | [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript) | The Algorithms - JavaScript. |
 | [The Psychology of Design](https://growth.design/psychology/) | The Psychology of Design. |
 | [The Ultimate Javascript vs Dart Syntax Guide](https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6) | The Ultimate Javascript vs Dart Syntax Guide. |
+| [copy and paste css animation cheat sheets](https://1stwebdesigner.com/copy-and-paste-css-animation-cheat-sheets/) | copy and paste css animation cheat sheets |
+| [Multi Color text With CSS](https://codepen.io/TajShireen/full/YzZmbep) | Multi Color text With CSS. |
+| [devhints](https://devhints.io) | devhints |
+| [Best css svg loaders and spinners](https://codegeekz.com/best-css-svg-loaders-and-spinners/) | Best css svg loaders and spinners |
+| [webframe.xyz](https://webframe.xyz) | Discover and be inspired by beautiful webapp designs |
+
+## Baas
+| Link | Description |
+| ----| ------------ |
+| [8Base](https://www.8base.com) | Build Web Applications Fast and Limitless |
+| [Backendless](https://backendless.com) | Full Stack Visual App Development Platform. |
+| [Firebase](https://firebase.google.com) | Make your app the best it can be|
+| [supabase](https://supabase.com) | The Open Source Firebase Alternative |
 ## BackEnd
 | Link | Description |
 | ---- | ----------- |
@@ -194,6 +207,7 @@
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
 | [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | One of the CSS units I use most is the wonderful % — so handy for positioning elements on the page. |
 | [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/) | As a Web developer, I believe CSS is one of our necessary skills. |
+| [WebGradients](https://webgradients.com) | WebGradients is a free collection of 180 linear gradients that you can use ascontent backdrops in any part of your website. Easy copy CSS3 crossbrowser codeand use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for Sketch & Photoshop. |
 
 ## DataBase
 | Link | Description |
@@ -262,7 +276,6 @@
 | Link | Description |
 | ---- | ----------- |
 | [Digital Ocean](https://www.digitalocean.com/) | Simplify your cloud. |
-| [Firebase](https://firebase.google.com/) | Firebase helps you build and run successful apps |
 | [Heroku](https://www.heroku.com/) | Turn your company into an apps company. |
 | [Netlify](https://www.netlify.com/) | An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. |
 | [Surge](https://surge.sh/) | Static web publishing for Front-End Developers |
@@ -279,6 +292,7 @@
 ## Icons
 | Link | Description |
 | ---- | ----------- |
+| [3D Icons](https://3dicons.co) | Beautifully crafted open source 3D icons |
 | [Box Icons](https://boxicons.com/) | High Quality Web Icons. |
 | [CocoMaterial](https://cocomaterial.com/) | Discover the CocoMaterial, the Open Source hand-drawn illustration library. |
 | [Eva Icons](https://akveo.github.io/eva-icons/#/) | Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
@@ -326,8 +340,10 @@
 | Link | Description |
 | ---- | ----------- |
 | [Algolia Places](https://community.algolia.com/places/) | Turn any ```<input>``` into an address autocomplete. |
+| [Alpine.js](https://alpinejs.dev) | Your new, lightweight, JavaScript framework. |
 | [Anime.js](https://animejs.com/) | JavaScript animation engine. |
 | [ApexCharts.js](https://apexcharts.com/) | Modern & Interactive Open-source Charts. |
+| [Astro](https://astro.build) | Build fast websites, faster. |
 | [Atropos](https://atroposjs.com/?ref=producthunt) | Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. Available for JavaScript, React and Vue.js |
 | [Audio.js](https://kolber.github.io/audiojs/) | audio.js is a drop-in javascript library that allows HTML5’s ```<audio>``` tag to be used anywhere. |
 | [Axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js |
@@ -341,16 +357,20 @@
 | [Curso de JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed3/blob/master/teoria/clase17.md) | Curso de JavaScript Avanzado para desarrolladores Front-end |
 | [D3.js](https://d3js.org/) | D3.js is a JavaScript library for manipulating documents based on data. |
 | [Draggable](https://shopify.github.io/draggable/) | A lightweight, responsive, modern drag & drop library |
-| [Email.js](https://www.emailjs.com/) | Send Email Directly From JavaScript. |
+| [Email.js](https://www.emailjs.com/) | Send Email Directly From JavaScript. 
+| [Embla Carousel](https://www.embla-carousel.com) | A lightweight carousel library with fluid motion and great swipe precision. |
 | [Faker.js](https://github.com/marak/Faker.js/) | faker.js - generate massive amounts of fake data in the browser and node.js |
+| [Floating UI](https://floating-ui.com) | Floating UI is a low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, menus, and more. |
 | [FullPage.js](https://github.com/alvarotrigo/fullPage.js/tree/master/lang/spanish#fullpagejs) | Create Beautiful Fullscreen scrolling websites. |
 | [Glider.js](https://nickpiscitelli.github.io/Glider.js/) | A blazingly fast, crazy small, fully responsive, mobile-friendly, dependency free, native scrolling list with paging controls! |
 | [Glimmer](https://glimmerjs.com/) | Fast and light-weight UI components for the web. |
 | [Hammer.js](https://hammerjs.github.io/) | Add touch gestures to your webapp. |
 | [Immer.js](https://github.com/immerjs/immer) | Create the next immutable state tree by simply modifying the current tree. |
 | [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) | The easiest way to  learn  &  practice  modern JavaScript. |
+| [Luxon](https://moment.github.io/luxon/#/) | A powerful, modern, and friendly wrapper for JavaScript dates and times. |
 | [Moment.js](https://momentjs.com/) | Parse, validate, manipulate, and display dates and times in JavaScript. |
 | [NProgress.js](https://ricostacruz.com/nprogress/) | A nanoscopic progress bar. Featuring realistic trickle animations to convince your users that something is happening! |
+| [Party.js](https://party.js.org) | A JavaScript library to brighten up your user's site experience with visual effects! |
 | [Popper.js](https://popper.js.org/) | Tooltip & Popover Positioning Engine |
 | [Ramda](https://ramdajs.com/) | A practical functional library for JavaScript programmers. |
 | [Redux](https://redux.js.org/introduction/getting-started) | Redux is a predictable state container for JavaScript apps. |
@@ -407,6 +427,7 @@
 | [Compress Javascript](http://www.minifyjavascript.com) | Compress JavaScript Code Online for Free. |
 | [Favicon Generator](https://www.favicon-generator.org) | Favicon Generator |
 | [Optimizilla](https://imagecompressor.com/) | This online image optimizer uses a smart combination of the best optimization and lossy compression algorithms to shrink JPEG and PNG images to the minimum possible size while keeping the required level of quality. |
+| [patterns](https://www.patterns.dev) | Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React. |
 | [Real Favicon Generator](https://realfavicongenerator.net) | Favicon Generator. For real. |
 | [Tiny Png](https://tinypng.com/) | Smart WebP, PNG and JPEG compression More than 1 billion WebP, PNG and JPEG images optimized and still counting! |
 | [Responsinator](http://www.responsinator.com) | Responsinator helps website makers quickly get an indication of how their responsive site will look on the most popular devices. |
@@ -685,6 +706,7 @@
 | [Daisy UI](https://daisyui.com/) | The most popular, free and open-source Tailwind CSS component library. |
 | [Gradient Generator](https://hypercolor.dev/generator) | Create your own Tailwind CSS gradient with the full Tailwind CSS color library and the extended radial and conic gradient options provided through Hypercolor. |
 | [Headless UI](https://headlessui.dev/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
+| [HyperUI](https://www.hyperui.dev) | HyperUI is a collection of free Tailwind CSS components that can be used in your next project. With a range of components, you can build your next marketing website, admin dashboard, ecommerce store and much more. |
 | [Kitwind](https://kitwind.io/products/kometa) | We are giving away our first UI kit for free. It includes over 130 sections, built with TailwindCSS, for your awesome projects. |
 | [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0. It's all compatible with React, VueJS and Angular application. |
 | [TailBlocks](https://tailblocks.cc/) | Ready-to-use Tailwind CSS blocks. |
@@ -701,8 +723,10 @@
 | [Cypress](https://www.cypress.io/) | The web has evolved. Finally, testing has too. |
 | [Enzyme](https://enzymejs.github.io/enzyme/), [enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17), [enzyme-to-json](https://www.npmjs.com/package/enzyme-to-json) | Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. Enzyme-adapter-react-17 Unofficial adapter for React 17 for Enzyme. Enzyme-to-json Convert Enzyme wrappers to a format compatible with Jest snapshot testing.|
 | [Jest.js](https://jestjs.io/) | Jest is a delightful JavaScript Testing Framework with a focus on simplicity. |
+| [Jest Preview](https://www.jest-preview.com) | Debug your Jest tests. Effortlessly. 🛠🖼 |
 | [Playwright](https://playwright.dev/) | Playwright enables reliable end-to-end testing for modern web apps. |
 | [Testing Library](https://testing-library.com/) | Simple and complete testing utilities that encourage good testing practices. |
+| [Vest](https://vestjs.dev) | Declarative validations framework inspired by unit testing libraries. |
 ## Transpilers
 | Link | Description |
 | ---- | ----------- |
@@ -764,13 +788,14 @@
 | ---- | ----------- |
 | [10015](https://10015.io/) | All Online Tools in “One Box”. |
 | [A List Apart](https://alistapart.com/) | Design for Safety, An Excerpt. |
-| [Astro](https://astro.build) | Build fast websites, faster. |
 | [Avataaars generator](https://getavataaars.com/) | avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! |
 | [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/) | Write your text with BIG LETTERS! You'll love ▀█▀ █▬█ █ ▄█▀ large font generator ♡. I've also made another cool generator you'll find here known around as █▀█ █▄█ ▀█▀ nut and █▬█ █ ▀█▀ hit font. |
 | [BlobMaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes. |
 | [Can I Use](https://caniuse.com/) | Can I Use |
+| [Checklist Design](https://www.checklist.design) | A collection of the best design practices. |
 | [Choose an open source license](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. |
 | [CleanMock](https://cleanmock.com/) | CleanMock |
+| [Devtooly](https://devtooly.com) | Frontend Developer tools, all-in-one place! |
 | [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
 | [First Aid Git](https://firstaidgit.io/#/) | A searchable collection of the most frequently asked Git questions. |
 | [Gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages. |
@@ -791,6 +816,7 @@
 | [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
 | [ScreenSizes](https://www.screensizes.app/) | ScreenSizes |
 | [Servor](https://www.npmjs.com/package/servor) | A dependency free dev server for modern web application development. |
+| [Spline Design](https://spline.design) | Spline, a place to design and collaborate in 3D. |
 | [ReactiveX](http://reactivex.io/) | An API for asynchronous programming with observable streams. |
 | [Readme](https://readme.so/) | Our simple editor allows you to quickly add and customize all the sections you need for your project's readme. |
 | [Remove.bg](https://www.remove.bg/) | 100% Automatically and Free. |
@@ -803,7 +829,9 @@
 | [UnScreen](https://www.unscreen.com/) | Remove Video Background. |
 | [Tauri](https://tauri.studio) | Build smaller, faster, and more secure desktop applications with a web frontend |
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
+| [Type Anything](https://app.typeanything.io) | Type Anything – Test & create the perfect typography combinations. |
 | [Type Scale](https://type-scale.com/) | Type Scale. |
+| [Yandex](https://yandex.com) | yandex. |
 
 ## Work
 | Link | Description |
