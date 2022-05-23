@@ -80,7 +80,7 @@
 ## Blogs
 | Link | Description |
 | ---- | ----------- |
-| [Aprende UX / UI]([https://carlosazaustre.es/blog](https://aprenderuxui.com))| Aprende UX / UI con lo que mi camino me ha enseñado Aprende los fundamentos de la usabilidad y del diseño web y de apps móviles y mejora tu capacidad como diseñador UX / UI o product designer con aquellas buenas prácticas que he adquirido con mi experiencia. |
+| [Aprende UX / UI](https://carlosazaustre.es/blog](https://aprenderuxui.com)| Aprende UX / UI con lo que mi camino me ha enseñado Aprende los fundamentos de la usabilidad y del diseño web y de apps móviles y mejora tu capacidad como diseñador UX / UI o product designer con aquellas buenas prácticas que he adquirido con mi experiencia. |
 | [Carlosazaustre.es](https://carlosazaustre.es/blog)| Carlos Azaustre Blog. |
 | [Dev](https://dev.to/)| DEV Community |
 | [FlavioCopes](https://flaviocopes.com/)| Flavio Copes Blog. |
