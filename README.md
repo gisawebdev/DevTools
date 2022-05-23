@@ -26,6 +26,7 @@
 | [Public Apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. |
 | [TheMovieDB API](https://developers.themoviedb.org/3/getting-started/introduction) | The Movie Database (TMDB) API. Below you will find a current list of the available methods on our movie, tv, actor and image API. |
 | [Random API](https://randomapi.com/) | Easily generate fake data for populating your mockups and testing your applications. |
+| [Rapid Api](https://rapidapi.com) | EasilyFind, Connect to, and Manage thousands of APIs |
 | [Unsplash API](https://source.unsplash.com/) | Simple embedding for Unsplash photos. |
 ## API Request
 | Link | Description |
@@ -79,6 +80,7 @@
 ## Blogs
 | Link | Description |
 | ---- | ----------- |
+| [Aprende UX / UI]([https://carlosazaustre.es/blog](https://aprenderuxui.com))| Aprende UX / UI con lo que mi camino me ha enseñado Aprende los fundamentos de la usabilidad y del diseño web y de apps móviles y mejora tu capacidad como diseñador UX / UI o product designer con aquellas buenas prácticas que he adquirido con mi experiencia. |
 | [Carlosazaustre.es](https://carlosazaustre.es/blog)| Carlos Azaustre Blog. |
 | [Dev](https://dev.to/)| DEV Community |
 | [FlavioCopes](https://flaviocopes.com/)| Flavio Copes Blog. |
@@ -166,6 +168,7 @@
 | [Animate.css](https://animate.style/) | Just-add-water CSS animations. |
 | [Animista.net](https://animista.net/play/basic/rotate-90) | Animista is a place where you can play with a collection of pre-made css animations, tweak them and get only those you will actually use. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
+| [Atomic CSS on Steroids](https://acss.io) | CSS FOR COMPONENT-BASED FRAMEWORKS |
 | [BootStrap](https://getbootstrap.com/) | Build fast, responsive sites with Bootstrap. |
 | [Box-shadow.dev](https://box-shadow.dev/) | Box shadows are fun. This is a web app to help you create awesome box shadows. |
 | [Bulma](https://bulma.io/) | Bulma: the modern CSS framework that just works. |
@@ -179,6 +182,7 @@
 | [CSS Script](https://www.cssscript.com) | Best Free JavaScript & CSS/CSS3 Libraries For Modern Web Design. |
 | [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | This is a collection of pure css section separators with the possibility to customize and copy the code. |
 | [CSS Reference](https://tympanus.net/codrops/css_reference/) | An extensive CSS reference with all the important properties and info to learn CSS from the basics |
+| [Cube CSS](https://cube.fyi/#what-does-cube-css-stand-for) | CUBE CSS is a CSS methodology that’s orientated towards simplicity, pragmatism and consistency. |
 | [Custom Shape Dividers](https://www.shapedivider.app/) | We created this free tool to make it easier for designers and developers to export a beautiful SVG shape divider for their latest project. We hope you enjoy this tool. |
 | [Epic Spinners](https://epic-spinners.epicmax.co/) | Css only. Easy to use. |
 | [Fancy Corners With CSS](https://blog.logrocket.com/how-to-create-fancy-corners-in-css/) | Creating fancy corners is one of them. With a just few lines of CSS code, you can easily beautify the corners of HTML elements and create stunning visuals for users to interact with. |
@@ -189,6 +193,7 @@
 | [keyframes.app](https://keyframes.app/) | Keyframes helps you write better CSS. |
 | [Layoutit](https://www.layoutit.com/) | Try our simple frontend and management tools. |
 | [Little Snippets](https://www.littlesnippets.net/) | Little Snippets |
+| [Loaders](https://uiball.com/loaders/) | Free loaders & spinners for your next project. Built with HTML, CSS and a soupçon of SVG. |
 | [Lofi UI](https://lofiui.co/) | Re-usable and re-workable components designed to be hacked at. Start here, add your own style, and build something awesome. |
 | [MaterialCSS](https://materializecss.com/) | A modern responsive front-end framework based on Material Design. |
 | [MarkSheet](https://marksheet.io) | A free HTML and CSS tutorial. |
@@ -196,6 +201,7 @@
 | [Normalize.css](https://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
 | [Patterns](https://freebiesupply.com/blog/css-background-patterns/) | I’m always amazed at the things you can make with CSS3. |
 | [Pixel Art CSS](https://www.pixelartcss.com/) | Pixel Art to CSS is an online editor that helps you with that task. |
+| [Primer CSS](https://primer.style/css/) | Highly reusable, flexible styles. |
 | [Pure.css](https://purecss.io/) | A set of small, responsive CSS modules that you can use in every web project. |
 | [Sass](https://sass-lang.com/) | Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. |
 | [Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) | The 30 CSS Selectors You Must Memorize |
@@ -205,9 +211,10 @@
 | [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
 | [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
+| [Water.css](https://watercss.kognise.dev) | Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer. |
 | [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | One of the CSS units I use most is the wonderful % — so handy for positioning elements on the page. |
-| [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/) | As a Web developer, I believe CSS is one of our necessary skills. |
 | [WebGradients](https://webgradients.com) | WebGradients is a free collection of 180 linear gradients that you can use ascontent backdrops in any part of your website. Easy copy CSS3 crossbrowser codeand use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for Sketch & Photoshop. |
+| [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/) | As a Web developer, I believe CSS is one of our necessary skills. |
 
 ## DataBase
 | Link | Description |
@@ -247,10 +254,20 @@
 | [Hostgator](https://www.hostgator.com/) | Go where the pros host. |
 | [Hostinger](https://www.hostinger.com/) | Order Premium Web Hosting for at least 12 months and get a free .COM domain for the first year. Free SSL included. |
 | [NameCheap](https://www.namecheap.com/) | Buy a domain and everything else you need. |
+## FLEXBOX & Grid
+| Link | Description |
+| ---- | ----------- |
+| [FlexBox](https://flexbox.malven.co) | FlexBox |
+| [Grid](https://grid.malven.co) | Grid |
 ## Formmater
 | Link | Description |
 | ---- | ----------- |
 | [Prettier](https://prettier.io/) | An opinionated code formatter, Supports many languages, Integrates with most editors, Has few options. |
+## FrameWork
+| Link | Description |
+| ---- | ----------- |
+| [Solid JS](https://www.solidjs.com) | Simple and performant reactivity for building user interfaces. |
+| [Tauri](https://tauri.studio) | Build smaller, faster, and more secure desktop applications with a web frontend. |
 ## Flutter
 | Link | Description |
 | ---- | ----------- |
@@ -295,6 +312,7 @@
 | [3D Icons](https://3dicons.co) | Beautifully crafted open source 3D icons |
 | [Box Icons](https://boxicons.com/) | High Quality Web Icons. |
 | [CocoMaterial](https://cocomaterial.com/) | Discover the CocoMaterial, the Open Source hand-drawn illustration library. |
+| [Devicon](https://devicon.dev) | Devicon is a set of icons representing programming languages, designing, and development tools. You can use it as a font or directly copy/paste the SVG code into your project. |
 | [Eva Icons](https://akveo.github.io/eva-icons/#/) | Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items. |
 | [Feather Icons](https://feathericons.com/) | Simply beautiful open source icons. |
 | [Flaticon](https://www.flaticon.com/) | Download free vector icons and stickers for your projects. Resources made by and for designers. |
@@ -582,6 +600,7 @@
 | [45 NPM Packages](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224) | 45 NPM Packages to Solve 16 React Problems |
 | [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
 | [Akita](https://github.com/datorama/akita) | Whether it be Angular, React, Vue, Web Components or plain old vanilla JS, Akita can do the heavy lifting and serve as a useful tool for maintaining clean, boilerplate-free, and scalable applications. |
+| [Atomize Code](https://atomizecode.com) | Atomize React is a UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly. |
 | [Awesome React](https://github.com/enaqx/awesome-react#react-libraries) | A collection of awesome things regarding the React ecosystem. |
 | [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) | A curated list about React Hooks. |
 | [Chakra UI](https://chakra-ui.com/) | Create accessible React apps with speed. |
@@ -695,6 +714,12 @@
 ## SVG
 | Link | Description |
 | ---- | ----------- |
+| [Svelte](https://svelte.dev) | Cybernetically Enhanced Web Apps |
+| [SvelteKit](https://kit.svelte.dev) | The Fastest Way To Build Svelte Apps |
+## SVG
+| Link | Description |
+| ---- | ----------- |
+| [Generate smooth animated blobs](https://blobanimation.com) | Generate smooth animated blobs. |
 | [Generate SVG Waves 🌊](https://svgwave.in/) | SVG Wave is a tiny, free and beautiful gradient SVG waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |
 | [SVG Artista](https://svgartista.net/) | Super handy SVG drawing animation tool. |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) | Customize and apply backgrounds fast. |
@@ -795,6 +820,7 @@
 | [Checklist Design](https://www.checklist.design) | A collection of the best design practices. |
 | [Choose an open source license](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. |
 | [CleanMock](https://cleanmock.com/) | CleanMock |
+| [Component Part](https://component-party.dev) | Many JS developers don't have a good overview of every existing JS framework with their own syntax and features. How do we solve this ? Developers love having framework overview by examples. It's a quick introduction before going deeper. |
 | [Devtooly](https://devtooly.com) | Frontend Developer tools, all-in-one place! |
 | [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
 | [First Aid Git](https://firstaidgit.io/#/) | A searchable collection of the most frequently asked Git questions. |
@@ -831,6 +857,7 @@
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
 | [Type Anything](https://app.typeanything.io) | Type Anything – Test & create the perfect typography combinations. |
 | [Type Scale](https://type-scale.com/) | Type Scale. |
+| [Web Skills](https://andreasbm.github.io/web-skills/#fundamentals) | Web Skills is a visual overview of useful skills to learn as a web developer.  |
 | [Yandex](https://yandex.com) | yandex. |
 
 ## Work
