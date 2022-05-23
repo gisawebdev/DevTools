@@ -711,7 +711,7 @@
 | [Codepen](https://codepen.io/) | The best place to build, test, and discover front-end code. |
 | [CodeShare](https://codeshare.io/) | Share Code in Real-time with Developers. |
 | [Stackblitz](https://stackblitz.com/) | The fastest, most secure dev environment on the planet. |
-## SVG
+## Svelte
 | Link | Description |
 | ---- | ----------- |
 | [Svelte](https://svelte.dev) | Cybernetically Enhanced Web Apps |
