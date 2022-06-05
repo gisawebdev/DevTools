@@ -96,6 +96,7 @@
 | [EsBuild](https://esbuild.github.io/) | An extremely fast JavaScript bundler. |
 | [Rollup.js](https://rollupjs.org/guide/en/) | Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. |
 | [Snowpack](https://www.snowpack.dev/) | The faster frontend build tool. |
+| [Vite](https://vitejs.dev) | Next Generation Frontend Tooling. |
 | [Waypoint](https://www.waypointproject.io/) | Build. Deploy. Release. |
 | [WebPack](https://webpack.js.org/) | At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it internally builds a dependency graph from one or more entry points and then combines every module your project needs into one or more bundles, which are static assets to serve your content from. |
 ## Capture Code
@@ -208,6 +209,7 @@
 | [Skeleton.CSS](http://getskeleton.com/) | A dead simple, responsive boilerplate. |
 | [Smolcss](https://smolcss.dev/) | Minimal snippets for modern CSS layouts and components. |
 | [Smooth Shadow](https://shadows.brumm.af/) | Make a smooth shadow, friend. |
+| [Stylelint](https://stylelint.io) | A mighty, modern linter that helps you avoid errors and enforce conventions in your styles. |
 | [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
 | [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
@@ -248,6 +250,10 @@
 | Link | Description |
 | ---- | ----------- |
 | [Draw.io](https://www.draw.io/) | draw.io is proprietary software for making diagrams and charts. |
+## Documentation
+| Link | Description |
+| ---- | ----------- |
+| [Docusaurus](https://docusaurus.io) |Build optimized websites quickly, focus on your content. |
 ## Domain
 | Link | Description |
 | ---- | ----------- |
@@ -752,6 +758,7 @@
 | [Playwright](https://playwright.dev/) | Playwright enables reliable end-to-end testing for modern web apps. |
 | [Testing Library](https://testing-library.com/) | Simple and complete testing utilities that encourage good testing practices. |
 | [Vest](https://vestjs.dev) | Declarative validations framework inspired by unit testing libraries. |
+| [Vitest](https://vitest.dev) | A Vite-native unit test framework. It's fast!. |
 ## Transpilers
 | Link | Description |
 | ---- | ----------- |
@@ -772,9 +779,14 @@
 ## UX
 | Link | Description |
 | ---- | ----------- |
-| [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) | UX Crash Course: 31 Fundamentals. |
-| [UI Design](https://github.com/tipoqueno/awesome-ui) | A curated list of useful resources related to User Interface Design |
+| [aprenderuxui](https://aprenderuxui.com) | Aprende los fundamentos de la usabilidad y del diseño web y de apps móviles y mejora tu capacidad como diseñador UX / UI o product designer con aquellas buenas prácticas que he adquirido con mi experiencia. |
 | [Good UI](http://www.goodui.org) | Learn From What Leading Companies A/B Test. |
+| [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) | UX Crash Course: 31 Fundamentals. |
+| [UX Collective](https://uxdesign.cc) | UX Collective |
+| [UI Design](https://github.com/tipoqueno/awesome-ui) | A curated list of useful resources related to User Interface Design |
+| [XD Ideas](https://xd.adobe.com/ideas/) | A curated list of useful resources related to User Interface Design |
+| [UX Planet](https://uxplanet.org) | One-stop resource for everything related to user experience |
+
 ## Vídeos
 | Link | Description |
 | ---- | ----------- |
@@ -794,6 +806,7 @@
 | ---- | ----------- |
 | [Ionic Vue](https://ionicframework.com/docs/vue/overview) | combines the core Ionic Framework experience with the tooling and APIs that are tailored to Vue Developers. |
 | [Quasar](https://quasar.dev/) | Effortlessly build high-performance & high-quality Vue.js 3 user interfaces in record time. |
+| [Pinia](https://pinia.vuejs.org) | The Vue Store that you will enjoy using |
 | [Naive UI](https://www.naiveui.com/en-US/os-theme) | Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting |
 | [Nuxt](https://nuxtjs.org/) | The Intuitive Vue Framework. |
 | [Oruga](https://oruga.io/) | Oruga UI is like a caterpillar, minimal and yet functional. It's in your hands turning it into a butterfly. |
