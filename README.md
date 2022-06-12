@@ -211,12 +211,13 @@
 | [Smooth Shadow](https://shadows.brumm.af/) | Make a smooth shadow, friend. |
 | [Stylelint](https://stylelint.io) | A mighty, modern linter that helps you avoid errors and enforce conventions in your styles. |
 | [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
-| [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
+| [UnusedCSS - Remove Unused CSS](https://unused-css.com/?gclid=Cj0KCQjw-daUBhCIARIsALbkjSa2cV8FjxMhszReLIWKu8Gq5vo93b72EOmXarq2HHemb-2ii3-O3VgaAgnzEALw_wcB) | Easily Clean Up Your Unused CSS Rules. |
 | [Water.css](https://watercss.kognise.dev) | Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer. |
 | [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | One of the CSS units I use most is the wonderful % — so handy for positioning elements on the page. |
 | [WebGradients](https://webgradients.com) | WebGradients is a free collection of 180 linear gradients that you can use ascontent backdrops in any part of your website. Easy copy CSS3 crossbrowser codeand use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for Sketch & Photoshop. |
 | [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/) | As a Web developer, I believe CSS is one of our necessary skills. |
+| [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
 
 ## DataBase
 | Link | Description |
@@ -301,12 +302,14 @@
 | [Digital Ocean](https://www.digitalocean.com/) | Simplify your cloud. |
 | [Heroku](https://www.heroku.com/) | Turn your company into an apps company. |
 | [Netlify](https://www.netlify.com/) | An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. |
+| [Render](https://render.com) | Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git. |
 | [Surge](https://surge.sh/) | Static web publishing for Front-End Developers |
 | [Vercel](https://vercel.com/) | Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work. |
 ## HTML
 | Link  | Description |
 | ----- | ----------- |
 | [Graphberry](https://www.graphberry.com/category/free-html-web-templates) | Free HTML web themes Exclusive collection of free responsive web templates |
+| [htmlreference](https://htmlreference.io) | Learn by example: htmlreference.io is a free guide to HTML. It features all elements and attributes.|
 | [HTML Hell](https://www.htmhell.dev/) | A collection of bad practices in HTML, copied from real websites. |
 | [mytemplate](https://mytemplate.xyz/?ref=producthunt) | A no-code template for developer site. |
 | [Pixeden](https://www.pixeden.com/free-design-web-resources) | Pixeden is hard at work providing quality web resources. |
@@ -393,6 +396,7 @@
 | [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) | The easiest way to  learn  &  practice  modern JavaScript. |
 | [Luxon](https://moment.github.io/luxon/#/) | A powerful, modern, and friendly wrapper for JavaScript dates and times. |
 | [Moment.js](https://momentjs.com/) | Parse, validate, manipulate, and display dates and times in JavaScript. |
+| [Moving Letters](https://tobiasahlin.com/moving-letters/) | Moving Letters. |
 | [NProgress.js](https://ricostacruz.com/nprogress/) | A nanoscopic progress bar. Featuring realistic trickle animations to convince your users that something is happening! |
 | [Party.js](https://party.js.org) | A JavaScript library to brighten up your user's site experience with visual effects! |
 | [Popper.js](https://popper.js.org/) | Tooltip & Popover Positioning Engine |
@@ -402,6 +406,7 @@
 | [Run.js](https://runjs.app/) | The JavaScript playground for your desktop |
 | [Socket](https://socket.io/) | Bidirectional and low-latency communication for every platform |
 | [Sortable.js](https://sortablejs.github.io/Sortable/) | JavaScript library for reorderable drag-and-drop lists. |
+| [Swiper](https://swiperjs.com) | Swiper The Most Modern Mobile Touch Slider |
 | [The Modern JavaScript Tutorial](https://javascript.info/) | How it's done now. From the basics to advanced topics with simple, but detailed explanations. |
 | [Tone.js](https://tonejs.github.io/) | Tone.js is a Web Audio framework for creating interactive music in the browser. |
 | [Typed.js](https://mattboldt.github.io/typed.js/) | Typed.js is a library that types. Enter in any string, and watch it type at the speed you've set, backspace what it's typed, and begin a new sentence for however many strings you've set. |
@@ -410,6 +415,8 @@
 | [Underscore.js](https://underscorejs.org/) | Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. |
 | [Utils](https://1loc.dev/) | 286 Favorite JavaScript Utilities in single line of code! No more! |
 | [Video.js](https://videojs.com/) | Make your player yours with the world's most popular open source HTML5 player framework |
+| [Framework 7](https://framework7.io) | Build full featured iOS, Android & Desktop apps |
+
 ## Learn
 | Link | Description |
 | ---- | ----------- |
@@ -627,6 +634,7 @@
 | [Pose](https://popmotion.io/pose/) | A truly simple animation library for React, React Native, and Vue. |
 | [PrimeReact](https://www.primefaces.org/primereact/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces. |
+| [Reactiflux](https://www.reactiflux.com) | We’re a chat community of 170,000+ React JS React JS, React Native React Native, Redux Redux, Jest Jest, Relay Relay and GraphQL GraphQL developers. We hold Q&A’s with Facebook Engineers Facebook Organization and other developers Reactiflux Developers in the community Reactiflux Discord. Come chat about tech related to React & JavaScript or ask for help! |
 | [React Anime](https://www.npmjs.com/package/react-anime) | A super easy animation library for React built on top of Julian Garnier's. |
 | [React Animations](https://github.com/FormidableLabs/react-animations) | A collection of animations that can be used with any inline style library that supports using objects to define keyframe animations, such as Radium or Aphrodite. React-animations implements all animations from animate.css. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | The most popular front-end framework Rebuilt for React. |
@@ -638,6 +646,7 @@
 | [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) | A lightweight magic-move library for configurable layout transitions. |
 | [React Gsap](https://www.npmjs.com/package/react-gsap) | lets you use the GreenSock Animation Platform (GSAP) in React in a fully declarative way. It abstracts away the direct use of the GSAP Tween and Timeline functions. |
 | [React Loading](https://github.com/fakiolinho/react-loading) | Easy to use loading animations for React projects. Uses SVG animations from Brent Jackson's loading project. |
+| [React Haiku](https://reacthaiku.online) | React Hooks & Utilities that save time and lines of code. |
 | [React Hook Form](https://react-hook-form.com/) | Performant, flexible and extensible forms with easy-to-use validation. |
 | [React Hot Toast](https://react-hot-toast.com/) | The Best Toast in Town. Smoking hot React notifications. |
 | [React Icons](https://react-icons.github.io/react-icons/) | Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using. |
@@ -663,6 +672,7 @@
 | [REBASS](https://rebassjs.org/) | Rebass react primitive ui components built with styled system. |
 | [Recoil](https://recoiljs.org/) | A state management library for React. |
 | [Redux](https://redux.js.org/) | A Predictable State Container for JS Apps. |
+| [Redux Toolkit](https://redux-toolkit.js.org) | The official, opinionated, batteries-included toolset for efficient Redux development. |
 | [Reed Barger](https://reedbarger.com/) | Reed Barger Blog. |
 | [useHooks](https://usehooks.com/) | Easy to understand React Hook recipes by ui.dev |
 | [usehooks-typescript](https://usehooks-typescript.com/) | useHooks(🔥).ts Simple React hooks, ready to use, written in typescript. |
@@ -686,10 +696,12 @@
 | [React Native](https://reactnative.dev/) | Learn once, write anywhere. |
 | [React Native Animatable](https://github.com/oblador/react-native-animatable) | Declarative transitions and animations for React Native. |
 | [React Native Bottom Sheet](https://gorhom.github.io/react-native-bottom-sheet/) | A performant interactive bottom sheet with fully configurable options. |
+| [React Native Easy Grid](https://www.npmjs.com/package/react-native-easy-grid) | This is NOT-JUST-ANOTHER-GRID-LAYOUT library! We are trying to simplify flexbox with easier approach. |
 | [React Native Elements](https://reactnativeelements.com/) | A React Native framework for making cross platform applications. |
 | [React Native Example](https://reactnativeexample.com/) | React Native Example. |
 | [React Native Epic Spinners](https://www.npmjs.com/package/react-native-epic-spinners) | This library is the React Native's built-in Animated implementation of epic-spinners. |
 | [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/) | Declarative API exposing platform native touch and gesture system to React Native. |
+| [React Native Keyboard Aware Scroll View](https://www.npmjs.com/package/react-native-keyboard-aware-scroll-view) | A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput. |
 | [React Navigation](https://reactnavigation.org/) | Routing and navigation for Expo and React Native apps. |
 | [React Native Paper](https://callstack.github.io/react-native-paper/) | Paper is a collection of customizable and production-ready components for React Native, following Google’s Material Design guidelines. |
 | [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) | React Native's Animated library reimplemented. |
@@ -735,10 +747,12 @@
 | Link | Description |
 | ---- | ----------- |
 | [Daisy UI](https://daisyui.com/) | The most popular, free and open-source Tailwind CSS component library. |
+| [Flowbite](https://flowbite.com) | Build websites even faster with components on top of Tailwind CSS |
 | [Gradient Generator](https://hypercolor.dev/generator) | Create your own Tailwind CSS gradient with the full Tailwind CSS color library and the extended radial and conic gradient options provided through Hypercolor. |
 | [Headless UI](https://headlessui.dev/) | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [HyperUI](https://www.hyperui.dev) | HyperUI is a collection of free Tailwind CSS components that can be used in your next project. With a range of components, you can build your next marketing website, admin dashboard, ecommerce store and much more. |
 | [Kitwind](https://kitwind.io/products/kometa) | We are giving away our first UI kit for free. It includes over 130 sections, built with TailwindCSS, for your awesome projects. |
+| [Konsta UI](https://konstaui.com) | Pixel perfect mobile UI components built with Tailwind CSS. |
 | [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0. It's all compatible with React, VueJS and Angular application. |
 | [TailBlocks](https://tailblocks.cc/) | Ready-to-use Tailwind CSS blocks. |
 | [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) | A unique collection of Copy & Paste TailwindCSS buttons 🙌. |
@@ -829,6 +843,7 @@
 | [Avataaars generator](https://getavataaars.com/) | avataaars generator is a free online avatar generator for anyone to make their beautiful personal avatar easily! |
 | [BIG TEXT Letters Font Generator](https://fsymbols.com/generators/tarty/) | Write your text with BIG LETTERS! You'll love ▀█▀ █▬█ █ ▄█▀ large font generator ♡. I've also made another cool generator you'll find here known around as █▀█ █▄█ ▀█▀ nut and █▬█ █ ▀█▀ hit font. |
 | [BlobMaker](https://www.blobmaker.app/) | Blobmaker is a free generative design tool made with 💕 by z creative labs, to help you quickly create random, unique, and organic-looking SVG shapes. |
+| [Can I Email](https://www.caniemail.com) | Can I Email |
 | [Can I Use](https://caniuse.com/) | Can I Use |
 | [Checklist Design](https://www.checklist.design) | A collection of the best design practices. |
 | [Choose an open source license](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. |
@@ -870,8 +885,10 @@
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
 | [Type Anything](https://app.typeanything.io) | Type Anything – Test & create the perfect typography combinations. |
 | [Type Scale](https://type-scale.com/) | Type Scale. |
+| [Web Code Tools](https://webcode.tools) | Welcome to Web Code Tools; the best tools for web developers. Here, you’ll find code generators to help you with your front-end web projects. If you don't see something that you wish was here, send me an email and I'll do my best to create a tool for you.  |
 | [Web Skills](https://andreasbm.github.io/web-skills/#fundamentals) | Web Skills is a visual overview of useful skills to learn as a web developer.  |
 | [Yandex](https://yandex.com) | yandex. |
+| [Zeal](https://zealdocs.org) | Zeal is an offline documentation browser for software developers. |
 
 ## Work
 | Link | Description |
