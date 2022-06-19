@@ -128,9 +128,12 @@
 | [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) | Check My Links is a link checker that crawls through your webpage and looks for broken links. |
 | [Click and Clean](https://chrome.google.com/webstore/detail/click-and-clean/mgngmngjioknlgjjaiiamcdbahombpfb?hl=en) | Quickly delete your browsing data - open windows, browsing history, cookies, downloads history, form data, caches etc. |
 | [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies. |
+| [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) | Extract CSS and build beautiful styleguides. |
 | [daily.dev ](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=es) | Get a feed of the hottest developer news personalized to you. |
 | [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) | Write your best with Grammarly for Chrome. |
 | [Grid Ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj?hl=es) | Create grids and measure their distance easily. |
+| [Heurio](https://chrome.google.com/webstore/detail/heurio-ux-check-visual-fe/pjdbofhiijhapnmpgilkeammkanglfdj) | Perfect for UX check, design & development review, heuristic evaluation, user testing and more. |
+| [Imageye](https://chrome.google.com/webstore/detail/image-downloader-imageye/agionbommeaifngbhincahgmoflcikhm) | Find and download all images on a web page. |
 | [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. |
 | [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb?hl=en) | Video messaging for work. |
 | [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es) | Adds React debugging tools to the Chrome Developer Tools |
@@ -138,6 +141,8 @@
 | [Search Stackoverflow](https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj) | Stackoverflow Search Extension. |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en) | Extract colours from any website. |
 | [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) | Redesign the web with Stylus, a user styles manager. Stylus allows you to easily install themes and skins for many popular sites. |
+| [svg-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) | 
+A tool to quickly preview and get all the svg assets from a website. |
 | [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en) | Capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application. |
 | [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) | Responsive design testing tool to test any website’s responsiveness – it only takes 2 seconds! Emulate various screen resolutions. |
 | [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=es) | Chrome and Firefox DevTools extension for debugging Vue.js applications. |
