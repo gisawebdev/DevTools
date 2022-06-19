@@ -646,6 +646,7 @@
 | [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) | A lightweight magic-move library for configurable layout transitions. |
 | [React Gsap](https://www.npmjs.com/package/react-gsap) | lets you use the GreenSock Animation Platform (GSAP) in React in a fully declarative way. It abstracts away the direct use of the GSAP Tween and Timeline functions. |
 | [React Loading](https://github.com/fakiolinho/react-loading) | Easy to use loading animations for React projects. Uses SVG animations from Brent Jackson's loading project. |
+| [React Location](https://react-location.tanstack.com) | Powerful, enterprise-grade routing for React applications. |
 | [React Haiku](https://reacthaiku.online) | React Hooks & Utilities that save time and lines of code. |
 | [React Hook Form](https://react-hook-form.com/) | Performant, flexible and extensible forms with easy-to-use validation. |
 | [React Hot Toast](https://react-hot-toast.com/) | The Best Toast in Town. Smoking hot React notifications. |
@@ -753,6 +754,7 @@
 | [HyperUI](https://www.hyperui.dev) | HyperUI is a collection of free Tailwind CSS components that can be used in your next project. With a range of components, you can build your next marketing website, admin dashboard, ecommerce store and much more. |
 | [Kitwind](https://kitwind.io/products/kometa) | We are giving away our first UI kit for free. It includes over 130 sections, built with TailwindCSS, for your awesome projects. |
 | [Konsta UI](https://konstaui.com) | Pixel perfect mobile UI components built with Tailwind CSS. |
+| [Material Tailwind](https://www.material-tailwind.com) | Material Tailwind is an easy to use components library for Tailwind CSS and Material Design. |
 | [Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 2.0. It's all compatible with React, VueJS and Angular application. |
 | [TailBlocks](https://tailblocks.cc/) | Ready-to-use Tailwind CSS blocks. |
 | [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) | A unique collection of Copy & Paste TailwindCSS buttons 🙌. |
@@ -883,6 +885,7 @@
 | [UnScreen](https://www.unscreen.com/) | Remove Video Background. |
 | [Tauri](https://tauri.studio) | Build smaller, faster, and more secure desktop applications with a web frontend |
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
+| [Transform](https://transform.tools) | Transform |
 | [Type Anything](https://app.typeanything.io) | Type Anything – Test & create the perfect typography combinations. |
 | [Type Scale](https://type-scale.com/) | Type Scale. |
 | [Web Code Tools](https://webcode.tools) | Welcome to Web Code Tools; the best tools for web developers. Here, you’ll find code generators to help you with your front-end web projects. If you don't see something that you wish was here, send me an email and I'll do my best to create a tool for you.  |
