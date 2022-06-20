@@ -141,8 +141,7 @@
 | [Search Stackoverflow](https://chrome.google.com/webstore/detail/search-stackoverflow/gmdolelhfhbldobljhbhdgljbajhfilj) | Stackoverflow Search Extension. |
 | [Site Palette](https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh?hl=en) | Extract colours from any website. |
 | [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) | Redesign the web with Stylus, a user styles manager. Stylus allows you to easily install themes and skins for many popular sites. |
-| [svg-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) | 
-A tool to quickly preview and get all the svg assets from a website. |
+| [svg-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) | A tool to quickly preview and get all the svg assets from a website. |
 | [Usersnap](https://chrome.google.com/webstore/detail/usersnap-capture-visual-f/khehmhbaabkepkojebhcpjifcmojdmgd?hl=en) | Capture your screen, collect user feedback, and track bugs reports on any website, prototype, or application. |
 | [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) | Responsive design testing tool to test any website’s responsiveness – it only takes 2 seconds! Emulate various screen resolutions. |
 | [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=es) | Chrome and Firefox DevTools extension for debugging Vue.js applications. |
