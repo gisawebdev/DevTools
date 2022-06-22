@@ -89,6 +89,9 @@
 | [kentcdodds](https://kentcdodds.com/blog/)| Kent C. Dodds Blog. |
 | [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)| Majo here! 👋🏻, realizo apuntes a mano sobre las tecnologías más utilizadas. |
 | [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)| Aprende conceptos de tecnología, programación y otras cosas, en español, gratis y ¡Explicados con gatitos! |
+| [Developer cheatsheets](http://www.developer-cheatsheets.com)| Developer cheatsheets. |
+| [Reed Barger](https://www.freecodecamp.org/news/author/reed/)| React developer who loves to make incredible apps. Showing you how at ReactBootcamp.com. |
+| [Eric The Coder](https://dev.to/ericchapman)| Businessman and blogger #Javascript, #Python and #PHP. My favorite frameworks/librairies are #React, #Laravel, and #Django. I am also a fan of #TailwindCSS. |
 ## Bundles
 | Link | Description |
 | ---- | ----------- |
