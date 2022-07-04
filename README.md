@@ -693,11 +693,7 @@ for developing fast and powerful web interfaces. |
 | [React DnD](https://react-dnd.github.io/react-dnd/about) | React DnD is a set of React utilities to help you build complex drag and drop interfaces while keeping your components decoupled. It is a perfect fit for apps like Trello and Storify, where dragging transfers data between different parts of the application, and the components change their appearance and the application state in response to the drag and drop events. |
 | [React Content Loader](https://skeletonreact.com/) | Tool to easily create your animated skeleton-screen components, replacing usual loading and delivering better experiences for users, giving a wireframe of your pages like placeholders boxes for content and images. Supports React, React Native, Vue, and vanilla HTML. |
 | [React Device Detect](https://www.npmjs.com/package/react-device-detect) | Detect device, and render view according to the detected device type. |
-| [React Docs](https://beta.reactjs.org) | We are rewriting the React documentation with a few differences:
-- All explanations are written using Hooks rather than classes.
-- We’ve added interactive examples and visual diagrams.
-- Guides include challenges (with solutions!) to check your understanding.
-This beta website contains the current draft of the new docs. |
+| [React Docs](https://beta.reactjs.org) | We are rewriting the React documentation with a few differences: - All explanations are written using Hooks rather than classes. - We’ve added interactive examples and visual diagrams. - Guides include challenges (with solutions!) to check your understanding. This beta website contains the current draft of the new docs. |
 | [Recharts](https://recharts.org/en-US/) | A composable charting library built on React components |
 | [React Examples](https://reactjsexample.com/) | React Examples |
 | [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) | A lightweight magic-move library for configurable layout transitions. |
