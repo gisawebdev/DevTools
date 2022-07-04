@@ -496,6 +496,7 @@
 | [BrowserStack](https://www.browserstack.com/) | App & Browser Testing Made Easy. |
 | [Build Redux](https://buildredux.com/) | We Build PCs For Gamers. |
 | [Bundlephobia](https://bundlephobia.com/) | Find the cost of adding a npm package to your bundle. |
+| [Component party](https://component-party.dev) | Many JS developers don't have a good overview of every existing JS framework with their own syntax and features. How do we solve this ? Developers love having framework overview by examples. It's a quick introduction before going deeper. |
 | [Convert JSON](https://quicktype.io/) | Convert JSON into gorgeous, typesafe code in any language. |
 | [Cybrary](https://www.cybrary.it/) | The Leading Cybersecurity Professional Development Platform |
 | [Deepl](https://www.deepl.com/es/translator) | Millions translate with DeepL every day. |
