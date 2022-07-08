@@ -228,8 +228,7 @@
 | [Stylelint](https://stylelint.io) | A mighty, modern linter that helps you avoid errors and enforce conventions in your styles. |
 | [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
-| [UIkit](https://getuikit.com) | A lightweight and modular front-end framework
-for developing fast and powerful web interfaces. |
+| [UIkit](https://getuikit.com) | A lightweight and modular front-end framework for developing fast and powerful web interfaces. |
 | [UnusedCSS - Remove Unused CSS](https://unused-css.com/?gclid=Cj0KCQjw-daUBhCIARIsALbkjSa2cV8FjxMhszReLIWKu8Gq5vo93b72EOmXarq2HHemb-2ii3-O3VgaAgnzEALw_wcB) | Easily Clean Up Your Unused CSS Rules. |
 | [Water.css](https://watercss.kognise.dev) | Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer. |
 | [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | One of the CSS units I use most is the wonderful % — so handy for positioning elements on the page. |
