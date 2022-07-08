@@ -323,6 +323,15 @@ for developing fast and powerful web interfaces. |
 | [Oh My Git](https://ohmygit.org/) | An open source game about learning Git! |
 | [TypingClub](https://www.typingclub.com/) | Learn Touch Typing for free! |
 | [VIM Adventures](https://vim-adventures.com/) | Learning VIM while playing a game. |
+
+## Git
+| Link | Description |
+| ---- | ----------- |
+| [Git Explorer](https://gitexplorer.com/) | Find the right commands you need without digging through the web. |
+| [GitHub Guides](https://guides.github.com/) | GitHub Guides |
+| [GitIgnore](https://www.toptal.com/developers/gitignore) | Create useful .gitignore files for your project. |
+| [Gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages. |
+
 ## Hosting
 | Link | Description |
 | ---- | ----------- |
@@ -542,9 +551,7 @@ for developing fast and powerful web interfaces. |
 | [EmojiFinder](https://emojifinder.com/) | Type a word like love or yeah or music and we’ll show you matching emoji. |
 | [Exercism](https://exercism.io/) | Get really good at programming. |
 | [Front End Interview Handbook](https://www.frontendinterviewhandbook.com) | Front end interview preparation materials for busy engineers - trivias, coding, algorithms, front end system design and more! |
-| [Git Explorer](https://gitexplorer.com/) | Find the right commands you need without digging through the web. |
-| [GitHub Guides](https://guides.github.com/) | GitHub Guides |
-| [GitIgnore](https://www.toptal.com/developers/gitignore) | Create useful .gitignore files for your project. |
+
 | [Go Light Stream](https://golightstream.com/) | Create more professional and impactful live streams. |
 | [Glide](https://www.glideapps.com/) | Powerful apps from spreadsheets. |
 | [GreenSock](https://greensock.com/gsap/) | Professional-grade JavaScript animation for the modern web. |
