@@ -550,7 +550,6 @@
 | [EmojiFinder](https://emojifinder.com/) | Type a word like love or yeah or music and we’ll show you matching emoji. |
 | [Exercism](https://exercism.io/) | Get really good at programming. |
 | [Front End Interview Handbook](https://www.frontendinterviewhandbook.com) | Front end interview preparation materials for busy engineers - trivias, coding, algorithms, front end system design and more! |
-
 | [Go Light Stream](https://golightstream.com/) | Create more professional and impactful live streams. |
 | [Glide](https://www.glideapps.com/) | Powerful apps from spreadsheets. |
 | [GreenSock](https://greensock.com/gsap/) | Professional-grade JavaScript animation for the modern web. |
