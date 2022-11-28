@@ -43,6 +43,7 @@
 | [13 Things](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/) | You Should Know Before You Enter In Web Development |
 | [6 Best practices](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929) | for managing your repositories in Github. |
 | [Airbnb JavaScript](https://github.com/airbnb/javascript) | Style Guide. |
+| [Color & Contrast](https://colorandcontrast.com/#/) | An interactive guide to color & contrast |
 | [Como hacer un dark mode fácil, rápido y sencillo](https://rsbmk.ml/post/dark-mode) | Como hacer un dark mode fácil, rápido y sencillo. |
 | [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) | concepts adapted for JavaScript .|
 | [Do You Really Need a React State Management Library?](https://blog.bitsrc.io/react-do-you-really-need-an-external-library-for-state-management-28f67d03ebe5) | What you need to know before using React libraries like Redux |
@@ -212,9 +213,11 @@
 | [Loaders](https://uiball.com/loaders/) | Free loaders & spinners for your next project. Built with HTML, CSS and a soupçon of SVG. |
 | [Lofi UI](https://lofiui.co/) | Re-usable and re-workable components designed to be hacked at. Start here, add your own style, and build something awesome. |
 | [MaterialCSS](https://materializecss.com/) | A modern responsive front-end framework based on Material Design. |
+| [Master UI](https://css.master.co/) | A Virtual CSS language with enhanced syntax. |
 | [MarkSheet](https://marksheet.io) | A free HTML and CSS tutorial. |
 | [Neumorphism](https://neumorphism.io/#ffffff) | Generate Soft-UI CSS code. |
 | [Normalize.css](https://necolas.github.io/normalize.css/) | A modern, HTML5-ready alternative to CSS resets. |
+| [papanasi](https://papanasi.js.org/?path=/story/%F0%9F%93%97documentation-introduction--page) |The Universal UI Library |
 | [Patterns](https://freebiesupply.com/blog/css-background-patterns/) | I’m always amazed at the things you can make with CSS3. |
 | [Pixel Art CSS](https://www.pixelartcss.com/) | Pixel Art to CSS is an online editor that helps you with that task. |
 | [Primer CSS](https://primer.style/css/) | Highly reusable, flexible styles. |
@@ -229,6 +232,7 @@
 | [Theme UI](https://theme-ui.com/) | Theme UI is a library for creating themeable user interfaces based on constraint-based design principles. Build custom component libraries, design systems, web applications, Gatsby themes, and more with a flexible API for best-in-class developer ergonomics. |
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
 | [UIkit](https://getuikit.com) | A lightweight and modular front-end framework for developing fast and powerful web interfaces. |
+| [UI Verse](https://uiverse.io/) | Let's build a better web together. |
 | [UnusedCSS - Remove Unused CSS](https://unused-css.com/?gclid=Cj0KCQjw-daUBhCIARIsALbkjSa2cV8FjxMhszReLIWKu8Gq5vo93b72EOmXarq2HHemb-2ii3-O3VgaAgnzEALw_wcB) | Easily Clean Up Your Unused CSS Rules. |
 | [Water.css](https://watercss.kognise.dev) | Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer. |
 | [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents) | One of the CSS units I use most is the wonderful % — so handy for positioning elements on the page. |
@@ -484,6 +488,19 @@
 | [Leaflet](https://leafletjs.com) | an open-source JavaScript library for mobile-friendly interactive maps |
 | [Mapbox](https://www.mapbox.com/) | Maps and location for developers. |
 | [MyMappi](https://mymappi.com/) | Mobility & Location solutions. |
+
+## MiduDev Pages
+| Link | Description |
+| ---- | ----------- |
+| [adventJS](https://adventjs.dev/es) | Pagina con 24 retos de programacion. |
+| [aprendejavascript](https://aprendejavascript.dev/) | Curso de JavaScript. |
+| [codember](https://codember.dev/) | Pagina con retos de programacion. |
+| [libros programacion gratis](https://github.com/midudev/libros-programacion-gratis) | Lista de libros sobre programación en Español y gratis |
+| [miduconf](https://miduconf.com/) | Conferencia de programacion y desarrollo. |
+| [midudev](https://midu.dev/) | Blog de Programacion. |
+| [React Wiki](https://www.reactjs.wiki/) | Preguntas típicas de React.js. |
+| [retos](https://retos.dev/) | Pagina con retos de programacion. |
+
 ## No Code
 | Link | Description |
 | ---- | ----------- |
@@ -539,6 +556,7 @@
 | [BrowserStack](https://www.browserstack.com/) | App & Browser Testing Made Easy. |
 | [Build Redux](https://buildredux.com/) | We Build PCs For Gamers. |
 | [Bundlephobia](https://bundlephobia.com/) | Find the cost of adding a npm package to your bundle. |
+| [Color Standards and Color Nomenclature](https://codepen.io/meodai/pen/abGjoLq) | Color Standards and Color Nomenclature. |
 | [Component party](https://component-party.dev) | Many JS developers don't have a good overview of every existing JS framework with their own syntax and features. How do we solve this ? Developers love having framework overview by examples. It's a quick introduction before going deeper. |
 | [Convert JSON](https://quicktype.io/) | Convert JSON into gorgeous, typesafe code in any language. |
 | [Cybrary](https://www.cybrary.it/) | The Leading Cybersecurity Professional Development Platform |
@@ -815,6 +833,8 @@
 | [SVG Artista](https://svgartista.net/) | Super handy SVG drawing animation tool. |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) | Customize and apply backgrounds fast. |
 | [Vector Logo](https://worldvectorlogo.com/) | Download vector logos. |
+| [SVGOMG](https://jakearchibald.github.io/svgomg/) | SVGOMG |
+| [Svg Viewer](https://www.svgviewer.dev) | svg viewer. |
 
 ## Tailwind
 | Link | Description |
@@ -866,6 +886,7 @@
 | [Devtooly](https://devtooly.com) | Frontend Developer tools, all-in-one place! |
 | [Easy Edit Utility](https://davidhdev.github.io/easy-edit/) | Drag the link below to your bookmarks bar and use it on any web page! |
 | [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
+| [Fast Node Manager](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust |
 | [First Aid Git](https://firstaidgit.io/#/) | A searchable collection of the most frequently asked Git questions. |
 | [Fontjoy](https://fontjoy.com) | Font vectors are a form of transfer learning that can be used to create novel font combinations. |
 | [Gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages. |
@@ -877,6 +898,7 @@
 | [Local PDF Tools](https://localpdf.tech/) | Local PDF uses Webassembly to edit your PDFs inside your Browser. |
 | [Magic Pattern](https://www.magicpattern.design/) | Beautiful Graphics With 10+ Tools. Instantly & Effortless! |
 | [MetaTags](https://metatags.io/) | Meta tags are specific snippets of text and image content that provide a summary for a webpage. |
+| [Mitosis](https://mitosis.builder.io/?outputTab=G4VwpkA%3D) | Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. |
 | [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
 | [Mockaroo](https://www.mockaroo.com/) | Data Fake Generator. |
 | [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
@@ -901,7 +923,7 @@
 | [ShortcutFoo](https://www.shortcutfoo.com/) | Choose shortcuts to practice. |
 | [Squircley](https://squircley.app) | Looking to add some premium squircley goodness to add to your designs? Squircley is all you need to start creating beautiful organic shapes ready to use for logos, icons and background images. |
 | [Squoosh](https://squoosh.app) | Squoosh is an image compression web app that reduces image sizes through numerous formats. |
-| [Svg Viewer](https://www.svgviewer.dev) | svg viewer. |
+| [unavatar](https://unavatar.io/) | The service will determinate the user avatar querying multiple social providers and serve it to you. |
 | [UnScreen](https://www.unscreen.com/) | Remove Video Background. |
 | [TinyWow](https://tinywow.com) | Tools That Solve Your Files Problem |
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
