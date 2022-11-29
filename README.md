@@ -268,10 +268,12 @@
 | [Jitter](https://jitter.video) | Motion design, made simple. |
 | [Photopea](https://www.photopea.com/) | Photopea: advanced image editor. |
 | [Semantic UI](https://semantic-ui.com/) | User Interface is the language of the web. |
+
 ## Diagrams
 | Link | Description |
 | ---- | ----------- |
 | [Draw.io](https://www.draw.io/) | draw.io is proprietary software for making diagrams and charts. |
+
 ## Documentation
 | Link | Description |
 | ---- | ----------- |
@@ -282,15 +284,18 @@
 | [Hostgator](https://www.hostgator.com/) | Go where the pros host. |
 | [Hostinger](https://www.hostinger.com/) | Order Premium Web Hosting for at least 12 months and get a free .COM domain for the first year. Free SSL included. |
 | [NameCheap](https://www.namecheap.com/) | Buy a domain and everything else you need. |
+
 ## FLEXBOX & Grid
 | Link | Description |
 | ---- | ----------- |
 | [FlexBox](https://flexbox.malven.co) | FlexBox |
 | [Grid](https://grid.malven.co) | Grid |
+
 ## Formmater
 | Link | Description |
 | ---- | ----------- |
 | [Prettier](https://prettier.io/) | An opinionated code formatter, Supports many languages, Integrates with most editors, Has few options. |
+
 ## FrameWork
 | Link | Description |
 | ---- | ----------- |
@@ -305,6 +310,7 @@
 | [Redwood](https://redwoodjs.com) | Redwood is the open source, full-stack web framework designed to help you grow from side project to startup. |
 | [Solid JS](https://www.solidjs.com) | Simple and performant reactivity for building user interfaces. |
 | [Tauri](https://tauri.studio) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+
 ## Flutter
 | Link | Description |
 | ---- | ----------- |
@@ -312,6 +318,7 @@
 | [Flutter](https://flutter.dev/) | Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase. |
 | [Flutter Awesome](https://flutterawesome.com/) | Flutter Awesome |
 | [Pub](https://pub.dev/) | The official package repository for Dart and Flutter apps. |
+
 ## Games
 | Link | Description |
 | ---- | ----------- |
@@ -380,6 +387,7 @@
 | [Polaris icon](https://polaris-icons.shopify.com/) | Polaris icon explorer. |
 | [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything. |
 | [Visiwig](https://www.visiwig.com/) | click + paste graphics that elevate your website and brand visuals. |
+
 ## Illustration
 | Link | Description |
 | ---- | ----------- |
@@ -392,6 +400,7 @@
 | [Storyset](https://storyset.com/) | Awesome free customizable illustrations for your next project. |
 | [Storytale](https://storytale.io/) | High-class illustrations for web and mobile projects. |
 | [UnDraw](https://undraw.co/) | Create better designed websites, products and applications. |
+
 ## Inspiration
 | Link | Description |
 | ---- | ----------- |
@@ -404,6 +413,7 @@
 | [One Page Love](https://onepagelove.com) | One Page websites, templates and resources. |
 | [oozled](http://oozled.com) | Web Designing & Digital Marketing. |
 | [Site Inspire](https://www.siteinspire.com) | Siteinspire is a showcase of the finest web and interactive design. |
+
 ## JavaScript 
 | Link | Description |
 | ---- | ----------- |
@@ -433,6 +443,7 @@
 | [Glimmer](https://glimmerjs.com/) | Fast and light-weight UI components for the web. |
 | [Hammer.js](https://hammerjs.github.io/) | Add touch gestures to your webapp. |
 | [Immer.js](https://github.com/immerjs/immer) | Create the next immutable state tree by simply modifying the current tree. |
+| [JavaScript Patterns](https://javascriptpatterns.vercel.app/patterns) | This website is related to the FrontendMasters workshop on JavaScript Patterns. |
 | [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) | The easiest way to  learn  &  practice  modern JavaScript. |
 | [Loaders](https://uiball.com/loaders/) | Free loaders & spinners for your next project. Built with HTML, CSS and a soupçon of SVG. |
 | [Luxon](https://moment.github.io/luxon/#/) | A powerful, modern, and friendly wrapper for JavaScript dates and times. |
@@ -543,6 +554,9 @@
 ## Pages
 | Link | Description |
 | ---- | ----------- |
+| [Recursos Cósmicos](https://recursoscosmicos.com/) | Recursos Cósmicos |
+| [SUI](https://github.com/SUI-Components/sui) | SUI is a set of packages which goal to ease development of SUI-based components and web apps |
+| [workspaces](https://www.workspaces.xyz/) | Explore the workspaces of creative individuals, sent directly to your inbox every Saturday and Sunday. |
 | [10 Minute Mail](https://10minutemail.com/) | Free Temporary Email. |
 | [30 seconds of code](https://www.30secondsofcode.org/) | 30 seconds of code |
 | [AccountKiller](https://www.accountkiller.com/en/home) | Want to ditch your online account? Shouldn’t be a problem, right? Unfortunately, on many websites, including popular ones like Facebook, deleting your account can be a real pain. |
@@ -629,12 +643,14 @@
 | [Weekly Visitor Report](https://clearbit.com/resources/tools/visitor-report) | Get a weekly report of the companies visiting your website, giving you complete visibility — for free. |
 | [WIFI Map](https://www.wifimap.io/) | Free Internet Connectivity Tool |
 | [Z-Library](https://b-ok.lat/) | Z-Library is one of the largest online libraries in the world that contains over 8,533,000 books and 84,837,000 articles. We aim to make literature accessible to everyone. Today (September, 15th) we are launching additional fundraising for project maintenance and development . |
+
 ## Payment Platforms
 | Link | Description |
 | ---- | ----------- |
 | [Buy Me a Coffee](https://www.buymeacoffee.com/) | Buy Me a Coffee is a simple, meaningful way to fund your creative work. |
 | [Patreon](https://www.patreon.com/) | Change the way art is valued. |
 | [Stripe](https://stripe.com/) | Payments infrastructure for the internet. |
+
 ## Photos
 | Link | Description |
 | ---- | ----------- |
@@ -674,6 +690,7 @@
 | [Django](https://www.djangoproject.com/) | Django makes it easier to build better web apps more quickly and with less code. |
 | [Flask](https://palletsprojects.com/p/flask/) | Flask is a lightweight WSGI web application framework. |
 | [Python](https://www.python.org/) | Python is a programming language that lets you work quickly and integrate systems more effectively. |
+
 ## Radio
 | Link | Description |
 | ---- | ----------- |
@@ -681,9 +698,14 @@
 | [NCS](https://ncs.io/) | Music without limitations. |
 | [Radio.x-team](https://radio.x-team.com/) | Radio.x-team. |
 | [Spaces.fm](https://spaces.fm/) | Spaces.fm |
+
 ## React
 | Link | Description |
 | ---- | ----------- |
+| [⌘K](https://cmdk.paco.me/) | Fast, composable, unstyled command menu for React. |
+| [useAnimations](https://useanimations.com/) | Animated icons in Lottie Framework for immediate implementation to your apps or websites. |
+| [React Express](https://www.react.express/) | React Express |
+| [react-coding-challenges](https://github.com/alexgurr/react-coding-challenges/) | We're looking for people to come and help work on the latest challenge Coinbee. If you're interested, get in touch via our slack community or via my website alexgurr.com! |
 | [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Congratulations on deciding to participate in 30 days of React programming challenge. |
 | [45 NPM Packages](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224) | 45 NPM Packages to Solve 16 React Problems |
 | [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
