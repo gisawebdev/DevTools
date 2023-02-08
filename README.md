@@ -82,6 +82,7 @@
 | [Node.js](https://nodejs.org/) | Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. |
 | [Restify](http://restify.com/) | The future of Node.js REST development. |
 | [Sails](https://sailsjs.com/) | The MVC framework for Node.js |
+| [Sanity](https://www.sanity.io/) | Build remarkable experiences at scale. Sanity is a customizable solution that treats content as data to power your digital business. |
 | [Strapi](https://strapi.io/) | Design APIs fast, manage content easily. |
 ## Blogs
 | Link | Description |
@@ -902,6 +903,7 @@
 ## Tailwind
 | Link | Description |
 | ---- | ----------- |
+| [UI shadcn](https://ui.shadcn.com/docs) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [Daisy UI](https://daisyui.com/) | The most popular, free and open-source Tailwind CSS component library. |
 | [Flowbite](https://flowbite.com) | Build websites even faster with components on top of Tailwind CSS |
 | [Gradient Generator](https://hypercolor.dev/generator) | Create your own Tailwind CSS gradient with the full Tailwind CSS color library and the extended radial and conic gradient options provided through Hypercolor. |
@@ -957,10 +959,12 @@
 | [Fast Node Manager](https://github.com/Schniz/fnm) | 🚀 Fast and simple Node.js version manager, built in Rust |
 | [First Aid Git](https://firstaidgit.io/#/) | A searchable collection of the most frequently asked Git questions. |
 | [Fontjoy](https://fontjoy.com) | Font vectors are a form of transfer learning that can be used to create novel font combinations. |
+| [Fonty.io](https://fonty.io/) | Enter a website URL and our tool will analyze the fonts used on the site and display them for you to view. This can be useful for web designers and developers looking to learn more about the typography used on a specific website. |
 | [Gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages. |
 | [gridzzly](http://gridzzly.com) | Make your own grid paper with Gridzzly |
 | [Hashtag Generator](https://hashtagstack.com/) | Trusted by more than 500,000 Influencers, Agencies, Brands and Creators. Hashtag Stack is the best Instagram HASHTAG GENERATOR. We offer Advanced analytics, Hashtags Collections, and it's FREE! |
 | [Hidden Tools](https://hiddentools.dev/) | Discover a wide collection of tools made by the community. |
+| [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) | How Secure Is My Password? |
 | [Image Extractor](https://extract.pics/) | From any public website by using a virtual browser |
 | [Inpaint](https://theinpaint.com) | Magically Remove Objects From Your Photos Online! |
 | [Link-to-qr](https://link-to-qr.com/) | link-to-qr.com |
@@ -969,11 +973,13 @@
 | [Magic Pattern](https://www.magicpattern.design/) | Beautiful Graphics With 10+ Tools. Instantly & Effortless! |
 | [Markup Validation Service](https://validator.w3.org/) | Check the markup (HTML, XHTML, …) of Web documents |
 | [MetaTags](https://metatags.io/) | Meta tags are specific snippets of text and image content that provide a summary for a webpage. |
+| [Microsoft PC Manager](https://pcmanager-en.microsoft.com/) | Safeguard your PC in a quiet and reliable way |
 | [mintlify](https://mintlify.com/) | Beautiful documentation that converts users |
 | [Mitosis](https://mitosis.builder.io/?outputTab=G4VwpkA%3D) | Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. |
 | [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
 | [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
 | [Mockaroo](https://www.mockaroo.com/) | Data Fake Generator. |
+| [namecheckr](https://www.namecheckr.com/) | namecheckr.com is a tool to research domain and social username availability. |
 | [New Project](https://railway.app/new) | Deploy your app to production effortlessly. |
 | [Ngrok](https://ngrok.com/) | Spend more time programming. One command for an instant, secure URL to your localhost server through any NAT or firewall. |
 | [Npkill](https://www.npmjs.com/package/npkill) | This tool allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay! |
@@ -983,6 +989,7 @@
 | [Profile Pic Maker](https://pfpmaker.com/) | Create an awesome profile picture for free |
 | [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
 | [QR Generator wifi](https://qrcode.tec-it.com/es/wifi) | QR Generator wifi. |
+| [QuickLook](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S?hl=en-us&gl=us) | QuickLook enables a very quick preview of file contents by pressing the Spacebar. |
 | [ReactiveX](http://reactivex.io/) | An API for asynchronous programming with observable streams. |
 | [Readme](https://readme.so/) | Our simple editor allows you to quickly add and customize all the sections you need for your project's readme. |
 | [Remove.bg](https://www.remove.bg/) | 100% Automatically and Free. |
@@ -1005,6 +1012,7 @@
 | [Tomas Notion](https://tomasnotion.typedream.app/) | Notion template. |
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
 | [Transform](https://transform.tools) | Transform |
+| [Twinkle Tray](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK?hl=en-us&gl=us) | Twinkle Tray lets you easily manage the brightness levels of multiple monitors. Even though Windows 10 & 11 are capable of adjusting the backlight on most monitors, it typically doesn't support external monitors. Windows also lacks any ability to manage the brightness of multiple monitors.  |
 | [Type Anything](https://app.typeanything.io) | Type Anything – Test & create the perfect typography combinations. |
 | [Type Scale](https://type-scale.com/) | Type Scale. |
 | [unavatar](https://unavatar.io/) | The service will determinate the user avatar querying multiple social providers and serve it to you. |
