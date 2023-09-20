@@ -39,6 +39,9 @@
 | Link | Description |
 | ---- | ----------- |
 | [10 Most Important Meta Tags](https://www.searchenginejournal.com/important-tags-seo/156440/#close) | You Need to Know for SEO. |
+| [11 Useful NPM Packages Every Web Developer Should Know](https://www.developerupdates.com/blog/11-useful-npm-packages-every-web-developer-should-know) | 11 Useful NPM Packages Every Web Developer Should Know |
+| [Atajos NPM](https://diegochavez-dc.medium.com/configuraci%C3%B3n-personalizada-estableciendo-valores-por-defecto-al-iniciar-un-proyecto-con-npm-9695ececc483) | Configuración personalizada: Estableciendo valores por defecto al iniciar un proyecto con NPM |
+| [The problem with disabled buttons and what to do instead](https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/) | The problem with disabled buttons and what to do instead |
 | [10 Tips for Writing](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/) | Clean and Scalable JavaScript. |
 | [13 Things](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/) | You Should Know Before You Enter In Web Development |
 | [6 Best practices](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929) | for managing your repositories in Github. |
@@ -89,11 +92,15 @@
 | ---- | ----------- |
 | [Aprende UX / UI](https://aprenderuxui.com)| Aprende UX / UI con lo que mi camino me ha enseñado Aprende los fundamentos de la usabilidad y del diseño web y de apps móviles y mejora tu capacidad como diseñador UX / UI o product designer con aquellas buenas prácticas que he adquirido con mi experiencia. |
 | [Carlosazaustre.es](https://carlosazaustre.es/blog)| Carlos Azaustre Blog. |
+| [rauno](https://rauno.me/)| rauno. |
 | [Dev](https://dev.to/)| DEV Community |
 | [Developer cheatsheets](http://www.developer-cheatsheets.com)| Developer cheatsheets. |
+| [joshwcomeau](https://www.joshwcomeau.com/)| joshwcomeau |
 | [Eric The Coder](https://dev.to/ericchapman)| Businessman and blogger #Javascript, #Python and #PHP. My favorite frameworks/librairies are #React, #Laravel, and #Django. I am also a fan of #TailwindCSS. |
 | [FlavioCopes](https://flaviocopes.com/)| Flavio Copes Blog. |
+| [add-testing-to-vite](https://vuesome.dev/articles/add-testing-to-vite/)| add-testing-to-vite. |
 | [Gourav](https://gourav.io/) | Gourav Goyal Blog. |
+| [chrispennington](https://chrispennington.blog/web/) | chrispennington Blog. |
 | [Hashnode](https://hashnode.com/)| Everything you need to start blogging as a developer! |
 | [kentcdodds](https://kentcdodds.com/blog/)| Kent C. Dodds Blog. |
 | [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)| Majo here! 👋🏻, realizo apuntes a mano sobre las tecnologías más utilizadas. |
@@ -187,9 +194,12 @@
 | ---- | ----------- |
 | [35 cool CSS Buttons](https://webdeasy.de/en/top-css-buttons-en/) | Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons! |
 | [Animate.css](https://animate.style/) | Just-add-water CSS animations. |
+| [animatedbackgrounds](https://animatedbackgrounds.me/) | animatedbackgrounds |
 | [AnimatiSS](https://xsgames.co/animatiss/) | Nice collection of CSS animations for your awesome web projects |
+| [uiverse](https://uiverse.io/) | Open-Source UI elements for any project |
 | [Animista.net](https://animista.net/play/basic/rotate-90) | Animista is a place where you can play with a collection of pre-made css animations, tweak them and get only those you will actually use. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
+| [Charts CSS](https://chartscss.org/) | CSS data visualization framework. |
 | [Atomic CSS on Steroids](https://acss.io) | CSS FOR COMPONENT-BASED FRAMEWORKS |
 | [BootStrap](https://getbootstrap.com/) | Build fast, responsive sites with Bootstrap. |
 | [Box-shadow.dev](https://box-shadow.dev/) | Box shadows are fun. This is a web app to help you create awesome box shadows. |
@@ -442,6 +452,7 @@
 | Link | Description |
 | ---- | ----------- |
 | [Algolia Places](https://community.algolia.com/places/) | Turn any ```<input>``` into an address autocomplete. |
+| [aimless](https://chriscavs.github.io/aimless-demo/) | The missing JavaScript randomness library. |
 | [Alpine.js](https://alpinejs.dev) | Your new, lightweight, JavaScript framework. |
 | [Anime.js](https://animejs.com/) | JavaScript animation engine. |
 | [ApexCharts.js](https://apexcharts.com/) | Modern & Interactive Open-source Charts. |
@@ -585,6 +596,12 @@
 | Link | Description |
 | ---- | ----------- |
 | [10 Minute Mail](https://10minutemail.com/) | Free Temporary Email. |
+| [web containers](https://webcontainers.io/) | Dev environments.
+In your web app. |
+| [Aprendiendo React ⚛️](https://github.com/midudev/aprendiendo-react?tab=readme-ov-file) | Curso para aprender React desde cero |
+| [Design patterns for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) | An ultra-simplified explanation of design patterns implemented in javascript |
+| [Data Structures & Algorithms](https://kirupa.com/data_structures_algorithms/#) | Want to be a coding ninja and slash your way through complex programming problems? Well, learning about data structures and algorithms is your secret weapon, and the articles here will get you all set up! |
+| [Emoji Kitchen](https://emoji.supply/kitchen/) | Create emojis. |
 | [30 seconds of code](https://www.30secondsofcode.org/) | 30 seconds of code |
 | [AccountKiller](https://www.accountkiller.com/en/home) | Want to ditch your online account? Shouldn’t be a problem, right? Unfortunately, on many websites, including popular ones like Facebook, deleting your account can be a real pain. |
 | [Alternativeto](https://alternativeto.net/) | 100,554 apps 818,870 likes 806,075 opinions about alternatives. |
@@ -741,6 +758,8 @@
 | Link | Description |
 | ---- | ----------- |
 | [⌘K](https://cmdk.paco.me/) | Fast, composable, unstyled command menu for React. |
+| [prismane](https://www.prismane.io/) | Build exceptional React apps with blazing speed. |
+| [Tremor](https://www.tremor.so/) | The React library to build dashboards fast. |
 | [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Congratulations on deciding to participate in 30 days of React programming challenge. |
 | [45 NPM Packages](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224) | 45 NPM Packages to Solve 16 React Problems |
 | [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
@@ -891,6 +910,7 @@
 | Link | Description |
 | ---- | ----------- |
 | [Generate smooth animated blobs](https://blobanimation.com) | Generate smooth animated blobs. |
+| [SVG Path Animation Generator Online](https://www.svgator.com/svg-path-animation) | Create a path animation in a drag and drop interface and bring your SVG to life within seconds. |
 | [Generate SVG Waves 🌊](https://svgwave.in/) | SVG Wave is a tiny, free and beautiful gradient SVG waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |
 | [SVG Artista](https://svgartista.net/) | Super handy SVG drawing animation tool. |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) | Customize and apply backgrounds fast. |
@@ -904,6 +924,7 @@
 | Link | Description |
 | ---- | ----------- |
 | [UI shadcn](https://ui.shadcn.com/docs) | Beautifully designed components built with Radix UI and Tailwind CSS. |
+| [Tailwindcss Animated](https://www.tailwindcss-animated.com/) | Build your custom animations with ease. |
 | [Daisy UI](https://daisyui.com/) | The most popular, free and open-source Tailwind CSS component library. |
 | [Flowbite](https://flowbite.com) | Build websites even faster with components on top of Tailwind CSS |
 | [Gradient Generator](https://hypercolor.dev/generator) | Create your own Tailwind CSS gradient with the full Tailwind CSS color library and the extended radial and conic gradient options provided through Hypercolor. |
@@ -936,6 +957,22 @@
 | Link | Description |
 | ---- | ----------- |
 | [10015](https://10015.io/) | All Online Tools in “One Box”. |
+| [pkg-size](https://pkg-size.dev/) | Find the true size of an npm package |
+| [Design Resources](https://designresourc.es/) | Design Resources |
+| [codewell](https://www.codewell.cc/) | Improve your HTML and CSS skills by practicing on real design templates. |
+| [Toools.design](https://www.toools.design/) | Discover highly useful Design Resources & Tools |
+| [thegoodlineheight](https://thegoodlineheight.com/) | thegoodlineheight |
+| [lite-youtube](https://github.com/justinribeiro/lite-youtube) | The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed. |
+| [Gamepad Tester and Debugger](https://hardwaretester.com/gamepad) | Gamepad Tester and Debugger |
+| [component.gallery](https://component.gallery/) | Designed to be a reference for anyone building component-based user interfaces, The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems. |
+| [screenlane](https://screenlane.com/) | screenlane |
+| [UI Skeleton Gallery](https://www.brandbird.app/tools/ui-skeleton-gallery) | A free customizable collection of SVG skeleton loader UI elements for design wireframes & mockups. |
+| [Prepros](https://prepros.io/) | Your Friendly Web Development Companion |
+| [lightest.app](https://lightest.app/) | Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors. |
+| [letsview](https://letsview.com/) | LetsView is an intelligent digital platform for interaction across multiple screens and platforms. |
+| [Chalk](https://www.npmjs.com/package/chalk) | Terminal string styling done right. |
+| [speedtest](https://www.npmjs.com/package/speedtest-net) | The whole speed test runs automatically, but a lot of events are available to get more info than you need. |
+| [Ora](https://www.npmjs.com/package/ora) | Elegant terminal spinner. |
 | [A List Apart](https://alistapart.com/) | Design for Safety, An Excerpt. |
 | [Adobe Podcast](https://podcast.adobe.com/) | AI-powered audio recording and editing, all on the web |
 | [Artista Pirata](https://www.artistapirata.com) | Artista Pirata |
@@ -1089,6 +1126,7 @@
 | Link | Description |
 | ---- | ----------- |
 | [arc.dev](https://arc.dev/) | The easiest way to find remote developer jobs. |
+| [holajuniors](https://holajuniors.com/) | DEVELOPERS JUNIOR PARA TUS PROYECTOS. |
 | [GeeksForGeeks](https://www.geeksforgeeks.org/) | Being the pro in programming can be easy, especially if you start with us! |
 | [HackerRank](https://www.hackerrank.com/) | Matching developers with great companies. |
 | [JustRemote](https://justremote.co/) | Remote Jobs That Fit Your Life. |
