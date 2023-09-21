@@ -3,6 +3,7 @@
 ## Angular 
 | Link | Description |
 | ---- | ----------- |
+| [Analog](https://analogjs.org/) | The fullstack Angular meta-framework |
 | [Angular Bad Practices](https://indepth.dev/angular-bad-practices-revisited/) | This article explores the patterns in Angular applications that make your code less readable and maintainable, like polluting the ngOnInit or writing useless directive selectors. |
 | [Angular Epic Spinners](https://hackafro.github.io/angular-epic-spinners/?s=09) | Reusable angular components for epic spinners. |
 | [Angular Material](https://material.angular.io/) | Material Design components for Angular. |
