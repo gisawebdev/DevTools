@@ -39,13 +39,12 @@
 | Link | Description |
 | ---- | ----------- |
 | [10 Most Important Meta Tags](https://www.searchenginejournal.com/important-tags-seo/156440/#close) | You Need to Know for SEO. |
-| [11 Useful NPM Packages Every Web Developer Should Know](https://www.developerupdates.com/blog/11-useful-npm-packages-every-web-developer-should-know) | 11 Useful NPM Packages Every Web Developer Should Know |
-| [Atajos NPM](https://diegochavez-dc.medium.com/configuraci%C3%B3n-personalizada-estableciendo-valores-por-defecto-al-iniciar-un-proyecto-con-npm-9695ececc483) | Configuración personalizada: Estableciendo valores por defecto al iniciar un proyecto con NPM |
-| [The problem with disabled buttons and what to do instead](https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/) | The problem with disabled buttons and what to do instead |
 | [10 Tips for Writing](https://icodemag.com/10-tips-for-writing-clean-and-scalable-javascript/) | Clean and Scalable JavaScript. |
+| [11 Useful NPM Packages Every Web Developer Should Know](https://www.developerupdates.com/blog/11-useful-npm-packages-every-web-developer-should-know) | 11 Useful NPM Packages Every Web Developer Should Know |
 | [13 Things](https://www.geeksforgeeks.org/13-things-you-should-know-before-you-enter-in-web-development/) | You Should Know Before You Enter In Web Development |
 | [6 Best practices](https://medium.com/streamelopers/6-buenas-pr%C3%A1cticas-para-el-manejo-de-tus-repositorios-en-github-ca31de446929) | for managing your repositories in Github. |
 | [Airbnb JavaScript](https://github.com/airbnb/javascript) | Style Guide. |
+| [Atajos NPM](https://diegochavez-dc.medium.com/configuraci%C3%B3n-personalizada-estableciendo-valores-por-defecto-al-iniciar-un-proyecto-con-npm-9695ececc483) | Configuración personalizada: Estableciendo valores por defecto al iniciar un proyecto con NPM |
 | [Best css svg loaders and spinners](https://codegeekz.com/best-css-svg-loaders-and-spinners/) | Best css svg loaders and spinners |
 | [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) | concepts adapted for JavaScript .|
 | [Color & Contrast](https://colorandcontrast.com/#/) | An interactive guide to color & contrast |
@@ -61,6 +60,7 @@
 | [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) | JavaScript Algorithms and Data Structures. |
 | [Multi Color text With CSS](https://codepen.io/TajShireen/full/YzZmbep) | Multi Color text With CSS. |
 | [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript) | The Algorithms - JavaScript. |
+| [The problem with disabled buttons and what to do instead](https://adamsilver.io/blog/the-problem-with-disabled-buttons-and-what-to-do-instead/) | The problem with disabled buttons and what to do instead |
 | [The Psychology of Design](https://growth.design/psychology/) | The Psychology of Design. |
 | [The Ultimate Javascript vs Dart Syntax Guide](https://medium.com/flutter-community/the-ultimate-javascript-vs-dart-syntax-guide-2f7d8ad8bde6) | The Ultimate Javascript vs Dart Syntax Guide. |
 | [webframe.xyz](https://webframe.xyz) | Discover and be inspired by beautiful webapp designs |
@@ -90,20 +90,20 @@
 ## Blogs
 | Link | Description |
 | ---- | ----------- |
+| [add-testing-to-vite](https://vuesome.dev/articles/add-testing-to-vite/)| add-testing-to-vite. |
 | [Aprende UX / UI](https://aprenderuxui.com)| Aprende UX / UI con lo que mi camino me ha enseñado Aprende los fundamentos de la usabilidad y del diseño web y de apps móviles y mejora tu capacidad como diseñador UX / UI o product designer con aquellas buenas prácticas que he adquirido con mi experiencia. |
 | [Carlosazaustre.es](https://carlosazaustre.es/blog)| Carlos Azaustre Blog. |
-| [rauno](https://rauno.me/)| rauno. |
+| [chrispennington](https://chrispennington.blog/web/) | chrispennington Blog. |
 | [Dev](https://dev.to/)| DEV Community |
 | [Developer cheatsheets](http://www.developer-cheatsheets.com)| Developer cheatsheets. |
-| [joshwcomeau](https://www.joshwcomeau.com/)| joshwcomeau |
 | [Eric The Coder](https://dev.to/ericchapman)| Businessman and blogger #Javascript, #Python and #PHP. My favorite frameworks/librairies are #React, #Laravel, and #Django. I am also a fan of #TailwindCSS. |
 | [FlavioCopes](https://flaviocopes.com/)| Flavio Copes Blog. |
-| [add-testing-to-vite](https://vuesome.dev/articles/add-testing-to-vite/)| add-testing-to-vite. |
 | [Gourav](https://gourav.io/) | Gourav Goyal Blog. |
-| [chrispennington](https://chrispennington.blog/web/) | chrispennington Blog. |
 | [Hashnode](https://hashnode.com/)| Everything you need to start blogging as a developer! |
+| [joshwcomeau](https://www.joshwcomeau.com/)| joshwcomeau |
 | [kentcdodds](https://kentcdodds.com/blog/)| Kent C. Dodds Blog. |
 | [Los Apuntes De Majo](https://losapuntesdemajo.vercel.app/)| Majo here! 👋🏻, realizo apuntes a mano sobre las tecnologías más utilizadas. |
+| [rauno](https://rauno.me/)| rauno. |
 | [Reed Barger](https://www.freecodecamp.org/news/author/reed/)| React developer who loves to make incredible apps. Showing you how at ReactBootcamp.com. |
 | [Te Lo Explico Con Gatitos](https://teloexplicocongatitos.com/)| Aprende conceptos de tecnología, programación y otras cosas, en español, gratis y ¡Explicados con gatitos! |
 ## Bundles
@@ -196,15 +196,14 @@
 | [Animate.css](https://animate.style/) | Just-add-water CSS animations. |
 | [animatedbackgrounds](https://animatedbackgrounds.me/) | animatedbackgrounds |
 | [AnimatiSS](https://xsgames.co/animatiss/) | Nice collection of CSS animations for your awesome web projects |
-| [uiverse](https://uiverse.io/) | Open-Source UI elements for any project |
 | [Animista.net](https://animista.net/play/basic/rotate-90) | Animista is a place where you can play with a collection of pre-made css animations, tweak them and get only those you will actually use. |
 | [AOS](https://michalsnik.github.io/aos/) | Animate On Scroll Library. |
-| [Charts CSS](https://chartscss.org/) | CSS data visualization framework. |
 | [Atomic CSS on Steroids](https://acss.io) | CSS FOR COMPONENT-BASED FRAMEWORKS |
 | [BootStrap](https://getbootstrap.com/) | Build fast, responsive sites with Bootstrap. |
 | [Box-shadow.dev](https://box-shadow.dev/) | Box shadows are fun. This is a web app to help you create awesome box shadows. |
 | [Bulma](https://bulma.io/) | Bulma: the modern CSS framework that just works. |
 | [Can I animate?](http://canianimate.com/) | “Can I animate?” is a site inspired by Can I use, but focused specifically on CSS animations and transitions. |
+| [Charts CSS](https://chartscss.org/) | CSS data visualization framework. |
 | [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/) | Beautiful pure CSS background patterns that you can actually use in your projects! |
 | [CSS Clip-path maker](https://bennettfeely.com/clippy/) | The clip-path property allows you to make complex shapes in CSS by clipping an element to a basic shape (circle, ellipse, polygon, or inset), or to an \ source. |
 | [Css Gradient](https://cssgradient.io/) | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites. |
@@ -245,8 +244,10 @@
 | [Primer CSS](https://primer.style/css/) | Highly reusable, flexible styles. |
 | [Pure.css](https://purecss.io/) | A set of small, responsive CSS modules that you can use in every web project. |
 | [Sass](https://sass-lang.com/) | Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. |
+| [selectors.info](https://selectors.info/) | selectors info. |
 | [Selectors](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) | The 30 CSS Selectors You Must Memorize |
 | [shadows.brumm.af](https://shadows.brumm.af) | shadows.brumm.af |
+| [Silicon CSS](https://silicon-css.com/) | 11kb classless CSS framework. |
 | [Skeleton.CSS](http://getskeleton.com/) | A dead simple, responsive boilerplate. |
 | [Smolcss](https://smolcss.dev/) | Minimal snippets for modern CSS layouts and components. |
 | [Smooth Shadow](https://shadows.brumm.af/) | Make a smooth shadow, friend. |
@@ -257,6 +258,7 @@
 | [UI Guideline](https://www.uiguideline.com/components) | The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems. |
 | [UI Verse](https://uiverse.io/) | Let's build a better web together. |
 | [UIkit](https://getuikit.com) | A lightweight and modular front-end framework for developing fast and powerful web interfaces. |
+| [uiverse](https://uiverse.io/) | Open-Source UI elements for any project |
 | [UnusedCSS - Remove Unused CSS](https://unused-css.com/?gclid=Cj0KCQjw-daUBhCIARIsALbkjSa2cV8FjxMhszReLIWKu8Gq5vo93b72EOmXarq2HHemb-2ii3-O3VgaAgnzEALw_wcB) | Easily Clean Up Your Unused CSS Rules. |
 | [Water.css](https://watercss.kognise.dev) | Water.css is a drop-in collection of CSS styles to make simple websites like this just a little bit nicer. |
 | [WebGradients](https://webgradients.com) | WebGradients is a free collection of 180 linear gradients that you can use ascontent backdrops in any part of your website. Easy copy CSS3 crossbrowser codeand use it in a moment! We've also prepared a .PNG version of each gradient. As a bonus, there are packs for Sketch & Photoshop. |
@@ -374,8 +376,10 @@
 | ---- | ----------- |
 | [Cloudflare Pages](https://pages.cloudflare.com) | Build fast sites. In record time. |
 | [Digital Ocean](https://www.digitalocean.com/) | Simplify your cloud. |
+| [FLY.io](https://fly.io/) | Bring your code, we'll handle the rest. |
 | [Heroku](https://www.heroku.com/) | Turn your company into an apps company. |
 | [Netlify](https://www.netlify.com/) | An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. |
+| [Railway](https://railway.app/) | Bring your code, we'll handle the rest. |
 | [Render](https://render.com) | Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git. |
 | [Surge](https://surge.sh/) | Static web publishing for Front-End Developers |
 | [Vercel](https://vercel.com/) | Vercel combines the best developer experience with an obsessive focus on end-user performance. Our platform enables frontend teams to do their best work. |
@@ -405,6 +409,7 @@
 | [Font Awesome](https://fontawesome.com/) | Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. |
 | [Glyphs](https://glyphs.fyi/) | The Mightiest Icons on the Web. |
 | [Heroicons](https://heroicons.dev/) | A set of 450+ free MIT-licensed high-quality SVG icons for you to use in your web projects. Available as basic SVG icons and via first-party React and Vue libraries. |
+| [Icon Buddy](https://iconbuddy.app/) | Download, Customize, Edit and Personalize.
 | [IconDuck](https://iconduck.com/) | 118,894 free open source icons & illustrations. |
 | [IconFinder](https://www.iconfinder.com/) | Search through 5,749,071 icons and illustrations. |
 | [IconMonstr](https://iconmonstr.com/) | Discover 4512+ free icons in 316 collections. |
@@ -414,9 +419,10 @@
 | [Lordicon](https://lordicon.com/) | Animated Icon Library. |
 | [Material Icons](https://material.io/resources/icons/?style=baseline) | Material Icons are available in five styles and a range of downloadable sizes and densities. The icons are based on the core Material Design principles and metrics. |
 | [Polaris icon](https://polaris-icons.shopify.com/) | Polaris icon explorer. |
+| [Tabler Icons](https://tabler-icons.io/) | Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful. |
 | [Tabler Icons](https://tablericons.com/) | 1424 Open source free SVG icons. Highly customizable. No attribution required. For commercial use. |
 | [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything. |
-| [Visiwig](https://www.visiwig.com/) | click + paste graphics that elevate your website and brand visuals. |
+| [Visiwig](https://www.visiwig.com/) | click + paste graphics that elevate your website and brand visuals. Over 180k+ open source icons. |
 
 ## Illustration
 | Link | Description |
@@ -451,13 +457,14 @@
 ## JavaScript 
 | Link | Description |
 | ---- | ----------- |
-| [Algolia Places](https://community.algolia.com/places/) | Turn any ```<input>``` into an address autocomplete. |
 | [aimless](https://chriscavs.github.io/aimless-demo/) | The missing JavaScript randomness library. |
+| [Algolia Places](https://community.algolia.com/places/) | Turn any ```<input>``` into an address autocomplete. |
 | [Alpine.js](https://alpinejs.dev) | Your new, lightweight, JavaScript framework. |
 | [Anime.js](https://animejs.com/) | JavaScript animation engine. |
 | [ApexCharts.js](https://apexcharts.com/) | Modern & Interactive Open-source Charts. |
 | [Atropos](https://atroposjs.com/?ref=producthunt) | Atropos is a lightweight, free and open-source JavaScript library to create stunning touch-friendly 3D parallax hover effects. Available for JavaScript, React and Vue.js |
 | [Audio.js](https://kolber.github.io/audiojs/) | audio.js is a drop-in javascript library that allows HTML5’s ```<audio>``` tag to be used anywhere. |
+| [auto-animate](https://auto-animate.formkit.com/) | Add motion to your apps with a single line of code. |
 | [Axios](https://github.com/axios/axios) | Promise based HTTP client for the browser and node.js |
 | [Bideo.js](https://rishabhp.github.io/bideo.js/) | A JS library that makes it super easy to add fullscreen background videos. |
 | [Cdnjs](https://cdnjs.com/) | Simple. Fast. Reliable. Content delivery at its finest. |
@@ -469,8 +476,10 @@
 | [Curso de JavaScript Avanzado para desarrolladores Front-end](https://github.com/Fictizia/Curso-JS-Avanzado-para-desarrolladores-Front-end_ed3/blob/master/teoria/clase17.md) | Curso de JavaScript Avanzado para desarrolladores Front-end |
 | [D3.js](https://d3js.org/) | D3.js is a JavaScript library for manipulating documents based on data. |
 | [Draggable](https://shopify.github.io/draggable/) | A lightweight, responsive, modern drag & drop library |
+| [Driver.js](https://driverjs.com/) | Product tours, highlights, contextual help and more. |
 | [Email.js](https://www.emailjs.com/) | Send Email Directly From JavaScript. 
 | [Embla Carousel](https://www.embla-carousel.com) | A lightweight carousel library with fluid motion and great swipe precision. |
+| [Faker js](https://fakerjs.dev/) | Generate massive amounts of fake (but realistic) data for testing and development. |
 | [Faker.js](https://github.com/marak/Faker.js/) | faker.js - generate massive amounts of fake data in the browser and node.js |
 | [Floating UI](https://floating-ui.com) | Floating UI is a low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, menus, and more. |
 | [Framework 7](https://framework7.io) | Build full featured iOS, Android & Desktop apps |
@@ -481,6 +490,7 @@
 | [Immer.js](https://github.com/immerjs/immer) | Create the next immutable state tree by simply modifying the current tree. |
 | [JavaScript Patterns](https://javascriptpatterns.vercel.app/patterns) | This website is related to the FrontendMasters workshop on JavaScript Patterns. |
 | [JavaScript Resources](https://www.java5cript.com/) | Free JavaScript Resources |
+| [JS Benchmark](https://jsbenchmark.com/) | JS Benchmark. |
 | [Learn JavaScript](https://learnjavascript.online/?utm_source=react-tutorial.app) | The easiest way to  learn  &  practice  modern JavaScript. |
 | [Loaders](https://uiball.com/loaders/) | Free loaders & spinners for your next project. Built with HTML, CSS and a soupçon of SVG. |
 | [Luxon](https://moment.github.io/luxon/#/) | A powerful, modern, and friendly wrapper for JavaScript dates and times. |
@@ -590,18 +600,15 @@
 ## Package Manager
 | Link | Description |
 | ---- | ----------- |
+| [Bun](https://bun.sh/) | Develop, test, run, and bundle JavaScript & TypeScript projects—all with Bun. Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager. |
 | [NPM](https://www.npmjs.com/) | Build amazing things. |
+| [PNPM](https://pnpm.io/es/) | Fast, disk space efficient package manager. |
 | [Yarn](https://yarnpkg.com/) | Safe, stable, reproducible project |
 ## Pages
 | Link | Description |
 | ---- | ----------- |
 | [10 Minute Mail](https://10minutemail.com/) | Free Temporary Email. |
-| [web containers](https://webcontainers.io/) | Dev environments.
-In your web app. |
-| [Aprendiendo React ⚛️](https://github.com/midudev/aprendiendo-react?tab=readme-ov-file) | Curso para aprender React desde cero |
-| [Design patterns for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) | An ultra-simplified explanation of design patterns implemented in javascript |
-| [Data Structures & Algorithms](https://kirupa.com/data_structures_algorithms/#) | Want to be a coding ninja and slash your way through complex programming problems? Well, learning about data structures and algorithms is your secret weapon, and the articles here will get you all set up! |
-| [Emoji Kitchen](https://emoji.supply/kitchen/) | Create emojis. |
+| [157 DevTools Tips](https://devtoolstips.org/) | 157 DevTools Tips. |
 | [30 seconds of code](https://www.30secondsofcode.org/) | 30 seconds of code |
 | [AccountKiller](https://www.accountkiller.com/en/home) | Want to ditch your online account? Shouldn’t be a problem, right? Unfortunately, on many websites, including popular ones like Facebook, deleting your account can be a real pain. |
 | [Alternativeto](https://alternativeto.net/) | 100,554 apps 818,870 likes 806,075 opinions about alternatives. |
@@ -609,8 +616,10 @@ In your web app. |
 | [Answer Socrates](https://answersocrates.com/) | You have answers. We have questions. |
 | [Apption](https://apption.co/) | Find & Learn Notion friendly Embeddable Widget Apps |
 | [AprendeNotion](https://aprendenotion.com/) | Notion para la vida real. |
+| [Aprendiendo React ⚛️](https://github.com/midudev/aprendiendo-react?tab=readme-ov-file) | Curso para aprender React desde cero |
 | [Awesome Web Development Resources](https://github.com/markodenic/web-development-resources) | This is an awesome project about Web Development resources.  |
 | [AWS Device Farm](https://aws.amazon.com/device-farm/) | Improve the quality of your web and mobile applications by testing across desktop browsers and real mobile devices hosted in the AWS Cloud |
+| [Bento](https://bento.me/en/home) | A Link in Bio. But Rich and Beautiful. |
 | [Biolinky.co](https://biolinky.co/landing?ref=p_uxbs) | One Link. For Everything. |
 | [BrowserStack](https://www.browserstack.com/) | App & Browser Testing Made Easy. |
 | [Build Redux](https://buildredux.com/) | We Build PCs For Gamers. |
@@ -619,12 +628,15 @@ In your web app. |
 | [Component party](https://component-party.dev) | Many JS developers don't have a good overview of every existing JS framework with their own syntax and features. How do we solve this ? Developers love having framework overview by examples. It's a quick introduction before going deeper. |
 | [Convert JSON](https://quicktype.io/) | Convert JSON into gorgeous, typesafe code in any language. |
 | [Cybrary](https://www.cybrary.it/) | The Leading Cybersecurity Professional Development Platform |
+| [Data Structures & Algorithms](https://kirupa.com/data_structures_algorithms/#) | Want to be a coding ninja and slash your way through complex programming problems? Well, learning about data structures and algorithms is your secret weapon, and the articles here will get you all set up! |
 | [Deepl](https://www.deepl.com/es/translator) | Millions translate with DeepL every day. |
+| [Design patterns for humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) | An ultra-simplified explanation of design patterns implemented in javascript |
 | [Dev Resources ES](https://devresourc.es/) | Dev Resources |
 | [Device Shots](https://deviceshots.com/) | Create device mockups in seconds! |
 | [Downdetector](https://downdetector.com/) | Real-time problem & outage monitoring |
 | [El Camino del FrontEnd Developer](https://github.com/mrcodedev/frontend-developer-resources/) | Lista de recursos para ayudarte en tu camino a ser Frontend Developer o aprender nuevas cosas |
 | [Emaze](https://www.emaze.com/) | Build Amazing Digital Presentations Automatically |
+| [Emoji Kitchen](https://emoji.supply/kitchen/) | Create emojis. |
 | [EmojiFinder](https://emojifinder.com/) | Type a word like love or yeah or music and we’ll show you matching emoji. |
 | [Exercism](https://exercism.io/) | Get really good at programming. |
 | [Front End Interview Handbook](https://www.frontendinterviewhandbook.com) | Front end interview preparation materials for busy engineers - trivias, coding, algorithms, front end system design and more! |
@@ -662,6 +674,7 @@ In your web app. |
 | [Pollylingu](https://pollylingu.al/) | Polly Lingual |
 | [Presentation Maker](https://www.beautiful.ai/) | The first presentation maker that designs for you. |
 | [Programming Fonts](https://www.programmingfonts.org/) | ProgrammingFonts.org makes it easier to find monospaced fonts. All fonts in one place, with proper credits towards the creators. It's not a download portal, we don't track anything, it's strictly by nerds and designers for nerds and designers. |
+| [PROJECT 365](https://project365.design/) | 365 Days of Design! |
 | [Que Estudiar](https://www.queestudiar.org/) | Que Estudiar |
 | [Recursos Cósmicos](https://recursoscosmicos.com/) | Recursos Cósmicos |
 | [Refactoring Guru](https://refactoring.guru/) | Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics. |
@@ -689,6 +702,7 @@ In your web app. |
 | [Vocal Remover](https://vocalremover.org/es/) | Vocal Remover and Isolation Separate voice from music out of a song free with powerful AI algorithms |
 | [VS Code Themes](https://vscodethemes.com/) | Preview themes from the VSCode marketplace. Check out the annoucement post. |
 | [Wdflat](https://wdflat.com/) | Free designs for streamers |
+| [web containers](https://webcontainers.io/) | Dev environments. In your web app. |
 | [web-skills](https://andreasbm.github.io/web-skills/?compact) | A visual overview of useful skills to learn as a web developer |
 | [web.dev](https://web.dev) | Building a better web, together Google believes in an open, accessible, private, and secure web. We want to help developers take advantage of the latest modern technologies to build amazing user experiences for everyone. |
 | [WebComponents](https://www.webcomponents.org/) | Web components are a set of web platform APIs that allow you to create new custom, reusable, encapsulated HTML tags to use in web pages and web apps. |
@@ -743,6 +757,7 @@ In your web app. |
 | ---- | ----------- |
 | [Anaconda](https://www.anaconda.com/) | A movement that brings together millions of data science practitioners, data-driven enterprises, and the open source community. |
 | [Django](https://www.djangoproject.com/) | Django makes it easier to build better web apps more quickly and with less code. |
+| [El Libro De Python](https://ellibrodepython.com/) | un espacio en el que podrás aprender y consultar dudas acerca del lenguaje de programación Python. |
 | [Flask](https://palletsprojects.com/p/flask/) | Flask is a lightweight WSGI web application framework. |
 | [Python](https://www.python.org/) | Python is a programming language that lets you work quickly and integrate systems more effectively. |
 
@@ -758,8 +773,6 @@ In your web app. |
 | Link | Description |
 | ---- | ----------- |
 | [⌘K](https://cmdk.paco.me/) | Fast, composable, unstyled command menu for React. |
-| [prismane](https://www.prismane.io/) | Build exceptional React apps with blazing speed. |
-| [Tremor](https://www.tremor.so/) | The React library to build dashboards fast. |
 | [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React) | Congratulations on deciding to participate in 30 days of React programming challenge. |
 | [45 NPM Packages](https://javascript.plainenglish.io/45-npm-packages-to-solve-16-react-problems-a9ab18946224) | 45 NPM Packages to Solve 16 React Problems |
 | [Absolutely Awesome React Components & Libraries](https://github.com/brillout/awesome-react-components) | Absolutely Awesome React Components & Libraries |
@@ -785,6 +798,7 @@ In your web app. |
 | [Nextjs](https://nextjs.org/) | The React Framework for Production |
 | [Pose](https://popmotion.io/pose/) | A truly simple animation library for React, React Native, and Vue. |
 | [PrimeReact](https://www.primefaces.org/primereact/) | The ultimate collection of design-agnostic, flexible and accessible React UI Components. |
+| [prismane](https://www.prismane.io/) | Build exceptional React apps with blazing speed. |
 | [React Animations](https://github.com/FormidableLabs/react-animations) | A collection of animations that can be used with any inline style library that supports using objects to define keyframe animations, such as Radium or Aphrodite. React-animations implements all animations from animate.css. |
 | [React Anime](https://www.npmjs.com/package/react-anime) | A super easy animation library for React built on top of Julian Garnier's. |
 | [React Bootstrap](https://react-bootstrap.github.io/) | The most popular front-end framework Rebuilt for React. |
@@ -833,6 +847,7 @@ In your web app. |
 | [Redux](https://redux.js.org/) | A Predictable State Container for JS Apps. |
 | [Reed Barger](https://reedbarger.com/) | Reed Barger Blog. |
 | [TanStack Table](https://tanstack.com/table/v8/?from=reactTableV7&original=https://react-table-v7.tanstack.com/) | Headless UI for building powerful tables & datagrids |
+| [Tremor](https://www.tremor.so/) | The React library to build dashboards fast. |
 | [useAnimations](https://useanimations.com/) | Animated icons in Lottie Framework for immediate implementation to your apps or websites. |
 | [usehooks-typescript](https://usehooks-typescript.com/) | useHooks(🔥).ts Simple React hooks, ready to use, written in typescript. |
 | [useHooks](https://usehooks.com/) | Easy to understand React Hook recipes by ui.dev |
@@ -880,9 +895,12 @@ In your web app. |
 | [React Native Webview](https://github.com/react-native-webview/react-native-webview) | React Native WebView is a modern, well-supported, and cross-platform WebView for React Native. It is intended to be a replacement for the built-in WebView (which will be removed from core). |
 | [React Native](https://reactnative.dev/) | Learn once, write anywhere. |
 | [React Navigation](https://reactnavigation.org/) | Routing and navigation for Expo and React Native apps. |
+| [react-native-circular-progress](https://www.npmjs.com/package/react-native-circular-progress) | React Native component for creating animated, circular progress. Useful for displaying users points for example. |
+| [rnmapbox](https://github.com/rnmapbox/maps) | A community-supported, open-source React Native library for building maps with the Mapbox Maps SDK for iOS and Mapbox Maps SDK for Android |
 | [RNUILib](https://wix.github.io/react-native-ui-lib/) | RNUI is a UI Toolset & Components Library for React Native |
 | [Safeareaview for android notch devices](https://stackoverflow.com/questions/51289587/how-to-use-safeareaview-for-android-notch-devices) | Safeareaview for android notch devices. |
 | [Tailwind React Native Classnames](https://www.npmjs.com/package/twrnc) | A simple, expressive API for TailwindCSS + React Native, written in TypeScript.|
+| [Tamagui](https://tamagui.dev/) | Write less, runs faster. |
 | [The best React Native libraries for leveraging native features](https://blog.logrocket.com/the-best-react-native-libraries-for-leveraging-native-features/) | The best React Native libraries for leveraging native features. |
 | [Using Material UI in React Native](https://blog.logrocket.com/using-material-ui-in-react-native/) | Using Material UI in React Native. |
 | [VICTORY](https://formidable.com/open-source/victory/) | React.js components for modular charting and data visualization. |
@@ -910,10 +928,10 @@ In your web app. |
 | Link | Description |
 | ---- | ----------- |
 | [Generate smooth animated blobs](https://blobanimation.com) | Generate smooth animated blobs. |
-| [SVG Path Animation Generator Online](https://www.svgator.com/svg-path-animation) | Create a path animation in a drag and drop interface and bring your SVG to life within seconds. |
 | [Generate SVG Waves 🌊](https://svgwave.in/) | SVG Wave is a tiny, free and beautiful gradient SVG waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications. |
 | [SVG Artista](https://svgartista.net/) | Super handy SVG drawing animation tool. |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) | Customize and apply backgrounds fast. |
+| [SVG Path Animation Generator Online](https://www.svgator.com/svg-path-animation) | Create a path animation in a drag and drop interface and bring your SVG to life within seconds. |
 | [SVG repo](https://www.svgrepo.com/) | 400.000+ Open Licensed SVG Vector and Icons |
 | [Svg Viewer](https://www.svgviewer.dev) | svg viewer. |
 | [svgl](https://svgl.vercel.app/) | a beautiful library with SVG logos |
@@ -923,8 +941,6 @@ In your web app. |
 ## Tailwind
 | Link | Description |
 | ---- | ----------- |
-| [UI shadcn](https://ui.shadcn.com/docs) | Beautifully designed components built with Radix UI and Tailwind CSS. |
-| [Tailwindcss Animated](https://www.tailwindcss-animated.com/) | Build your custom animations with ease. |
 | [Daisy UI](https://daisyui.com/) | The most popular, free and open-source Tailwind CSS component library. |
 | [Flowbite](https://flowbite.com) | Build websites even faster with components on top of Tailwind CSS |
 | [Gradient Generator](https://hypercolor.dev/generator) | Create your own Tailwind CSS gradient with the full Tailwind CSS color library and the extended radial and conic gradient options provided through Hypercolor. |
@@ -941,7 +957,9 @@ In your web app. |
 | [Tailwind Toolbox](https://www.tailwindtoolbox.com/) | Free Tailwind CSS Templates, Components and Resources. |
 | [TailWind](https://tailwindcss.com/) | Rapidly build modern websites without ever leaving your HTML. |
 | [TailWindComponents](https://tailwindcomponents.com/) | A free repository for community components using TailwindCSS |
+| [Tailwindcss Animated](https://www.tailwindcss-animated.com/) | Build your custom animations with ease. |
 | [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons) | A unique collection of Copy & Paste TailwindCSS buttons 🙌. |
+| [UI shadcn](https://ui.shadcn.com/docs) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 
 ## Testing
 | Link | Description |
@@ -957,22 +975,6 @@ In your web app. |
 | Link | Description |
 | ---- | ----------- |
 | [10015](https://10015.io/) | All Online Tools in “One Box”. |
-| [pkg-size](https://pkg-size.dev/) | Find the true size of an npm package |
-| [Design Resources](https://designresourc.es/) | Design Resources |
-| [codewell](https://www.codewell.cc/) | Improve your HTML and CSS skills by practicing on real design templates. |
-| [Toools.design](https://www.toools.design/) | Discover highly useful Design Resources & Tools |
-| [thegoodlineheight](https://thegoodlineheight.com/) | thegoodlineheight |
-| [lite-youtube](https://github.com/justinribeiro/lite-youtube) | The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed. |
-| [Gamepad Tester and Debugger](https://hardwaretester.com/gamepad) | Gamepad Tester and Debugger |
-| [component.gallery](https://component.gallery/) | Designed to be a reference for anyone building component-based user interfaces, The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems. |
-| [screenlane](https://screenlane.com/) | screenlane |
-| [UI Skeleton Gallery](https://www.brandbird.app/tools/ui-skeleton-gallery) | A free customizable collection of SVG skeleton loader UI elements for design wireframes & mockups. |
-| [Prepros](https://prepros.io/) | Your Friendly Web Development Companion |
-| [lightest.app](https://lightest.app/) | Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors. |
-| [letsview](https://letsview.com/) | LetsView is an intelligent digital platform for interaction across multiple screens and platforms. |
-| [Chalk](https://www.npmjs.com/package/chalk) | Terminal string styling done right. |
-| [speedtest](https://www.npmjs.com/package/speedtest-net) | The whole speed test runs automatically, but a lot of events are available to get more info than you need. |
-| [Ora](https://www.npmjs.com/package/ora) | Elegant terminal spinner. |
 | [A List Apart](https://alistapart.com/) | Design for Safety, An Excerpt. |
 | [Adobe Podcast](https://podcast.adobe.com/) | AI-powered audio recording and editing, all on the web |
 | [Artista Pirata](https://www.artistapirata.com) | Artista Pirata |
@@ -985,11 +987,15 @@ In your web app. |
 | [Button Contrast Checker](https://www.aditus.io/button-contrast-checker/) |Enter your domain and we test if your buttons have enough contrast and are compliant with WCAG 2.1. |
 | [Can I Email](https://www.caniemail.com) | Can I Email |
 | [Can I Use](https://caniuse.com/) | Can I Use |
+| [Chalk](https://www.npmjs.com/package/chalk) | Terminal string styling done right. |
 | [ChatGPT](https://beta.openai.com/playground) | ChatGPT |
 | [Checklist Design](https://www.checklist.design) | A collection of the best design practices. |
 | [Choose an open source license](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection. |
 | [CleanMock](https://cleanmock.com/) | CleanMock |
+| [codewell](https://www.codewell.cc/) | Improve your HTML and CSS skills by practicing on real design templates. |
+| [component.gallery](https://component.gallery/) | Designed to be a reference for anyone building component-based user interfaces, The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems. |
 | [csswizardry](https://github.com/csswizardry/ct) | 🧠 ct.css – Let’s take a look inside your <head> |
+| [Design Resources](https://designresourc.es/) | Design Resources |
 | [Devtooly](https://devtooly.com) | Frontend Developer tools, all-in-one place! |
 | [Easy Edit Utility](https://davidhdev.github.io/easy-edit/) | Drag the link below to your bookmarks bar and use it on any web page! |
 | [Fancy Text Decorator](https://fancytextdecorator.com/) | Generate cute, beatiful and cool text what can be used on Whatsapp, Instagram, Twitter, Youtube, Discord and all social media accounts! |
@@ -997,6 +1003,8 @@ In your web app. |
 | [First Aid Git](https://firstaidgit.io/#/) | A searchable collection of the most frequently asked Git questions. |
 | [Fontjoy](https://fontjoy.com) | Font vectors are a form of transfer learning that can be used to create novel font combinations. |
 | [Fonty.io](https://fonty.io/) | Enter a website URL and our tool will analyze the fonts used on the site and display them for you to view. This can be useful for web designers and developers looking to learn more about the typography used on a specific website. |
+| [Free For Dev](https://free-for.dev/#/) | Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions. |
+| [Gamepad Tester and Debugger](https://hardwaretester.com/gamepad) | Gamepad Tester and Debugger |
 | [Gitmoji](https://gitmoji.dev/) | An emoji guide for your commit messages. |
 | [gridzzly](http://gridzzly.com) | Make your own grid paper with Gridzzly |
 | [Hashtag Generator](https://hashtagstack.com/) | Trusted by more than 500,000 Influencers, Agencies, Brands and Creators. Hashtag Stack is the best Instagram HASHTAG GENERATOR. We offer Advanced analytics, Hashtags Collections, and it's FREE! |
@@ -1004,7 +1012,11 @@ In your web app. |
 | [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) | How Secure Is My Password? |
 | [Image Extractor](https://extract.pics/) | From any public website by using a virtual browser |
 | [Inpaint](https://theinpaint.com) | Magically Remove Objects From Your Photos Online! |
+| [JSON Data AI](https://www.jsondataai.com/) | Get JSON data about anything depending on your prompt. Define your structure, list results. |
+| [letsview](https://letsview.com/) | LetsView is an intelligent digital platform for interaction across multiple screens and platforms. |
+| [lightest.app](https://lightest.app/) | Webpage load time is extremely important for conversion and revenue. Visualize web performance against competitors. |
 | [Link-to-qr](https://link-to-qr.com/) | link-to-qr.com |
+| [lite-youtube](https://github.com/justinribeiro/lite-youtube) | The fastest little YouTube web component on this side of the internet. The shadow dom web component version of Paul's lite-youtube-embed. |
 | [Local PDF Tools](https://localpdf.tech/) | Local PDF uses Webassembly to edit your PDFs inside your Browser. |
 | [LogoTester](https://logotester.thework.market/) | Instantly check if your logo is up to the top industry standards. |
 | [Magic Pattern](https://www.magicpattern.design/) | Beautiful Graphics With 10+ Tools. Instantly & Effortless! |
@@ -1013,6 +1025,7 @@ In your web app. |
 | [Microsoft PC Manager](https://pcmanager-en.microsoft.com/) | Safeguard your PC in a quiet and reliable way |
 | [mintlify](https://mintlify.com/) | Beautiful documentation that converts users |
 | [Mitosis](https://mitosis.builder.io/?outputTab=G4VwpkA%3D) | Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more. |
+| [mjml](https://mjml.io/) | The only framework that makes responsive email easy |
 | [Mobbin](https://mobbin.design/) | Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots. |
 | [Mock Magic](https://www.mockmagic.com/) | Create device mockups in seconds. |
 | [Mockaroo](https://www.mockaroo.com/) | Data Fake Generator. |
@@ -1022,7 +1035,10 @@ In your web app. |
 | [Npkill](https://www.npmjs.com/package/npkill) | This tool allows you to list any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space. Yay! |
 | [Omatsuri](https://omatsuri.app/) | Open source browser tools for everyday use. |
 | [Open Source Alternative To](https://www.opensourcealternative.to/) | Discover 400+ popular open source alternatives to your proprietary SaaS |
+| [Ora](https://www.npmjs.com/package/ora) | Elegant terminal spinner. |
 | [Otter](https://otter.ai/) | Capture and share insights from your meetings |
+| [pkg-size](https://pkg-size.dev/) | Find the true size of an npm package |
+| [Prepros](https://prepros.io/) | Your Friendly Web Development Companion |
 | [Profile Pic Maker](https://pfpmaker.com/) | Create an awesome profile picture for free |
 | [Profile Pic Maker](https://pfpmaker.com/) | Make an awesome profile picture from any photo. |
 | [QR Generator wifi](https://qrcode.tec-it.com/es/wifi) | QR Generator wifi. |
@@ -1033,6 +1049,7 @@ In your web app. |
 | [Responsively](https://responsively.app/) | A must-have DevTool for all Front-End developers that will make your job easier. |
 | [Robo Mongo](https://robomongo.org/) | A modern, robust and community-driven MongoDB management tool. |
 | [Rosebud](https://rosebud.io) | transfer the style of an image into another |
+| [screenlane](https://screenlane.com/) | screenlane |
 | [ScreenSizes](https://www.screensizes.app/) | ScreenSizes |
 | [ScreenToGif](https://www.screentogif.com/) | Screen, webcam and sketchboard recorder with an integrated editor. |
 | [Servør](https://github.com/lukejacksonn/servor#readme) |A dependency free dev server for modern web application development |
@@ -1041,22 +1058,28 @@ In your web app. |
 | [ShortlyAI](https://sohid.online/best-shortlyai-alternative/) | Shortly AI is a software tool that will benefit people involved in blogging as you can use it to write content ranging from blog posts, sales copies, and books, among others. But recently, Shortly has been acquired by Conversion.ai. So, we picked 3 ai writers. |
 | [ShotSnapp](https://shotsnapp.com/) | Create beautiful device mockup images for your app or website design. Share it everywhere. |
 | [Sizzy](https://sizzy.co/) | The browser for web developers |
+| [speedtest](https://www.npmjs.com/package/speedtest-net) | The whole speed test runs automatically, but a lot of events are available to get more info than you need. |
 | [Spline Design](https://spline.design) | Spline, a place to design and collaborate in 3D. |
 | [Squircley](https://squircley.app) | Looking to add some premium squircley goodness to add to your designs? Squircley is all you need to start creating beautiful organic shapes ready to use for logos, icons and background images. |
 | [Squoosh](https://squoosh.app) | Squoosh is an image compression web app that reduces image sizes through numerous formats. |
 | [Studio Polotno](https://studio.polotno.com/) | Design Editor made with Polotno SDK. There is nothing super interesting in the repo yet, because all editor features are inside polotno package. But soon we will have much more addition features around polotno sdk. |
+| [thegoodlineheight](https://thegoodlineheight.com/) | thegoodlineheight |
 | [TinyWow](https://tinywow.com/) | Our Most Popular Tools |
 | [Tomas Notion](https://tomasnotion.typedream.app/) | Notion template. |
 | [Toolb.dev](https://www.toolb.dev/) | 50+ CSS, HTML and JS tools and more coming in the future! |
+| [Toools.design](https://www.toools.design/) | Discover highly useful Design Resources & Tools |
+| [trace](https://www.trace.zip/) | Discover,Create and Share beautiful Swift UI Components |
 | [Transform](https://transform.tools) | Transform |
 | [Twinkle Tray](https://apps.microsoft.com/store/detail/twinkle-tray-brightness-slider/9PLJWWSV01LK?hl=en-us&gl=us) | Twinkle Tray lets you easily manage the brightness levels of multiple monitors. Even though Windows 10 & 11 are capable of adjusting the backlight on most monitors, it typically doesn't support external monitors. Windows also lacks any ability to manage the brightness of multiple monitors.  |
 | [Type Anything](https://app.typeanything.io) | Type Anything – Test & create the perfect typography combinations. |
 | [Type Scale](https://type-scale.com/) | Type Scale. |
+| [UI Skeleton Gallery](https://www.brandbird.app/tools/ui-skeleton-gallery) | A free customizable collection of SVG skeleton loader UI elements for design wireframes & mockups. |
 | [unavatar](https://unavatar.io/) | The service will determinate the user avatar querying multiple social providers and serve it to you. |
 | [UnScreen](https://www.unscreen.com/) | Remove Video Background. |
 | [watermark](https://watermark.ws/) | Watermark Files Online |
 | [WatermarkRemover](https://www.watermarkremover.io/es) | Elimina las Marcas de Agua de tus Imágenes GRATIS |
 | [Web Code Tools](https://webcode.tools) | Welcome to Web Code Tools; the best tools for web developers. Here, you’ll find code generators to help you with your front-end web projects. If you don't see something that you wish was here, send me an email and I'll do my best to create a tool for you.  |
+| [Web Frameworks Benchmark](https://web-frameworks-benchmark.netlify.app/) | This website shows frameworks benchmark data run by The Benchmarker. |
 | [WolframAlpha](https://www.wolframalpha.com/) | Calcule respuestas de nivel experto usando los algoritmos, base de conocimiento y tecnología de inteligencia artificial de Wolfram |
 | [Yandex](https://yandex.com) | search photos. |
 | [Zeal](https://zealdocs.org) | Zeal is an offline documentation browser for software developers. |
