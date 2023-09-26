@@ -348,6 +348,7 @@
 | [Flutter](https://flutter.dev/) | Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase. |
 | [Flutter Awesome](https://flutterawesome.com/) | Flutter Awesome |
 | [Pub](https://pub.dev/) | The official package repository for Dart and Flutter apps. |
+| [Zapp](https://zapp.run/) | Zapp! is a free online sandbox environment for building & sharing Dart & Flutter applications, supporting all pub.dev packages, static analysis , embedding, previewing and much more. |
 
 ## Games
 | Link | Description |
