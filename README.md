@@ -609,6 +609,8 @@
 ## Pages
 | Link | Description |
 | ---- | ----------- |
+| [Yarn](https://getyarn.io/) | Search by word or phrase for TV, movies, and music clips |
+| [Awwwards](https://www.awwwards.com/) | Inspirate. |
 | [10 Minute Mail](https://10minutemail.com/) | Free Temporary Email. |
 | [157 DevTools Tips](https://devtoolstips.org/) | 157 DevTools Tips. |
 | [30 seconds of code](https://www.30secondsofcode.org/) | 30 seconds of code |
