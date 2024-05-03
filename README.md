@@ -299,6 +299,7 @@
 | Link | Description |
 | ---- | ----------- |
 | [Draw.io](https://www.draw.io/) | draw.io is proprietary software for making diagrams and charts. |
+| [Excalidraw](https://excalidraw.com/) | An open source virtual hand-drawn style whiteboard. Collaborative and end-to-end encrypted. |
 
 ## Documentation
 | Link | Description |
@@ -339,7 +340,7 @@
 | [PREACT](https://preactjs.com) | Fast 3kB alternative to React with the same modern API. |
 | [Redwood](https://redwoodjs.com) | Redwood is the open source, full-stack web framework designed to help you grow from side project to startup. |
 | [Solid JS](https://www.solidjs.com) | Simple and performant reactivity for building user interfaces. |
-| [Tauri](https://tauri.studio) | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| [Tauri](https://tauri.app/) | Build smaller, faster, and more secure desktop applications with a web frontend. |
 
 ## Flutter
 | Link | Description |
